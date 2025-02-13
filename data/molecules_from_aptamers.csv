@@ -1,0 +1,1118 @@
+,content,name,type,representation_type
+0,(C)C)N,unknown,Small_molecule,smiles
+1,"(C)C)NCCN1C CN(C[C@@H]1
+C)c1ccc2c(c1)oc (=O)c(c2)c1cn2 c(n1)c(C)nc(c2) C",d_2,Small_molecule,smiles
+2,"(C1)N)O)OCCC
+c1cn(nn1)Cc1cc cc(Cn2cc(nn2)C CCO[C@H]2[C
+@@H] (C[C@@H] ([C@@H](O)
+[C@H]2O)N)N) c1)",unknown,Small_molecule,smiles
+3,"(C3=CN4C=C( C)N=C(C)C4=N 3)C(=O)OC2=C
+1",unknown,Small_molecule,smiles
+4,(NCC[NH3+])C 2=C1C(=O)C1= CC=CC=C1C2= O,unknown,Small_molecule,smiles
+5,(O3)CN)O)O)N) N,unknown,Small_molecule,smiles
+6,"([O-])OC(C)CN C(=O)CCC4(C(
+C5C6(C(C(C(=
+N6)C(=C7C(C( C(=N7)C=C8C( C(C(=N8)C(=C 4[N-]5)C)CCC(
+=O)N) (C)C)CCC(=O) N) (C)CC(=O)N)C) CCC(=O)N) (C)CC(=O)N)C)
+CC(=O)N)C)O.
+[C-]#N.[Co+",unknown,Small_molecule,smiles
+7,"(nc3CC)cccc4)C (=O)N[C@@H]
+(C(=O)NCCCN) CCCCN)CCC1)
+cc",unknown,Small_molecule,smiles
+8,)N)c1CC)cccc,unknown,Small_molecule,smiles
+9,")O)N=C(N)N)O
+C3C(C(C(C(O3)
+CO)O)O)NC) (C=O",unknown,Small_molecule,smiles
+10,,unknown,Small_molecule,smiles
+11,"=C2)[C@@H] (O[C@@H]2[C
+@@H]1c1c(C2
+=O)cc2c(c1)ccc c2)O[C@@H]1[ C@H] ([C@@H] ([C@H]([C@H]
+(O1)CO)O)O",erivative_2,Small_molecule,smiles
+12,AKTALQVPLPHPMQMNALGGYSPASTCNGYGRMGLHQEKLPSDLDGMFIERLDCDMESIIRNDLMDGDTLDFNFDNVLPNQSFPHSVKTTTHSWVS,Foxo1,protein,sequence
+13,AKVLVVLLLFAGVDAETHVTGGSAAHAASTFAGLFSPGAKQDIQLINTNGSWHINRT,HCV_E2_glycoprotein,protein,sequence
+14,ASFTCLAIWASAGVVPLVLKEQTIQVPGLNITTCHDVLNETLLEGYYAYYFSAFSAAFFFVPVIISTVCYVSIIRCLSSSAVANRSKK,Human_Thrombin,protein,sequence
+15,C(=O)(N)N,Urea,Small_molecule,smiles
+16,C(C(=O)N),Fluoroacetamide,Small_molecule,smiles
+17,C(C(C(=O)O)N,Cysteine ,Small_molecule,smiles
+18,C(C(C1C(=C(C(=O)O1)O)O)O,L-ascorbic acid,Small_molecule,smiles
+19,C(CC(=O)O)C(C(=O)O,glutamic acid,Small_molecule,smiles
+20,C(CC(C(=O)O)N)CN=C(N),L-arginine,Small_molecule,smiles
+21,"C(CN1C=C(CN C2=C3C=CC=C C3=[NH+]C3=C 2OC2=C3C=CC
+=C2)N=N1)C[N H+]1CCCCC1",Quindoline CK1- 14,Small_molecule,smiles
+22,C(CN1C=C(CNC2=C3C=CC=CC3=[NH+]C3=C2OC2=C3C=CC=C2)N=N1)C[NH+]1CCCCC,Quindoline CK1-14,Small_molecule,smiles
+23,C(CO)N,ethanolamine,Small_molecule,smiles
+24,C(CS)C(C(=O)O)N,L-Homocysteine,Small_molecule,smiles
+25,C(C[C@@H](C(=O)O)N)CN=C(N)N,L-arginine,Small_molecule,smiles
+26,C(O4)CN)O)O) N)O)O,unknown,Small_molecule,smiles
+27,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O,Vitamin C,Small_molecule,smiles
+28,"C/C/1=C/2\ [C@@] ([C@@H] (C(=N2)/C=C\3/ C([C@@H]
+(C(=N3)/C(=C\
+4/[C@]([C@H]
+(C([N-]4)
+[C@]5([C@@] ([C@@H] (C1=N5)CCC(= O)N) (C)CC(=O)N)C) CC(=O)N)
+(C)CCC(=O)NC
+C(C)O)/
+C)CCC(=O)N)
+(C)C)CCC(=O)
+N)(C)CC(=O)N.
+[C-]#N.[C-]#",cobinamide dicyanide,Small_molecule,smiles
+29,"C/C/1=C/2\ [C@@] ([C@@H] (C(=N2)/C=C\3/ C([C@@H]
+(C(=N3)/C(=C\
+4/[C@]([C@H]
+(C([N-]4)
+[C@]5([C@@] ([C@@H] (C1=N5)CCC(= O)N) (C)CC(=O)N)C) CC(=O)N)
+(C)CCC(=O)NC
+C(C)O)/
+C)CCC(=O)N)
+(C)C)CCC(=O)
+N)(C)CC(=O)N.
+[C-]#N.[C-]#N. [Co",cobinamide dicyanide,Small_molecule,smiles
+30,C/C/1=C/2\[C@@]([C@@H](C(=N2)/C=C\3/C([C@@H](C(=N3)/C(=C\4/[C@]([C@H](C([N-]4)[C@]5([C@@]([C@@H](C1=N5)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)(C)CCC(=O)NCC(C)O)/C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N.[C-]#N.[C-]#N.[C,cobinamide dicyanide,Small_molecule,smiles
+31,C1(=NC(=NC(=N1)N)N,Melamine,Small_molecule,smiles
+32,"C1(=O)O[C@H
+]([C@H] (N1)CN1CCN(
+CC1)c1ccccc1) COC(=O)Cc1cc
+ccc1",racemic_oxazoli dinones,Small_molecule,smiles
+33,"C1(=O)O[C@H
+]([C@H] (N1)CN1CCN(
+CC1)c1ccccc1) COC(=O)Nc1cc c(cc1)C(=O",racemic_oxazoli dinones_2,Small_molecule,smiles
+34,C1(=O)O[C@H]([C@H](N1)CN1CCN(CC1)c1ccccc1)COC(=O)Cc1ccccc,racemic_oxazolidinones,Small_molecule,smiles
+35,C1(=O)O[C@H]([C@H](N1)CN1CCN(CC1)c1ccccc1)COC(=O)Nc1ccc(cc1)C(=O)C,racemic_oxazolidinones_2,Small_molecule,smiles
+36,C1)/C=C\2/ C(=O)N(C(=O) N2)/C=C/3\ C(=O)C4=CC= CC=C4OC3=O) O,RNA_ligand10,Small_molecule,smiles
+37,C1)NCCCNC(= O)C2=CN(N=N 2)C,unknown,Small_molecule,smiles
+38,C1=C(C(=CC(=C1Cl)Cl)Cl)C2=CC(=C(C=C2Cl)Cl),polychlorinated biphenyl,Small_molecule,smiles
+39,"C1=C(C=C(C(= C1O)O)O)C2=C (C(=O)C3=C(C
+=C(C=C3O2)O) O)",Myricetin,Small_molecule,smiles
+40,C1=C(C=C(C(=C1I)OC2=CC(=C(C(=C2)I)O)I)I)CC(C(=O)O)N,thyroxine (T4),Small_molecule,smiles
+41,C1=C(C=C(C(=C1O)O)O)C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O,Myricetin,Small_molecule,smiles
+42,C1=C(NC=N1)C,histamine,Small_molecule,smiles
+43,C1=C2C(=NC=N1)N(C=N2)C3C(C(C(O3)CO)O,purine ribonucleoside ,Small_molecule,smiles
+44,C1=CC(=C(C=C1CCN)O,Dopamine ,Small_molecule,smiles
+45,"C1=CC(=CC(= C1)N)C2=NC3= C(N2)C=C(C=C 3)C4=CC5=C(C
+=C4)N=C(N5)C 6=CC(=CC=C6) N",H1,Small_molecule,smiles
+46,C1=CC(=CC(=C1)N)C2=NC3=C(N2)C=C(C=C3)C4=CC5=C(C=C4)N=C(N5)C6=CC(=CC=C6)N,H1,Small_molecule,smiles
+47,"C1=CC(=CC=C
+1/C=N/ N=C(N)N)C2=C C3=C(S2)C=C( C=C3)/C=N/ N=C(N)N",Compound 3,Small_molecule,smiles
+48,"C1=CC(=CC=C 1C(=O)NC2=N C=C(C=C2)NC(
+=O)C3=CC=NC
+=C3)F",p7,Small_molecule,smiles
+49,"C1=CC(=CC=C 1C2=CC=C(O2) C3=CC=C(C=C 3)C(=[NH2+])N
+)C(=[NH2+])N",B7,Small_molecule,smiles
+50,C1=CC(=CC=C1/C=N/N=C(N)N)C2=CC3=C(S2)C=C(C=C3)/C=N/N=C(N),Compound 3,Small_molecule,smiles
+51,C1=CC(=CC=C1C(=O)NC2=NC=C(C=C2)NC(=O)C3=CC=NC=C3,p7,Small_molecule,smiles
+52,C1=CC(=CC=C1C(C(CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O,Chloramphenicol,Small_molecule,smiles
+53,C1=CC(=CC=C1C2=CC=C(O2)C3=CC=C(C=C3)C(=[NH2+])N)C(=[NH2+],B7,Small_molecule,smiles
+54,C1=CC(=CC=C1CC(C(=O)N)N),L-tyrosinamide,Small_molecule,smiles
+55,C1=CC(=CC=C1CC2=CC=C(C=C2)N,"4,4'-methylenedianiline",Small_molecule,smiles
+56,C1=CC(=CN=C1)C(=O),niacinamide,Small_molecule,smiles
+57,"C1=CC(=C[N+] (=C1)C2C(C(C( O2)COP(=O) (O)
+[O-])O)O)C(=O) ",NMN,Small_molecule,smiles
+58,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)(O)O)O)O)C(=O,Nicotinate mononucleotide,Small_molecule,smiles
+59,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)O)O)O)[O-])C(=S,Thionicotinamide-NAD,Small_molecule,smiles
+60,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)(O)[O-])O)O)C(=O,NMN,Small_molecule,smiles
+61,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)O)O)O)O)C(=O,beta-NAD,Small_molecule,smiles
+62,C1=CC(=C[N+](=C1)C2C(C(C(O2)COP(=O)([O-])OP(=O)(O)OCC3C(C(C(O3)N4C=NC5=C(N=CN=C54)N)OP(=O)(O)O)O)O)O)C(=O,beta-NADP,Small_molecule,smiles
+63,C1=CC2=C(C= CC(=C2N=C1)S CCO)[N+](=O) [O-],"SL3
+RNA_ligand9",Small_molecule,smiles
+64,C1=CC2=C(C=C1O)C(=CN2)CC,serotonin,Small_molecule,smiles
+65,C1=CC2=C(C=CC(=C2N=C1)SCCO)[N+](=O)[O-],SL3 RNA_ligand9,Small_molecule,smiles
+66,C1=CC=C(C,SL3,Small_molecule,smiles
+67,C1=CC=C(C(= C1)/C=C\2/ C(=O)N(C(=O) N2)/C=C/3\ C(=O)C4=CC= CC=C4OC3=O) O,"SL3
+RNA_ligand10",Small_molecule,smiles
+68,C1=CC=C(C(=C1)/C=C\2/C(=O)N(C(=O)N2)/C=C/3\C(=O)C4=CC=CC=C4OC3=O)O,SL3 RNA_ligand10,Small_molecule,smiles
+69,C1=CC=C(C(=C1)C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)C,"1,1,1-trichloro-2-(p-chlorophenyl)-2-(o-chlorophenyl) ethane or O,p’-DDT",Small_molecule,smiles
+70,"C1=CC=C(C=C 1)C2=NN=C(O2
+)C3=NC4=CC= CC=C4C(=N3) NCCC5=CC=C ",NRAS SAR 7,Small_molecule,smiles
+71,"C1=CC=C(C=C 1)C[C@@H]2[ C@H] (OC(=O)N2)CO C(=O)CC3=CC
+=CC=C3",Oxazolidinone 6,Small_molecule,smiles
+72,"C1=CC=C(C=C 1)C[N+]2=CC= C(C=C2)C(=O)
+N/N=C\ C3=CC=C(C=C 3)B","SL3
+RNA_ligand6",Small_molecule,smiles
+73,C1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCC5=CC=CS5,NRAS SAR 7,Small_molecule,smiles
+74,C1=CC=C(C=C1)C[C@@H]2[C@H](OC(=O)N2)COC(=O)CC3=CC=CC=C,Oxazolidinone 6,Small_molecule,smiles
+75,C1=CC=C(C=C1)C[N+]2=CC=C(C=C2)C(=O)N/N=C\C3=CC=C(C=C3),SL3 RNA_ligand6,Small_molecule,smiles
+76,"C1=CC=C2C(= C1)C(=O)C3=C (C2=O)C(=C(C
+=C3NC4=CC(= C(C=C4)NC5= NC(=NC(=N5) NC6=CC=CC= C6S(=O) (=O)O)Cl)S(=O)
+(=O)O)S(=O) (=O)O)",Cibacron blue,Small_molecule,smiles
+77,"C1=CC=C2C(= C1)C(=O)C3=C (C2=O)C(=C(C
+=C3NC4=CC(= C(C=C4)S(=O) (=O)O)NC5=N C(=NC(=N5)Cl)
+Cl)S(=O)
+(=O)O)N",Reactive Blue 4,Small_molecule,smiles
+78,"C1=CC=C2C(= C1)C(=O)C3=C (C2=O)C(=C(C
+=C3NC4=CC=C (C=C4)S(=O)
+(=O)N)S(=O) (=O)O)N","SL3
+RNA_ligand11",Small_molecule,smiles
+79,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3NC4=CC(=C(C=C4)NC5=NC(=NC(=N5)NC6=CC=CC=C6S(=O)(=O)O)Cl)S(=O)(=O)O)S(=O)(=O)O)N,Cibacron blue,Small_molecule,smiles
+80,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3NC4=CC(=C(C=C4)S(=O)(=O)O)NC5=NC(=NC(=N5)Cl)Cl)S(=O)(=O)O),Reactive Blue 4,Small_molecule,smiles
+81,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3NC4=CC=C(C=C4)S(=O)(=O)N)S(=O)(=O)O)N,SL3 RNA_ligand11,Small_molecule,smiles
+82,C1=CC=C2C(=C1)C(=O)OC23C4=C(C=C(C=C4)O)OC5=C3C=CC(=C5),Fluorescein,Small_molecule,smiles
+83,C1=CC=C2C(=C1)N=CC(=N2)NS(=O)(=O)C3=CC=C(C=C3,Sulfaquinoxaline,Small_molecule,smiles
+84,"C1=CC=C2C=C (C=CC2=C1)/
+C=C/3\ C(=O)NC(=S)","SL3
+RNA_ligand5",Small_molecule,smiles
+85,"C1=CC=C2C=C (C=CC2=C1)/
+C=C/3\ C(=O)NC(=S)N 3","SL3
+RNA_ligand5",Small_molecule,smiles
+86,C1=CC=C2C=C(C=CC2=C1)/C=C/3\C(=O)NC(=S),SL3 RNA_ligand5,Small_molecule,smiles
+87,"C1=CN(C(=O)N
+=C1N) [C@H]2[C@@ H]([C@@H]
+([C@H]
+(O2)CO)O)O",D-Cytidine,Small_molecule,smiles
+88,"C1=CN(C(=O)N C1=O) [C@H]2[C@@ H]([C@@H]
+([C@H]
+(O2)CO)O)O",D-uridine,Small_molecule,smiles
+89,C1=CN(C(=O)N=C1N)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O),CTP,Small_molecule,smiles
+90,C1=CN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O),D-Cytidine,Small_molecule,smiles
+91,C1=CN(C(=O)NC1=O)C2C(C(C(O2)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O),UTP,Small_molecule,smiles
+92,C1=CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O),D-uridine,Small_molecule,smiles
+93,C1=CN(C2=NC=NC(=C21)N)C3C(C(C(O3)CO)O)O,7-deaza-adenosine,Small_molecule,smiles
+94,"C1=CN=CC=C1 C2=NC(=NC=C 2)NCCCC3=NN
+=C(S3)",Hit S9,Small_molecule,smiles
+95,C1=CN=CC=C1C2=NC(=NC=C2)NCCCC3=NN=C(S3),Hit S9,Small_molecule,smiles
+96,"C1=NC(=C2C(= N1)N(C=N2) [C@@H]3[C@ H]([C@H]
+([C@@H] (O3)CO)O)O)",L_Adenosine,Small_molecule,smiles
+97,C1=NC(=C2C(= N1)N(C=N2) [C@H]3[C@,D-adenosine triphosphate,Small_molecule,smiles
+98,"C1=NC(=C2C(= N1)N(C=N2) [C@H]3[C@@ H]([C@@H]
+([C@H] (O3)CO)O)O)",D_Adenosine,Small_molecule,smiles
+99,C1=NC(=C2C(= N1)N(C=N2)C3 C(C(C(O3)CO) O)O,ADENOSINE,Small_molecule,smiles
+100,C1=NC(=C2C(= N1)N(C=N2)C3 C(C(C(O3)COP (=O) (O)O)O)O)N,AMP,Small_molecule,smiles
+101,"C1=NC(=C2C(= N1)N(C=N2)C3 C(C(C(O3)COP (=O)(O)OP(=O) (O)OP(=O)
+(O)O)O)O)",ATP,Small_molecule,smiles
+102,C1=NC(=C2C(=N1)N(C(=N2)Br)C3C(C(C(O3)CO)O)O)N,8-bromo-adenosine,Small_molecule,smiles
+103,C1=NC(=C2C(=N1)N(C(=N2)N=[N+]=[N-])C3C(C(C(O3)CO)O)O)N,8-azido adenosine,Small_molecule,smiles
+104,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)CO)O)O,9-alpha-adenosine,Small_molecule,smiles
+105,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)O)O)O,Adenosine Monophosphate,Small_molecule,smiles
+106,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)O)O)O,ADP,Small_molecule,smiles
+107,C1=NC(=C2C(=N1)N(C=N2)C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O,Adenosine Triphosphate,Small_molecule,smiles
+108,C1=NC(=C2C(=N1)N(C=N2)C3C4C(C(O3)CO)OP(=O)(O4)O),2'3'-cyclic AMP,Small_molecule,smiles
+109,C1=NC(=C2C(=N1)N(C=N2)[C@@H]3[C@H]([C@H]([C@@H](O3)CO)O)O,L_Adenosine,Small_molecule,smiles
+110,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O,D_Adenosine,Small_molecule,smiles
+111,C1=NC(=C2C(=N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O,D-adenosine triphosphate,Small_molecule,smiles
+112,C1=NC2=C(C(=O)N1)N=CN2C3C(C(C(O3)CO)O)O,inosine,Small_molecule,smiles
+113,C1=NC2=C(N1) C(=O)N=C,Hypoxanthine,Small_molecule,smiles
+114,C1=NC2=C(N1)C(=O)N=CN,Hypoxanthine,Small_molecule,smiles
+115,C1=NC2=C(N1)C(=O)NC(=O)N,Xanthine,Small_molecule,smiles
+116,C1=NC2=C(N1)C(=O)NC=N,Hypoxanthine,Small_molecule,smiles
+117,C1=NC2=C(N1C3C(C(C(O3)COP(=O)(O)OP(=O)(O)OP(=O)(O)O)O)O)N=C(NC2=O),GTP,Small_molecule,smiles
+118,"C1=NC2=C(N1[ C@H]3[C@@H
+]([C@@H]
+([C@H] (O3)CO)O)O)N
+=C(NC2=O)N",D-guanosine,Small_molecule,smiles
+119,C1=NC2=C(N1[C@H]3[C@@H]([C@@H]([C@H](O3)CO)O)O)N=C(NC2=O),D-guanosine,Small_molecule,smiles
+120,C1=NC2=NC= NC(=C2N1)N,Adenine,Small_molecule,smiles
+121,C1=NC2=NC=NC(=C2N1,Adenine,Small_molecule,smiles
+122,C1C(C(C(C(C1,Neomycin,Small_molecule,smiles
+123,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CN)O)O)N) O)O)N",Neamine,Small_molecule,smiles
+124,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CN)O)O)N) OC3C(C(C(O3)
+CO)O)O)O)N",ribostamycin,Small_molecule,smiles
+125,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CN)O)O)N) OC3C(C(C(O3)
+CO)OC4C(C(",Neomycin,Small_molecule,smiles
+126,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CN)O)O)N) OC3C(C(C(O3)
+CO)OC4C(C(C(
+C(O4)CN)O)O) N)O)O",Neomycin_B,Small_molecule,smiles
+127,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CN)O)O)O) O)OC3C(C(C(C (O3)CO)O)N)O)",Kanamycin A,Small_molecule,smiles
+128,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CO)O)N)O) O)OC3C(C(C(",KANAMYCIN B,Small_molecule,smiles
+129,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CO)O)N)O) O)OC3C(C(C(C (O3)CN)O)O)N)",KANAMYCIN B,Small_molecule,smiles
+130,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CO)O)N)O) O)OC3C(CC(C(
+O3)CN)O)N)",Ethidium bromide,Small_molecule,smiles
+131,"C1C(C(C(C(C1
+N)OC2C(C(C(C (O2)CO)O)O)N) OC3C(C(C(O3)
+CO)OC4C(C(C(
+C(O4)CN)O)O) N)O)O",Paromomycin_m ol_mol,Small_molecule,smiles
+132,"C1C(C(C(C(C1
+NC(=O)C(CCN)
+O)O)OC2C(C(C
+(O2)CO)O)O)O
+C3C(C(C(C(O3)
+CN)O)O)N)",Butirosin,Small_molecule,smiles
+133,"C1C(C(C(C(C1
+NC(=O)C(CCN)
+O)OC2C(C(C(C (O2)CO)O)N)O) O)OC3C(C(C(C (O3)CN)O)O)O) N",Amikacin,Small_molecule,smiles
+134,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)O)O)N,Neamine,Small_molecule,smiles
+135,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)OC3C(C(C(O3)CO)O)O)O,ribostamycin,Small_molecule,smiles
+136,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)O)O)N)O)O,Neomycin_B,Small_molecule,smiles
+137,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CN)O)O)O)O)OC3C(C(C(C(O3)CO)O)N)O)N,Kanamycin A,Small_molecule,smiles
+138,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)N)N,KANAMYCIN B,Small_molecule,smiles
+139,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(CC(C(O3)CN)O)N)N,Ethidium bromide,Small_molecule,smiles
+140,C1C(C(C(C(C1N)OC2C(C(C(C(O2)CO)O)O)N)OC3C(C(C(O3)CO)OC4C(C(C(C(O4)CN)O)O)N)O)O,Paromomycin_mol_mol,Small_molecule,smiles
+141,C1C(C(C(C(C1NC(=O)C(CCN)O)O)OC2C(C(C(O2)CO)O)O)OC3C(C(C(C(O3)CN)O)O)N,Butirosin,Small_molecule,smiles
+142,C1C(C(C(C(C1NC(=O)C(CCN)O)OC2C(C(C(C(O2)CO)O)N)O)O)OC3C(C(C(C(O3)CN)O)O)O)N,Amikacin,Small_molecule,smiles
+143,C1C(C(C(C(O1)O)O)O,arabinose,Small_molecule,smiles
+144,C1C(C(OC1N2C=NC3=C(N=CN=C32)N)COP(=O)(O)OP(=O)(O)OP(=O)(O)O),2'-deoxy-ATP,Small_molecule,smiles
+145,C1C(OC(C1O)N2C=NC3=C(N=CN=C32)N)C,3'-deoxy-adenosine,Small_molecule,smiles
+146,C1C2C(C(C(O2)N3C=NC4=C(N=CN=C43)N)O)OP(=O)(O1,3'5'-cyclic AMP,Small_molecule,smiles
+147,C1C2C(C(S1)C CCCC(=O)O)N C(=O),biotin_molecule,Small_molecule,smiles
+148,C1C2C(C(S1)CCCCC(=O)O)NC(=O)N2,biotin_molecule,Small_molecule,smiles
+149,C1CC2=C(CC1 C(=O)O)C(=NC (=N2)NCC3=C C=CC=C3)NCC 4=CC=CC=,B10,Small_molecule,smiles
+150,C1CC2=C(CC1C(=O)O)C(=NC(=N2)NCC3=CC=CC=C3)NCC4=CC=CC=C,B10,Small_molecule,smiles
+151,"C1CCC(CC1)N C2=NC(=NC3= CC=CC=C32)C 4=NN=C(O4)C5
+=CC=C(C=C5)",NRAS SAR 3,Small_molecule,smiles
+152,C1CCC(CC1)NC2=NC(=NC3=CC=CC=C32)C4=NN=C(O4)C5=CC=C(C=C5)F,NRAS SAR 3,Small_molecule,smiles
+153,"C1CCCN(CC1) CC2=NC(=NC(
+=N2)NC3=CC= C(C=C3)F)",Hit S12,Small_molecule,smiles
+154,C1CCCN(CC1)CC2=NC(=NC(=N2)NC3=CC=C(C=C3)F),Hit S12,Small_molecule,smiles
+155,C1CCN(C1)C2= NC(=C3C(=C2) C(=C(N=C3N)N 4CCCC4)C#N) ,Naphthyridine 2,Small_molecule,smiles
+156,C1CCN(C1)C2=NC(=C3C(=C2)C(=C(N=C3N)N4CCCC4)C#N)N,Naphthyridine 2,Small_molecule,smiles
+157,"C1CCN(CC1)C 1CCN(CC1)CC
+CCNc1nc(nc2c1 cccc2)c1nnc(o1) c1cccc","NRAS
+compound 1",Small_molecule,smiles
+158,"C1CCN(CC1)C 2CCN(CC2)CC CNC3=NC(=NC 4=CC=CC=C43
+)C5=NN=C(O5) C6=CC=CC=C6",NRAS SAR 1,Small_molecule,smiles
+159,C1CCN(CC1)C1CCN(CC1)CCCCNc1nc(nc2c1cccc2)c1nnc(o1)c1ccccc,NRAS compound 1,Small_molecule,smiles
+160,C1CCN(CC1)C2CCN(CC2)CCCNC3=NC(=NC4=CC=CC=C43)C5=NN=C(O5)C6=CC=CC=C,NRAS SAR 1,Small_molecule,smiles
+161,"C1CN(CCC1N2 CCC(CC2)O)C3
+=NC=NC(=C3) CC",Hit S5,Small_molecule,smiles
+162,C1CN(CCC1N2CCC(CC2)O)C3=NC=NC(=C3)CC,Hit S5,Small_molecule,smiles
+163,"C1CN(CCN1)C 2=CC3=C(C=C
+2)C=C(C(=O)O
+3)C4=CN5C=C C=CC5=N4",SMN2_compoun d_10,Small_molecule,smiles
+164,C1CN(CCN1)C2=CC3=C(C=C2)C=C(C(=O)O3)C4=CN5C=CC=CC5=,SMN2_compound_10,Small_molecule,smiles
+165,"C1CN(CCN1C[ C@@H]2[C@H
+] (OC(=O)N2)CO C(=O)CC3=CC
+=CC=C3)C4=C C=CC=C4",phenylacetate derivative,Small_molecule,smiles
+166,C1CN(CCN1C[C@@H]2[C@H](OC(=O)N2)COC(=O)CC3=CC=CC=C3)C4=CC=CC=C4,phenylacetate derivative,Small_molecule,smiles
+167,"C1CN2CCC1C( C2)NCC3=C(N
+=CC=C3)OC4= CC(=C(C=C4)F
+)F",Hit S3,Small_molecule,smiles
+168,C1CN2CCC1C(C2)NCC3=C(N=CC=C3)OC4=CC(=C(C=C4)F,Hit S3,Small_molecule,smiles
+169,C1CN=C(N1)N N=CC2=C3C=C C=CC3=C(C,Bisantrene,Small_molecule,smiles
+170,"C1CN=C(N1)N N=CC2=C3C=C C=CC3=C(C4= CC=CC=C42)C
+=NNC5=NCCN 5",Bisantrene,Small_molecule,smiles
+171,C1CN=C(N1)NN=CC2=C3C=CC=CC3=C(C4=CC=CC=C42)C=NNC5=NCCN,Bisantrene,Small_molecule,smiles
+172,C1COCC1C2= NOC(=N2)C3= CC(=CC(=C3)C N)NC(=O)C4=C C=CC=,Hit S1,Small_molecule,smiles
+173,C1COCC1C2=NOC(=N2)C3=CC(=CC(=C3)CN)NC(=O)C4=CC=CC=N,Hit S1,Small_molecule,smiles
+174,C1COCCN1CC NC2=C3C(=C( C=C2)NCCN4C COCC4)C(=O) C5=CC=CC=C5 C3=O,B11,Small_molecule,smiles
+175,C1COCCN1CCNC2=C3C(=C(C=C2)NCCN4CCOCC4)C(=O)C5=CC=CC=C5C3=,B11,Small_molecule,smiles
+176,"C1C[NH+]=C(N 1)C2=CC=C(C= C2)C3=CC=C( O3)C4=CC=C( C=C4)C5=[NH+
+]CC",B6,Small_molecule,smiles
+177,C1C[NH+]=C(N1)C2=CC=C(C=C2)C3=CC=C(O3)C4=CC=C(C=C4)C5=[NH+]CCN5,B6,Small_molecule,smiles
+178,"C1N(C2=CC=C C=C2N(C1)C(= O)/C=C/ C3=CC=CC=C3
+)C(=O)/C=C/ C4=CC=CC=",B8,Small_molecule,smiles
+179,C1N(C2=CC=CC=C2N(C1)C(=O)/C=C/C3=CC=CC=C3)C(=O)/C=C/C4=CC=CC=C4,B8,Small_molecule,smiles
+180,"C1[C@@H] ([C@H] (O[C@H]1N2C
+=NC3=C(N=CN
+=C32)N)CO)O",2-deoxy-D- Adenosine,Small_molecule,smiles
+181,C1[C@@H](,DOS,Small_molecule,smiles
+182,"C1[C@@H](N)
+[C@@H](O) [C@H] ([C@@H]
+([C@H]1N)OCS
+c1ccnc2c1ccc(c 2)C(F)(F)F)",DOS,Small_molecule,smiles
+183,C1[C@@H](N)[C@@H](O)[C@H]([C@@H]([C@H]1N)OCSc1ccnc2c1ccc(c2)C(F)(F)F),DOS,Small_molecule,smiles
+184,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)CO,2-deoxy-D-Adenosine,Small_molecule,smiles
+185,"C1[C@H] (O[C@H]
+([C@@H]1O)N 2C=NC3=C(N= CN=C32)N)CO",3-deoxy-D- Adenosine,Small_molecule,smiles
+186,C1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C(N=CN=C32)N),3-deoxy-D-Adenosine,Small_molecule,smiles
+187,C1[C@H]([C@@H]([C@H]([C@@H]([C@H]1N)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)CN)O)O)O)O)O[C@@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)N)O,Kanamycin,Small_molecule,smiles
+188,"C3C(C(C(C(O3)
+CO)O)O)NC) (C=O)",unknown,Small_molecule,smiles
+189,"C@H](NC(=O) [C@@H]3CCC N3C(=O)c3cc4 OCOc4cc3)C(= O)N[C@H]
+(C(=O)NCCCN) CCCCN)CCC1)
+c",unknown,Small_molecule,smiles
+190,CC(=NC#N)N(C)CC1=CN=C(C=C1),acetamiprid,Small_molecule,smiles
+191,"CC(=O)C1=CC
+=C(C=C1)NC(= O)OC[C@@H] 2[C@H] (NC(=O)O2)CN 3CCN(CC3)C4= CC=CC=",methyl N-(4- acetylphenyl)car bamate derivative,Small_molecule,smiles
+192,CC(=O)C1=CC=C(C=C1)NC(=O)OC[C@@H]2[C@H](NC(=O)O2)CN3CCN(CC3)C4=CC=CC=,methyl N-(4-acetylphenyl)carbamate derivative,Small_molecule,smiles
+193,CC(=O)C1CCC2C1(CCC3C2CCC4=CC(=O)CCC34C),progesterone,Small_molecule,smiles
+194,CC(=O)C[n+]1c(Cc2cc[n+](C)c3ccccc23)sc2ccccc2,"1-[2-[(1-methylquinolin-1-ium-4-yl)methyl]-1,3-benzothiazol-3-ium-3-yl]propan-2-one",Small_molecule,smiles
+195,CC(=O)NC1C(CC(OC1C(C(CO)O)O)(C(=O)O)OC2C(C(OC(C2O)OC(C(CO)O)C(C(C=O)O)O)CO)O)O,Sialyllactose,Small_molecule,smiles
+196,CC(=O)NP(=O)(OC)SC,Acephate,Small_molecule,smiles
+197,CC(=[NH+]CCCC[C@@H](C(=O)[O-])[NH3+],N6-1-Iminoethyl-L-lysine,Small_molecule,smiles
+198,"CC(C(C3O)O)N
+)N)N)OC1OC4 C(C(C(C(O4)C
+O)N)O)O",unknown,Small_molecule,smiles
+199,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2,Bisphenol A,Small_molecule,smiles
+200,"CC(C)C1=CC2= C(C=C1)N=C3 C=CC(=CN3C2
+=O)C(=O)NCC N(C)C",B4,Small_molecule,smiles
+201,CC(C)C1=CC2=C(C=C1)N=C3C=CC(=CN3C2=O)C(=O)NCCN(C,B4,Small_molecule,smiles
+202,CC(C)CC(C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)N3CCCC3C(=O)O)NC(=O)C(CCC(=O)N)NC(=O)C4CCCN4C(=O)C(CCCCN,CRP,Small_molecule,smiles
+203,CC(C)OC(=O)C 1=CC=C(C=C1) NC2=NC3=CC= CC=C3C4=NN= CN42,Hit S11,Small_molecule,smiles
+204,CC(C)OC(=O)C1=CC=C(C=C1)NC2=NC3=CC=CC=C3C4=NN=CN,Hit S11,Small_molecule,smiles
+205,CC(C)OC(=O)C1=CC=CC=C1OP(=S)(N)OC,Isocarbophos,Small_molecule,smiles
+206,CC(C)OP(=O)(OC(C)C)SCC1=CC=CC=,Iprobenfos,Small_molecule,smiles
+207,"CC(C1C(C(C(C
+(O1)OC2C(CC( C(C2O)OC3C(C (C(CO3) (C)O)NC)O)N) N)N)O)O)O",Geneticin,Small_molecule,smiles
+208,CC(C1C(C(C(C(O1)OC2C(CC(C(C2O)OC3C(C(C(CO3)(C)O)NC)O)N)N)N)O)O),Geneticin,Small_molecule,smiles
+209,CC(CC1=CC=CC=C1)NC,Methamphetamine,Small_molecule,smiles
+210,CC(CCC(=O)O)C1CCC2C1(C(CC3C2C(CC4C3(CCC(C4)O)C)O)O),cholic acid,Small_molecule,smiles
+211,CC(CCC1=CC= CO1)NC2CCC3 (CC2)CCNC,Hit S7,Small_molecule,smiles
+212,CC(CCC1=CC=CO1)NC2CCC3(CC2)CCNCC3,Hit S7,Small_molecule,smiles
+213,CC(CN1C=NC2=C(N=CN=C21)N)OCP(=O)(O)O,Tenofovir,Small_molecule,smiles
+214,CC1(C(N2C(S1)C(C2=O)NC(=O)C(C3=CC=CC=C3)N)C(=O)O, Ampicillin,Small_molecule,smiles
+215,CC1(C(N2C(S1)C(C2=O)NC(=O)CC3=CC=CC=C3)C(=O)O,Penicillin G,Small_molecule,smiles
+216,CC1(C2C(C3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C)O,oxytetracycline,Small_molecule,smiles
+217,"CC1(C2CC3C( C(=O)C(=C(C3( C(=O)C2=C(C4
+=C1C=CC=C4O
+)O)O)O)C(=O) N)N(C)C)",tetracyclin,Small_molecule,smiles
+218,CC1(C2CC3C(C(=O)C(=C(C3(C(=O)C2=C(C4=C1C=CC=C4O)O)O)O)C(=O)N)N(C)C,tetracyclin,Small_molecule,smiles
+219,CC1(C2CCC3(C(C2(CCC1OC4C(C(C(CO4)OC5C(C(C(CO5)O)O)O)OC6C(C(C(C(O6)CO)O)O)O)OC7C(C(C(C(O7)CO)O)O)OC8C(C(C(C(O8)CO)O)O)O)C)CCC91C3(CC(C2(C9CC(CC2)(C)C=O)CO1)O)C)C)C,saponin,Small_molecule,smiles
+220,"CC1(COC(C(C1 NC)O)OC2C(C C(C(C2O)OC3C (CC=C(O3)CN)
+N)N)N)",sisomicin,Small_molecule,smiles
+221,"CC1(COC(C(C1 NC)O)OC2C(C C(C(C2O)OC3C (CCC(O3)CN)N
+)N)N)O",gentamicin_mol_ c,Small_molecule,smiles
+222,CC1(COC(C(C1NC)O)OC2C(CC(C(C2O)OC3C(CC=C(O3)CN)N)N)N)O,sisomicin,Small_molecule,smiles
+223,CC1(COC(C(C1NC)O)OC2C(CC(C(C2O)OC3C(CCC(O3)CN)N)N)N,gentamicin_mol_c,Small_molecule,smiles
+224,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)C(=O)O)C,Ampicillin,Small_molecule,smiles
+225,CC12CCC3C(C1CCC2O)CCC4=C3C=CC(=C4,17beta-estradiol,Small_molecule,smiles
+226,CC12CCC3C(C1CCC2O)CCC4=CC(=O)CCC3,Testosterone,Small_molecule,smiles
+227,CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H](C3=C2COC(=O)N)N4C)OC,methyl_carbamate derivative,Small_molecule,smiles
+228,CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C=C)C)C=C)C)CCC(=O)O)CCC(=O)O.[Cl-].[Fe],Hemin,Small_molecule,smiles
+229,CC1=C2C(C(=O)C3(C(CC4C(C3C(C(C2(C)C)(CC1OC(=O)C(C(C5=CC=CC=C5)NC(=O)OC(C)(C)C)O)O)OC(=O)C6=CC=CC=C6)(CO4)OC(=O)C)O)C),docetaxel,Small_molecule,smiles
+230,CC1=C2C(C(C([N-]2)C3(C(C(C(=N3)C(=C4C(C(C(=N4)C=C5C(C(C1=N5)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)(C)CCC(=O)NCC(C)O.[C-]#N.[C-]#N.[Co],Cobinamide dicyanide,Small_molecule,smiles
+231,CC1=C2C=CN= CC2=C(C3=C1 NC4=CC=CC= C43),Ellipticine,Small_molecule,smiles
+232,CC1=C2C=CN=CC2=C(C3=C1NC4=CC=CC=C43),Ellipticine,Small_molecule,smiles
+233,CC1=CC(=CC= C1)C2=NN=C( O2)C3=NC4=C C=CC=C4C(=N 3)NCCC5=C(O N=C5C),NRAS SAR 14,Small_molecule,smiles
+234,CC1=CC(=CC= C1)C2=NN=C( O2)C3=NC4=C C=CC=C4C(=N 3)NCCC5=CN= CN5,NRAS SAR 10,Small_molecule,smiles
+235,CC1=CC(=CC= C1)C2=NN=C( O2)C3=NC4=C C=CC=C4C(=N 3)NCCN5CCO C,NRAS SAR 12,Small_molecule,smiles
+236,CC1=CC(=CC=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCC5=C(ON=C5C,NRAS SAR 14,Small_molecule,smiles
+237,CC1=CC(=CC=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCC5=CN=CN,NRAS SAR 10,Small_molecule,smiles
+238,CC1=CC(=CC=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCN5CCOCC5,NRAS SAR 12,Small_molecule,smiles
+239,"CC1=CC(=NC(
+=N1)N)N2CCN( CC2)C(=O)CCC 3=NN4CCNCC
+4=",Hit S6,Small_molecule,smiles
+240,CC1=CC(=NC(=N1)N)N2CCN(CC2)C(=O)CCC3=NN4CCNCC4=C,Hit S6,Small_molecule,smiles
+241,"CC1=CC2=C(C
+=C1C)N(C3=N C(=O)NC(=O)C
+3=N2)CC(C(C(
+CO)O)O)",riboflavin,Small_molecule,smiles
+242,"CC1=CC2=C(C
+=C1C)N(C3=N C(=O)NC(=O)C
+3=N2)CC(C(C( COP(=O) (O)O)O)O",FMN,Small_molecule,smiles
+243,"CC1=CC2=C(C
+=C1C)N(C3=N C(=O)NC(=O)C
+3=N2)CC(C(C( COP(=O) (O)OP(=O)
+(O)OCC4C(C(C (O4)N5C=NC6= C(N=CN=C65) N)O)O)O)O)O",FAD,Small_molecule,smiles
+244,"CC1=CC2=C(C
+=C1C)N(C=N2) C3C(C(C(O3)C
+O)OP(=O",cyanocobalamine,Small_molecule,smiles
+245,"CC1=CC2=C(C
+=C1C)N(C=N2) C3C(C(C(O3)C
+O)OP(=O) ([O-])OC(C)CN C(=O)CCC4(C(
+C5C6(C(C(C(=
+N6)C(=C7C(C( C(=N7)C=C8C( C(C(=N8)C(=C 4[N-]5)C)CCC(
+=O)N) (C)C)CCC(=O) N) (C)CC(=O)N)C) CCC(=O)N) (C)CC(=O)N)C)
+CC(=O)N)C)O.
+[C-]#N.[Co+3",cyanocobalamine,Small_molecule,smiles
+246,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(CO)O)O)O,riboflavin,Small_molecule,smiles
+247,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)O)O)O)O,FMN,Small_molecule,smiles
+248,CC1=CC2=C(C=C1C)N(C3=NC(=O)NC(=O)C3=N2)CC(C(C(COP(=O)(O)OP(=O)(O)OCC4C(C(C(O4)N5C=NC6=C(N=CN=C65)N)O)O)O)O)O,FAD,Small_molecule,smiles
+249,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[C-]#N.[Co+3,cyanocobalamine,Small_molecule,smiles
+250,CC1=CC2=C(C=C1C)N(C=N2)C3C(C(C(O3)CO)OP(=O)([O-])OC(C)CNC(=O)CCC4(C(C5C6(C(C(C(=N6)C(=C7C(C(C(=N7)C=C8C(C(C(=N8)C(=C4[N-]5)C)CCC(=O)N)(C)C)CCC(=O)N)(C)CC(=O)N)C)CCC(=O)N)(C)CC(=O)N)C)CC(=O)N)C)O.[Co+2],Cobalamin,Small_molecule,smiles
+251,CC1=CC2=C(C=C1C)N=C3C(=N2)C(=O)NC(=O)N3,"7,8-Dimethylalloxazine",Small_molecule,smiles
+252,CC1=CC=C(C= C1)C2=NN=C( O2)C3=NC4=C C=CC=C4C(=N 3)N5CCCCC,NRAS SAR 16,Small_molecule,smiles
+253,CC1=CC=C(C= C1)C2=NN=C( O2)C3=NC4=C C=CC=C4C(=N 3)NCCC5=CC= C(C=C5)S(=O) (=O)N,NRAS SAR 18,Small_molecule,smiles
+254,"CC1=CC=C(C= C1)C2=NN=C( O2)C3=NC4=C C=CC=C4C(=N 3)NCCCN5CCC
+6=CC=CC=C6C
+",NRAS SAR 25,Small_molecule,smiles
+255,"CC1=CC=C(C= C1)C2=NN=C( O2)C3=NC4=C C=CC=C4C(=N 3)NCCN5CCCC
+",NRAS SAR 24,Small_molecule,smiles
+256,CC1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)N5CCCCC5,NRAS SAR 16,Small_molecule,smiles
+257,CC1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCC5=CC=C(C=C5)S(=O)(=O)N,NRAS SAR 18,Small_molecule,smiles
+258,CC1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCCN5CCC6=CC=CC=C6C,NRAS SAR 25,Small_molecule,smiles
+259,CC1=CC=C(C=C1)C2=NN=C(O2)C3=NC4=CC=CC=C4C(=N3)NCCN5CCC,NRAS SAR 24,Small_molecule,smiles
+260,"CC1=CC=CN2 C1=NC3=C(C2
+=O)C=C(C(=N) N3CCCO)C(=O
+)NC","SL3
+RNA_ligand13",Small_molecule,smiles
+261,CC1=CC=CN2C1=NC3=C(C2=O)C=C(C(=N)N3CCCO)C(=O),SL3 RNA_ligand13,Small_molecule,smiles
+262,CC1=CN2C=C( C=C(C2=N1)F) C3=CC(=O)N4 C=C(C=CC4=N 3)N5CCN(CC5) C,SMN-C5,Small_molecule,smiles
+263,CC1=CN2C=C(C=C(C2=N1)F)C3=CC(=O)N4C=C(C=CC4=N3)N5CCN(CC5),SMN-C5,Small_molecule,smiles
+264,CC1=CN=C(,Hit S2,Small_molecule,smiles
+265,CC1=CN=C(C=C1)NCCCNC(=O)C2=CN(N=N2)C,Hit S2,Small_molecule,smiles
+266,CC1=C[C@H]2CC3=C(C=CC(=O)N3)[C@@]4(C1)[C@@H]2CCC,HupB,Small_molecule,smiles
+267,CC1=N/C(=C\c2cc(F)c(O)c(F)c2)C(=O)N1,"(5Z)-5-[(3,5-difluoro-4-hydroxyphenyl)methylidene]-2,3-dimethylimidazol-4-one",Small_molecule,smiles
+268,CC1=NC(=C2C(=N1)N=CN2,2-methyladenine,Small_molecule,smiles
+269,CC1=NC2=NC(=NN2C(=C1)N3CCN(CC3)C)C4=CC=C(C=C4)Cl,methylpiperazine derivative,Small_molecule,smiles
+270,CC1=NC=C(N1CCO)[N+](=O)[O-],Metronidazole,Small_molecule,smiles
+271,CC1C(=O)C(=C(O1)C),Furaneol,Small_molecule,smiles
+272,"CC1C(C(C(C(O 1)OC2C3CC#C C4C(O4) (C#CC3=CC2O C(=O)C5=C(C= CC6=C5C=C(C
+=C6C)OC)O)C7 COC(=O)O7)N C)O)",neocarzinostatin,Small_molecule,smiles
+273,CC1C(C(C(C(O1)OC2C3CC#CC4C(O4)(C#CC3=CC2OC(=O)C5=C(C=CC6=C5C=C(C=C6C)OC)O)C7COC(=O)O7)NC)O,neocarzinostatin,Small_molecule,smiles
+274,"CC1C(C(C(O1)
+OC2C(C(C(C(C
+2O)O)N=C(N",Streptomycin,Small_molecule,smiles
+275,"CC1C(C(C(O1)
+OC2C(C(C(C(C
+2O)O)N=C(N)N
+)O)N=C(N)N)O",Streptomycin,Small_molecule,smiles
+276,"CC1C(C(C(O1)
+OC2C(C(C(C(C
+2O)O)N=C(N)N
+)O)N=C(N)N)O
+C3C(C(C(C(O3)
+CO)O)O)NC) (C=O",Streptomycin,Small_molecule,smiles
+277,CC1C(C(C(O1)OC2C(C(C(C(C2O)O)N=C(N)N)O)N=C(N)N)OC3C(C(C(C(O3)CO)O)O)NC)(C=O,Streptomycin,Small_molecule,smiles
+278,"CC1CC(=O)C2( C(O1)OC3C(C(
+C(C(C3O2)NC)
+O)NC)O",Spectinomycin,Small_molecule,smiles
+279,CC1CC(=O)C2(C(O1)OC3C(C(C(C(C3O2)NC)O)NC)O,Spectinomycin,Small_molecule,smiles
+280,CC1CC(OC1C2(CCC(O2)C3(CCC4(O3)CC(C(C(O4)C(C)C5C(C(C(C(O5)(C(C)C(=O)O)O)C)OC)C)C)OC)C)C)C6C(C(C(C(O6)(C)O)C)OC)C,Promomycin,Small_molecule,smiles
+281,CC1CC2=C(C=C(C(=C2C(=O)O1)O)C(=O)NC(CC3=CC=CC=C3)C(=O)O)C,ochratoxin A,Small_molecule,smiles
+282,CC1CCN(CC1) C2=CC=C(C=C 2)N,"SL3
+RNA_ligand7",Small_molecule,smiles
+283,CC1CCN(CC1)C2=CC=C(C=C2),SL3 RNA_ligand7,Small_molecule,smiles
+284,"CC=CC=C42)C
+=NNC5=NCCN 5",unknown,Small_molecule,smiles
+285,CCC(C)C(C(=O)NC(CCCNC(=N)N)C(=O)NC(C)C(=O)NC(CC1=CNC2=CC=CC=C21)C(=O)NC(C(C)C)C(=O)NC(C)C(=O)NC(CC3=CNC4=CC=CC=C43)C(=O)NC(CCCNC(=N)N)C(=O)NC(CC(=O)N)C(=O)NC(CCCNC(=N)N)C(=O)O)NC(=O)CNC(=O)C(CCC(=O)N)NC(=O)C5CCCN5C(=O)C(CC(=O)O)NC(=O)C(CCCNC(=N)N)NC(=O)C(C(C)C)NC(=O)C(C(C)C)NC(=O)C(CCCNC(=N)N),Lysozyme,Small_molecule,smiles
+286,CCC(C)N1C(=O)C(=C(NC1=O)C)B,Bromacil,Small_molecule,smiles
+287,CCC1=C(C2=CC3=C(C(=C(N3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1N2)C)CCC(=O)O)CCC(=O)O)C)C)CC,Mesoporphyrin IX,Small_molecule,smiles
+288,"CCC1=C(C=C2 C=C3C=CC=C C3=CC2=N1)C(
+=O)N(C)
+[C@@H](C\ C=C\C[C@H] (N(C)C(=O)C1= C(CC)N=C2C= C3C=CC=CC3= CC2=C1)C(=O) N1CCC[C@H]1 C(=O)N(C)
+[C@@H] (CC1=CC=CC= C1)C(=O)NCC C[NH3+])C(=O) N1CCC[C@H]1 C(=O)N(C)
+[C@@H] (CC1=CC=CC= C1)C(=O)NCC C[NH3+]",Compound 4,Small_molecule,smiles
+289,"CCC1=C(C=C2 C=C3C=CC=C C3=CC2=N1)C(
+=O)N1CCC[C@ H]1C(=O)N[C
+@@H](C\C=C/ C[C@H] (NC(=O) [C@@H]1CCC N1C(=O)C1=C( CC)N=C2C=C3 C=CC=CC3=C C2=C1)C(=O)N
+[C@@H] (CCCC[NH3+]) C(=O)NCCC[N H3+])C(=O)N[C
+@@H] (CCCC[NH3+]) C(=O)NCCC[N H3",DCC 4 (2012),Small_molecule,smiles
+290,CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N(C)[C@@H](C\C=C\C[C@H](N(C)C(=O)C1=C(CC)N=C2C=C3C=CC=CC3=CC2=C1)C(=O)N1CCC[C@H]1C(=O)N(C)[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+])C(=O)N1CCC[C@H]1C(=O)N(C)[C@@H](CC1=CC=CC=C1)C(=O)NCCC[NH3+],Compound 4,Small_molecule,smiles
+291,CCC1=C(C=C2C=C3C=CC=CC3=CC2=N1)C(=O)N1CCC[C@H]1C(=O)N[C@@H](C\C=C/C[C@H](NC(=O)[C@@H]1CCCN1C(=O)C1=C(CC)N=C2C=C3C=CC=CC3=CC2=C1)C(=O)N[C@@H](CCCC[NH3+])C(=O)NCCC[NH3+])C(=O)N[C@@H](CCCC[NH3+])C(=O)NCCC[NH3+],DCC 4 (2012),Small_molecule,smiles
+292,CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)(C,Erythromycin,Small_molecule,smiles
+293,CCCCC(C)C(C(CC(C)CC(CCCCC(CC(C(C)N)O)O)O)OC(=O)CC(CC(=O)O)C(=O)O)OC(=O)CC(CC(=O)O)C(=O),Fumonisin B1,Small_molecule,smiles
+294,"CCCCN)CC(=O
+)N)c1CC)cccc",unknown,Small_molecule,smiles
+295,CCCNCc1ccc2nc3ccc4cc5cc(CNCCC)ccc5nc4c3cc2,"N-[[10-(propylaminomethyl)quinolino[2,3-a]acridin-2-yl]methyl]propan-1-amine",Small_molecule,smiles
+296,"CCCSCCCNC1
+=NC(=NC2=CC
+=CC=C21)C3= NN=C(O3)C4= CC=CC=C",NRAS SAR 6,Small_molecule,smiles
+297,CCCSCCCNC1=NC(=NC2=CC=CC=C21)C3=NN=C(O3)C4=CC=CC=C4,NRAS SAR 6,Small_molecule,smiles
+298,CCN(CC)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](CC)CC)C=C3O2)C4=C(C=C(C=C4)S(=O)(=O)O)S(=O)(=O)[O-,Sulforhodamine B,Small_molecule,smiles
+299,CCN(CC)CC(= O)NC1=CC=CC 2=C1C(=O)C3= C(C4=CC=CC= C4C(=C3C2=O) O,B9,Small_molecule,smiles
+300,CCN(CC)CC(=O)NC1=CC=CC2=C1C(=O)C3=C(C4=CC=CC=C4C(=C3C2=O)O)O,B9,Small_molecule,smiles
+301,"CCN(CC)CCOC 1=CC=C(C=C1) NC2=NC(=NC3
+=CC=CC=C32) C4=CC=CC=C4 NC(=O)CCN5C CN(CC5)C","Compound 1
+(2017)",Small_molecule,smiles
+302,CCN(CC)CCOC1=CC=C(C=C1)NC2=NC(=NC3=CC=CC=C32)C4=CC=CC=C4NC(=O)CCN5CCN(CC5)C,Compound 1 (2017),Small_molecule,smiles
+303,CCN1C2=C(C= C(C=C2)/C=C/ C3=[N+] (C4=CC=CC=C 4C=C3)C)C5=C C=CC=C51,Methylquinoliniu m 16,Small_molecule,smiles
+304,"CCN1C2=C(C= CC=C2)C2=C1 C=CC(C=CC1= CC(N3CC[NH+
+] (C)CC3)=C3C= CC=CC3=[N+]1
+C)=C2",Methylquinoliniu m 24,Small_molecule,smiles
+305,CCN1C2=C(C=C(C=C2)/C=C/C3=[N+](C4=CC=CC=C4C=C3)C)C5=CC=CC=C5,Methylquinolinium 16,Small_molecule,smiles
+306,CCN1C2=C(C=CC=C2)C2=C1C=CC(C=CC1=CC(N3CC[NH+](C)CC3)=C3C=CC=CC3=[N+]1C)=,Methylquinolinium 24,Small_molecule,smiles
+307,CCNC1=NC(=NC(=N1)Cl)NC(C,Atrazine,Small_molecule,smiles
+308,CCOC(=O)C1=C2C=CC=CN2C3=C1C(=O)C4=CC=CC=C4C3=,NSC119236,Small_molecule,smiles
+309,CCOP(=O)(SC1=CC=CC=C1)SC2=CC=CC=C,Edifenphos,Small_molecule,smiles
+310,CC[C@@H](C)[C@H]1C(=O)N[C@@H]2CSSC[C@@H](C(=O)N[C@@H](CSSC[C@@H](C(=O)NCC(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@H](C(=O)N[C@@H](CSSC[C@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC(=O)[C@@H](NC2=O)CO)CC(C)C)CC3=CC=C(C=C3)O)CCC(=O)N)CC(C)C)CCC(=O)O)CC(=O)N)CC4=CC=C(C=C4)O)C(=O)N[C@@H](CC(=O)N)C(=O)O)C(=O)NCC(=O)N[C@@H](CCC(=O)O)C(=O)N[C@@H](CCCNC(=N)N)C(=O)NCC(=O)N[C@@H](CC5=CC=CC=C5)C(=O)N[C@@H](CC6=CC=CC=C6)C(=O)N[C@@H](CC7=CC=C(C=C7)O)C(=O)N[C@@H]([C@H](C)O)C(=O)N8CCC[C@H]8C(=O)N[C@@H](CCCCN)C(=O)N[C@@H]([C@H](C)O)C(=O)O)C(C)C)CC(C)C)CC9=CC=C(C=C9)O)CC(C)C)C)CCC(=O)O)C(C)C)CC(C)C)CC2=CNC=N2)CO)NC(=O)[C@H](CC(C)C)NC(=O)[C@H](CC2=CNC=N2)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](C(=O)N)NC(=O)[C@H](C(C)C)NC(=O)[C@H](CC2=CC=CC=C2)N)C(=O)N[C@H](C(=O)N[C@H](C(=O)N1)CO)[C@H](C)O)NC(=O)[C@H](CCC(=O)N)NC(=O)[C@H](CCC(=O)O)NC(=O)[C@H](C(C)C)NC(=O)[C@H]([C@H](C)CC)NC(=O)C,Insulin,Small_molecule,smiles
+311,CC[NH+]1CCN (C[C@@H]1C) C1=CC=C2C,SMN-C2,Small_molecule,smiles
+312,"CC[NH+]1CCN (C[C@@H]1C) C1=CC=C2C=C (C3=CN4C=C( C)N=C(C)C4=N 3)C(=O)OC2=C
+1",SMN-C2,Small_molecule,smiles
+313,CC[NH+]1CCN(C[C@@H]1C)C1=CC=C2C=C(C3=CN4C=C(C)N=C(C)C4=N3)C(=O)OC2=C1,SMN-C2,Small_molecule,smiles
+314,CN(C)C1=CC2=C(C=C1)C(=C3C=CC(=[N+](C)C)C=C3O2)C4=CC=CC=C4,Tetramethylrosamine (TMR),Small_molecule,smiles
+315,CN(C)C1=CC2=C(C=C1)C=C3C=CC(=[N+](C)C)C=C3O2.[Cl,Pyronin Y,Small_molecule,smiles
+316,"CN(C)C1=CC= C(C=C1)C(=C2 C=CC(=[N+] (C)C)C=C2)C3= CC=CC=C3.
+[Cl",Malachite green,Small_molecule,smiles
+317,CN(C)C1=CC=C(C=C1)C(=C2C=CC(=[N+](C)C)C=C2)C3=CC=CC=C3.[Cl-],Malachite green,Small_molecule,smiles
+318,CN(C)CCCN=C (C1=CC=C(C= C1)C2=CC=C( O2)C3=NC4=C(,B3,Small_molecule,smiles
+319,CN(C)CCCN=C (C1=CC=C(C= C1)C2=CC=C( O2)C3=NC4=C( N3)C=C(C=C4) C(=NCCCN(C) C)N),B3,Small_molecule,smiles
+320,CN(C)CCCN=C(C1=CC=C(C=C1)C2=CC=C(O2)C3=NC4=C(N3)C=C(C=C4)C(=NCCCN(C)C)N),B3,Small_molecule,smiles
+321,CN(C)CCCNC(=O)CCNC(=O)c1cc(NC(=O)c2c(O)c(NC(=O)c3cc(NC(=O)c4nccn4C)cn3C)cn2C)cn1C,N-[5-[[5-[[5-[[3-[3-(dimethylamino)propylamino]-3-oxopropyl]carbamoyl]-1-methylpyrrol-3-yl]carbamoyl]-4-hydroxy-1-methylpyrrol-3-yl]carbamoyl]-1-methylpyrrol-3-yl]-1-methylimidazole-2-carboxamide,Small_molecule,smiles
+322,CN(C)CCCNC(=O)CCNC(=O)c1cc(NC(=O)c2cc(NC(=O)c3c(O)c(NC(=O)c4nccn4C)cn3C)cn2C)cn1C,N-[5-[[5-[[5-[[3-[3-(dimethylamino)propylamino]-3-oxopropyl]carbamoyl]-1-methylpyrrol-3-yl]carbamoyl]-1-methylpyrrol-3-yl]carbamoyl]-4-hydroxy-1-methylpyrrol-3-yl]-1-methylimidazole-2-carboxamide,Small_molecule,smiles
+323,CN(C)CCCn1c(N)nc2ccc3c(c21)C[C@@H](CN(C)C),"(7S)-7-[(dimethylamino)methyl]-1-[3-(dimethylamino)propyl]-7,8-dihydrofuro[3,2-e]benzimidazol-2-amine",Small_molecule,smiles
+324,CN(C)CCCn1c(N)nc2ccc3c(c21)C[C@H](CN(C)C)O,"(7R)-7-[(dimethylamino)methyl]-1-[3-(dimethylamino)propyl]-7,8-dihydrofuro[3,2-e]benzimidazol-2-amine",Small_molecule,smiles
+325,CN(C)c1ccc(C(=C2C=CC(=[N+](C)C)C=C2)c2ccccc2)cc1,"[4-[[4-(dimethylamino)phenyl]-phenylmethylidene]cyclohexa-2,5-dien-1-ylidene]-dimethylazanium",Small_molecule,smiles
+326,CN(C)c1ccc2c(-c3ccccc3)c3ccc(=[N+](C)C)cc-3oc2c1,[6-(dimethylamino)-9-phenylxanthen-3-ylidene]-dimethylazanium,Small_molecule,smiles
+327,CN1/C(=C/c2cc[n+](C)c3ccccc23)Sc2ccccc2,"(2Z)-3-methyl-2-[(1-methylquinolin-1-ium-4-yl)methylidene]-1,3-benzothiazole",Small_molecule,smiles
+328,CN1C(=O)C2= C(NC1=O)N=C ,xanthine,Small_molecule,smiles
+329,CN1C(=O)C2=C(NC1=O)N=CN2,1-Methylxanthine,Small_molecule,smiles
+330,CN1C2=C(C(= CC=C2)Cl)C(= N1)CN3CCCCC (C3)N,Hit S4,Small_molecule,smiles
+331,CN1C2=C(C(= O)N(C1=O)C)N C(=O),"1,3-dimethyluric acid",Small_molecule,smiles
+332,CN1C2=C(C(= O)N(C1=O)C)N C=,Theophylline,Small_molecule,smiles
+333,CN1C2=C(C(= O)N(C1=O)CC C(=O)O)NC=N ,CP-theophylline,Small_molecule,smiles
+334,CN1C2=C(C(= O)NC1=O)NC= ,3-methylxanthine,Small_molecule,smiles
+335,CN1C2=C(C(=CC=C2)Cl)C(=N1)CN3CCCCC(C3)N,Hit S4,Small_molecule,smiles
+336,CN1C2=C(C(=O)N(C1=O)C)NC(=O)N2,"1,3-dimethyluric acid",Small_molecule,smiles
+337,CN1C2=C(C(=O)N(C1=O)C)NC=N2,theophylline,Small_molecule,smiles
+338,CN1C2=C(C(=O)N(C1=O)CCC(=O)O)NC=N,Carboxymethyl Theophylline,Small_molecule,smiles
+339,CN1C2=C(C(=O)NC1=O)NC=N2,3-methylxanthine,Small_molecule,smiles
+340,CN1C2CCC1C(C(C2)OC(=O)C3=CC=CC=C3)C(=O),cocaine,Small_molecule,smiles
+341,CN1C=NC(=N)C2=C1N=CN2,3-methyladenine,Small_molecule,smiles
+342,CN1C=NC2=C(C1=N)N=CN2C3C(C(C(O3)CO)O,1-methyladenosine,Small_molecule,smiles
+343,CN1C=NC2=C1 C(=O)N(C(=O) N2C)C,caffeine,Small_molecule,smiles
+344,CN1C=NC2=C1 C(=O)NC(=O)N,7-methylxanthine,Small_molecule,smiles
+345,CN1C=NC2=C1 C(=O)NC(=O)N 2C,"3,7-
+dimethylxanthine",Small_molecule,smiles
+346,CN1C=NC2=C1C(=O)N(C(=O)N2C),caffeine,Small_molecule,smiles
+347,CN1C=NC2=C1C(=O)NC(=O)N2,7-methylxanthine,Small_molecule,smiles
+348,CN1C=NC2=C1C(=O)NC(=O)N2,"3,7-dimethylxanthine",Small_molecule,smiles
+349,CN1CCC23C4C1CC5=C2C(=C(C=C5)O)OC3C(C=C4,morphine,Small_molecule,smiles
+350,CN1CCC23C4C1CC5=C2C(=C(C=C5)OC)OC3C(C=C4)O,Codeine,Small_molecule,smiles
+351,"CN1CCN(CC1)
+c1cc(F)c2c(c1)o c(=O)c(c2)c1ccc (cc1)Cl",SMN2_compoun d_7,Small_molecule,smiles
+352,"CN1CCN(CC1)
+c1cc(F)c2c(c1)o c(=O)c(c2)c1ccc c(c1)Cl",SMN2_compoun d_6,Small_molecule,smiles
+353,"CN1CCN(CC1)
+c1ccc2c(c1)oc(= O)c(c2)c1ccc(cc 1)Cl",SMN2_compoun d_5,Small_molecule,smiles
+354,"CN1CCN(CC1)
+c1ccc2c(c1)oc(= O)c(c2)c1cccc(c 1)Cl",SMN2_compoun d_4,Small_molecule,smiles
+355,"CN1CCN(CC1)
+c1ccc2c(c1)oc(= O)c(c2)c1ccccc1 C",SMN2_compoun d_3,Small_molecule,smiles
+356,"CN1CCN(CC1)
+c1ccc2c(c1)oc(= O)c(c2C)c1ccc( cc1)C",SMN2_compoun d_9,Small_molecule,smiles
+357,"CN1CCN(CC1)
+c1ccc2c(c1)oc(= O)c(c2C)c1cccc (c1)C",SMN2_compoun d_8,Small_molecule,smiles
+358,"CN1CCN(CC1) CCCN2C3=CC
+=CC=C3SC4=C 2C=C(C=C4)C( F)(F)F","SL3
+RNA_ligand17",Small_molecule,smiles
+359,CN1CCN(CC1)CCCN2C3=CC=CC=C3SC4=C2C=C(C=C4)C(F)(F,SL3 RNA_ligand17,Small_molecule,smiles
+360,CN1CCN(CC1)c1cc(F)c2c(c1)oc(=O)c(c2)c1ccc(cc1)Cl,SMN2_compound_7,Small_molecule,smiles
+361,CN1CCN(CC1)c1cc(F)c2c(c1)oc(=O)c(c2)c1cccc(c1)Cl,SMN2_compound_6,Small_molecule,smiles
+362,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2)c1ccc(cc1)Cl,SMN2_compound_5,Small_molecule,smiles
+363,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2)c1cccc(c1)Cl,SMN2_compound_4,Small_molecule,smiles
+364,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2)c1ccccc1C,SMN2_compound_3,Small_molecule,smiles
+365,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2C)c1ccc(cc1)C,SMN2_compound_9,Small_molecule,smiles
+366,CN1CCN(CC1)c1ccc2c(c1)oc(=O)c(c2C)c1cccc(c1)C,SMN2_compound_8,Small_molecule,smiles
+367,CN1CCN(c2ccc3[nH]c(-c4ccc5[nH]c(-c6ccc(N(C)C)cc6)nc5c4)nc3c2)CC,"N,N-dimethyl-4-[6-[6-(4-methylpiperazin-1-yl)-1H-benzimidazol-2-yl]-1H-benzimidazol-2-yl]aniline",Small_molecule,smiles
+368,CN1COCN(C1=N[N+](=O)[O-])CC2=CN=C(S2)Cl,Thiamethoxam,Small_molecule,smiles
+369,CN1[C@H]2CC[C@@H]1[C@H]([C@H](C2)OC(=O)C3=CC=CC=C3)C(=O)O,Cocaine,Small_molecule,smiles
+370,CNC1=C2C(=NC=N1)N(C=N2)C3C(C(C(O3)CO)O),N6-methyladenosine,Small_molecule,smiles
+371,CNC1C(C2C(C C(C(O2)OC3C(,apramycin,Small_molecule,smiles
+372,"CNC1C(C2C(C C(C(O2)OC3C(
+CC(C(C3O)O)N
+)N)N)OC1OC4 C(C(C(C(O4)C
+O)N)O)O)O",apramycin,Small_molecule,smiles
+373,CNC1C(C2C(CC(C(O2)OC3C(CC(C(C3O)O)N)N)N)OC1OC4C(C(C(C(O4)CO)N)O)O),apramycin,Small_molecule,smiles
+374,CNC1C(O)C(OCC1(C)O)OC1C(N)CC(C(C1O)OC1OC(CCC1N)C(CCNC(=O)c1ccc(c(c1)C(=O)O)c1c2ccc(=[N+](C)C)cc2oc2c1ccc(c2)N(C)C)C)N,CRG,Small_molecule,smiles
+375,"CNC1CC(C(C( C1O)OC2C3C( C(C(O2)CO)O)
+OC4(O3)C(C(C(
+C(O4)C(CO)N)
+O)O)O)O)",Hygromycin_B,Small_molecule,smiles
+376,CNC1CC(C(C(C1O)OC2C3C(C(C(O2)CO)O)OC4(O3)C(C(C(C(O4)C(CO)N)O)O)O)O,Hygromycin_B,Small_molecule,smiles
+377,CNCC(=O)O,sarcosine,Small_molecule,smiles
+378,CN[C@@H]1[C@@H](O[C@H]2O[C@H](CO)[C@@H](N)[C@H](O)[C@H]2O)O[C@H]2C[C@@H](N)[C@@H](O[C@H]3[C@H](O)[C@@H](O)[C@H](N)C[C@@H]3N)O[C@@H]2[C@@H],"(2R,3R,4S,5S,6S)-2-[[(2R,3S,4R,4aR,6S,7R,8aS)-7-amino-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2,3-dihydroxycyclohexyl]oxy-4-hydroxy-3-(methylamino)-2,3,4,4a,6,7,8,8a-octahydropyrano[3,2-b]pyran-2-yl]oxy]-5-amino-6-(hydroxymethyl)oxane-3,4-diol",Small_molecule,smiles
+379,CNc1ncnc2[nH]cnc12,N-methyl-7H-purin-6-amine,Small_molecule,smiles
+380,"COC(=O)C1C( CCC2C1CC3C4
+=C(CCN3C2)C5
+=CC=CC=C5N4
+)O",Yohimbine,Small_molecule,smiles
+381,COC(=O)C1C(CCC2C1CC3C4=C(CCN3C2)C5=CC=CC=C5N4,Yohimbine,Small_molecule,smiles
+382,"COC1=C(C=C( C=C1)CN2CCC (CC2)N3CCN(C C3)CCO)OCC4
+=CC=CC=C",Hit S8,Small_molecule,smiles
+383,COC1=C(C=C( C=C1)NCC2=C C=C(S2)[N+] (=O)[O-]),"SL3
+RNA_ligand4",Small_molecule,smiles
+384,COC1=C(C=C(C=C1)CN2CCC(CC2)N3CCN(CC3)CCO)OCC4=CC=CC=C4,Hit S8,Small_molecule,smiles
+385,COC1=C(C=C(C=C1)NCC2=CC=C(S2)[N+](=O)[O-]),SL3 RNA_ligand4,Small_molecule,smiles
+386,"COC1=C(C=CC (=C1)C=CC(=O
+)CC(=O)C=CC2
+=CC(=C(C=C",Curcumin,Small_molecule,smiles
+387,"COC1=C(C=CC (=C1)C=CC(=O
+)CC(=O)C=CC2
+=CC(=C(C=C2) O)OC)O",Curcumin,Small_molecule,smiles
+388,COC1=C(C=CC(=C1)C=CC(=O)CC(=O)C=CC2=CC(=C(C=C2)O)OC,Curcumin,Small_molecule,smiles
+389,COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C(=C1)OC5C4(C=CO5)O,aflatoxin M1,Small_molecule,smiles
+390,COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C(=C1)O[C@@H]5[C@]4(C=CO5,Aflatoxin M1,Small_molecule,smiles
+391,COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C5C=COC5OC4=C,Aflatoxin B1,Small_molecule,smiles
+392,COC1=CC(=CC (=C1O)OC)C2= NC3=C(N2)C= C4C(=C3)NC(= O)N4,B5,Small_molecule,smiles
+393,COC1=CC(=CC(=C1O)OC)C2=NC3=C(N2)C=C4C(=C3)NC(=O),B5,Small_molecule,smiles
+394,COC1=CC2=C(C=CN=C2C=C1)C(C3CC4CCN3CC4C=C)O,Quinine,Small_molecule,smiles
+395,"COC1=CC=C(C
+=C1)N2[C@@ H]([C@H] (OC2=O)COC(= O)CC3=CC=CC
+=C3)CC4=CC= CC=",Oxazolidinone 2,Small_molecule,smiles
+396,COC1=CC=C(C=C1)N2[C@@H]([C@H](OC2=O)COC(=O)CC3=CC=CC=C3)CC4=CC=CC=,Oxazolidinone 2,Small_molecule,smiles
+397,COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)O,Sulfadimethoxine,Small_molecule,smiles
+398,COCCNC(=O)C[n+]1c(Cc2cc[n+](C)c3ccccc23)sc2ccccc,"N-(2-methoxyethyl)-2-[2-[(1-methylquinolin-1-ium-4-yl)methyl]-1,3-benzothiazol-3-ium-3-yl]acetamide",Small_molecule,smiles
+399,"CO[C@@H]1[C @@H]([C@H] (O[C@H]1N2C
+=NC3=C(N=CN
+=C32)N)CO)",2-O-methyl-D- Adenosine,Small_molecule,smiles
+400,"CO[C@@H]1[C @H](O[C@H]
+([C@@H]1O)N 2C=NC3=C(N= CN=C32)N)C",3-O-methyl-D- Adenosine,Small_molecule,smiles
+401,CO[C@@H]1[C@@H]([C@H](O[C@H]1N2C=NC3=C(N=CN=C32)N)CO)O,2-O-methyl-D-Adenosine,Small_molecule,smiles
+402,CO[C@@H]1[C@H](O[C@H]([C@@H]1O)N2C=NC3=C(N=CN=C32)N)CO,3-O-methyl-D-Adenosine,Small_molecule,smiles
+403,COc1cc2nc(N3CCNCC3)nc(N)c2cc1O,"6,7-dimethoxy-2-piperazin-1-ylquinazolin-4-amine",Small_molecule,smiles
+404,COc1ccc(OCCNC(N)=[NH2+])c(CNCCCCNC(N)=[NH2+]),diaminomethylidene-[2-[2-[[4-(diaminomethylideneazaniumyl)butylamino]methyl]-4-methoxyphenoxy]ethyl]azanium,Small_molecule,smiles
+405,COc1ccc2c(CCCC(c3ccccc3)c3ccccc3)c3[n+](cc2c1OC)CCc1cc2c(cc1-3)OCO,"21-(4,4-diphenylbutyl)-16,17-dimethoxy-5,7-dioxa-13-azoniapentacyclo[11.8.0.02,10.04,8.015,20]henicosa-1(13),2,4(8),9,14,16,18,20-octaene",Small_molecule,smiles
+406,COc1nc(N)nc2nc[nH]c12,6-methoxy-7H-purin-2-amine,Small_molecule,smiles
+407,COc1ncc2n(c1)c c(n2)c1cc2ccc(c c2oc1=O)N1CC NCC1,SMN2_compoun d_11,Small_molecule,smiles
+408,COc1ncc2n(c1)cc(n2)c1cc2ccc(cc2oc1=O)N1CCNCC1,SMN2_compound_11,Small_molecule,smiles
+409,CS(=O)(=O)C1=CC=C(C=C1)C(C(CF)NC(=O)C(Cl)Cl)O,florfenicol,Small_molecule,smiles
+410,C[C@@H]1CNCCN2C[C@@H](C)N[Rh@OH9+2]23(N=c2c(c4ccccc4c4ccccc24)=N3),(10-azanidylidenephenanthren-9-ylidene)azanide;[(2R)-2-azanidylpropyl]-[2-[[(2R)-2-azanidylpropyl]amino]ethyl]azanide;rhodium(2+),Small_molecule,smiles
+411,C[C@@H]1Cc2c(Cl)cc(C(=O)N[C@H](Cc3ccccc3)C(=O)O)c(O)c2C(=O)O,"(2R)-2-[[(3R)-5-chloro-8-hydroxy-3-methyl-1-oxo-3,4-dihydroisochromene-7-carbonyl]amino]-3-phenylpropanoic acid",Small_molecule,smiles
+412,C[C@H](O)[C@H](O)[C@H]1CNc2nc(N)[nH]c(=O)c2N1,"(6R)-2-amino-6-[(1R,2S)-1,2-dihydroxypropyl]-5,6,7,8-tetrahydro-3H-pteridin-4-one",Small_molecule,smiles
+413,C[C@H]1CN(C CN1)C2=CC3= C(C=C2)C=C(C (=O)O3)C4=CN 5C=C(N=C(C5= N4)C)C,SMN2_compoun d_1,Small_molecule,smiles
+414,C[C@H]1CN(CCN1)C2=CC3=C(C=C2)C=C(C(=O)O3)C4=CN5C=C(N=C(C5=N4)C),SMN2_compound_1,Small_molecule,smiles
+415,C[C@H]1[C@H]([C@H](C[C@@H](O1)O[C@H]2C[C@@](CC3=C2C(=C4C(=C3O)C(=O)C5=C(C4=O)C(=CC=C5)OC)O)(C(=O)C)O)N,Daunomycin,Small_molecule,smiles
+416,C[N+](CCN[N+]1(C)CCCc2c1cccc2)(C),SL3_compound_6,Small_molecule,smiles
+417,C[N+]1=C(C=C C2=CC=CC=C2 1)/C=C/ C3=CC4=CC=C C=C4N3,Methylquinoliniu m 15,Small_molecule,smiles
+418,C[N+]1=C(C=CC2=CC=CC=C21)/C=C/C3=CC4=CC=CC=C4,Methylquinolinium 15,Small_molecule,smiles
+419,C[N+]1=CC=CC(=C1)C(=O,1-Methylnicotinamide,Small_molecule,smiles
+420,"C[NH+] (C)CCC[NH+]= C(C1=CC=C(C
+=C1)C(=[NH+] CCC[NH",B2,Small_molecule,smiles
+421,"C[NH+] (C)CCC[NH+]= C(C1=CC=C(C
+=C1)C(=[NH+] CCC[NH+] (C)C)N",B2,Small_molecule,smiles
+422,C[NH+](C)CCC/[NH+]=C(\N)c1ccc(/C(N)=[NH+]/CCC[NH+](C)C)cc,3-[amino-[4-[amino-[3-(dimethylazaniumyl)propylazaniumylidene]methyl]phenyl]methylidene]azaniumylpropyl-dimethylazanium,Small_molecule,smiles
+423,C[NH+](C)CCC[NH+]=C(C1=CC=C(C=C1)C(=[NH+]CCC[NH+](C)C)N)N,B2,Small_molecule,smiles
+424,C[NH+]1CCN( CC1)C1=C2C= CC=CC2=[N+] (C)C(C=CC2=C C3=CC=CC=C3 N2)=C,Methylquinoliniu m 23,Small_molecule,smiles
+425,C[NH+]1CCN( CC1)C1=C2C= CC=CC2=[N+] (C)C(C=CC2=C C=C(C=C2)N2 CCOCC2)=,Methylquinoliniu m 22,Small_molecule,smiles
+426,C[NH+]1CCN( CC1)C1=CC=C( C=C1)C1=CC= C2NC(=NC2=C 1)C1=CC(=C(O CCCC(=O)NCC CN=[N+]=[N-]) C(=C1)C(C) (C)C)C(C)(C),Targaprimir-18a,Small_molecule,smiles
+427,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC3=CC=CC=C3N2)=,Methylquinolinium 23,Small_molecule,smiles
+428,C[NH+]1CCN(CC1)C1=C2C=CC=CC2=[N+](C)C(C=CC2=CC=C(C=C2)N2CCOCC2)=C1,Methylquinolinium 22,Small_molecule,smiles
+429,C[NH+]1CCN(CC1)C1=CC=C(C=C1)C1=CC=C2NC(=NC2=C1)C1=CC(=C(OCCCC(=O)NCCCN=[N+]=[N-])C(=C1)C(C)(C)C)C(C)(C,Targaprimir-18a,Small_molecule,smiles
+430,C[S@@+](CC[C@H](N)C(=O)[O-])C[C@H]1O[C@@H](n2cnc3c(N)ncnc32)[C@H](O)[C@@H]1,"(2S)-2-amino-4-[[(2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methyl-methylsulfonio]butanoate",Small_molecule,smiles
+431,C[n+]1cc(NC(=O)c2cccc(C(=O)Nc3cc4ccccc4[n+](C)c3)n2)cc2ccccc,"2-N,6-N-bis(1-methylquinolin-1-ium-3-yl)pyridine-2,6-dicarboxamide",Small_molecule,smiles
+432,C[n+]1ccc(/C=C/Cc2sc3ccccc3[n+]2C)c2ccccc2,"3-methyl-2-[(E)-3-(1-methylquinolin-1-ium-4-yl)prop-2-enyl]-1,3-benzothiazol-3-ium",Small_molecule,smiles
+433,C[n+]1ccc(/C=C/c2ccc3[nH]c4ccc(/C=C/c5cc[n+](C)cc5)cc4c3c2)c,"3,6-bis[(E)-2-(1-methylpyridin-1-ium-4-yl)ethenyl]-9H-carbazole",Small_molecule,smiles
+434,C[n+]1ccc(C[C@@H]2Sc3ccccc3N2CC(=O)NCCOCCOCCOCCNC(=O)CCCC[C@@H]2SC[C@@H]3NC(=O)N[C@@H]32)c2ccccc,"5-[(3aS,4S,6aR)-2-oxo-1,3,3a,4,6,6a-hexahydrothieno[3,4-d]imidazol-4-yl]-N-[2-[2-[2-[2-[[2-[(2S)-2-[(1-methylquinolin-1-ium-4-yl)methyl]-2H-1,3-benzothiazol-3-yl]acetyl]amino]ethoxy]ethoxy]ethoxy]ethyl]pentanamide",Small_molecule,smiles
+435,C[n+]1ccc(Cc2sc3ccccc3[n+]2CC(=O)NCCOCCOCCOCCNC(=O)CCCC[C@H]2SC[C@H]3NC(=O)N[C@H]32)c2ccccc21,"5-[(3aR,4R,6aS)-2-oxo-1,3,3a,4,6,6a-hexahydrothieno[3,4-d]imidazol-4-yl]-N-[2-[2-[2-[2-[[2-[2-[(1-methylquinolin-1-ium-4-yl)methyl]-1,3-benzothiazol-3-ium-3-yl]acetyl]amino]ethoxy]ethoxy]ethoxy]ethyl]pentanamide",Small_molecule,smiles
+436,Cc1cc(N(C)C)ccc1-c1nc2cc(-c3nc4cc(N5CCN(C)CC5)ccc4[nH]3)ccc2[nH,"N,N,3-trimethyl-4-[6-[6-(4-methylpiperazin-1-yl)-1H-benzimidazol-2-yl]-1H-benzimidazol-2-yl]aniline",Small_molecule,smiles
+437,Cc1cc2c3c([n+](C)c4ccc(F)cc4c3c1)-c1cc(F)ccc1N2C,"4,16-difluoro-8,11,20-trimethyl-8-aza-20-azoniapentacyclo[11.7.1.02,7.09,21.014,19]henicosa-1(20),2(7),3,5,9,11,13(21),14(19),15,17-decaene",Small_molecule,smiles
+438,Cc1ccc(cc1)c1n nc(o1)c1nc(NCc 2cccc3c2OCO3) c2c(n1)ccc,NRAS SAR 17,Small_molecule,smiles
+439,Cc1ccc(cc1)c1nnc(o1)c1nc(NCc2cccc3c2OCO3)c2c(n1)ccc,NRAS SAR 17,Small_molecule,smiles
+440,Cc1ccc2c(c1)sc(-c1ccc(N(C)C)cc1)[n+],"4-(3,6-dimethyl-1,3-benzothiazol-3-ium-2-yl)-N,N-dimethylaniline",Small_molecule,smiles
+441,Cc1nc(N)nc(N)n1,"6-methyl-1,3,5-triazine-2,4-diamine",Small_molecule,smiles
+442,Cc1ncc(CN=[N+]=[N-])c(N),5-(azidomethyl)-2-methylpyrimidin-4-amine,Small_molecule,smiles
+443,Cc1ncc(C[n+]2csc(CCO)c2C)c(N)n,"2-[3-[(4-amino-2-methylpyrimidin-5-yl)methyl]-4-methyl-1,3-thiazol-3-ium-5-yl]ethanol",Small_molecule,smiles
+444,Cc1oc2ccc(O)c(CN3CCCCCC3)c2c1C(=O)Nc1ccc(C(F)(F)F)c,4-(azepan-1-ylmethyl)-5-hydroxy-2-methyl-N-[4-(trifluoromethyl)phenyl]-1-benzofuran-3-carboxamide,Small_molecule,smiles
+445,Cc1oc2nc1-c1nc(co1)C(=O)N[C@@H](CCCCN)c1nc(co1)-c1nc(co1)-c1nc(co1)C(=O)N[C@@H](CCCCN)c1nc-2c(C),"(12S,27S)-12,27-bis(4-aminobutyl)-4,30-dimethyl-3,7,14,18,22,29-hexaoxa-11,26,31,32,33,34,35,36-octazaheptacyclo[26.2.1.12,5.16,9.113,16.117,20.121,24]hexatriaconta-1(30),2(36),4,6(35),8,13(34),15,17(33),19,21(32),23,28(31)-dodecaene-10,25-dione",Small_molecule,smiles
+446,Clc1ccc(cc1)c1n nc(o1)c1nc2cccc c2c(n1)c1ccc(cc 1)N(C),NRAS SAR 8,Small_molecule,smiles
+447,Clc1ccc(cc1)c1nnc(o1)c1nc2ccccc2c(n1)c1ccc(cc1)N(C),NRAS SAR 8,Small_molecule,smiles
+448,"Cn1c(NCc2cccc (c2)C(=O)C)ncc
+1c1ccc(cc1)C(= O",Compound 5,Small_molecule,smiles
+449,Cn1c(NCc2cccc(c2)C(=O)C)ncc1c1ccc(cc1)C(=O,Compound 5,Small_molecule,smiles
+450,Cn1cc(NC(=O)c2cc(NC(=O)c3cc(NC(=O)c4nccn4C)cn3C)cn2C)cc1C(=O)NCCC(=O)NCCC[NH+](C),dimethyl-[3-[3-[[1-methyl-4-[[1-methyl-4-[[1-methyl-4-[(1-methylimidazole-2-carbonyl)amino]pyrrole-2-carbonyl]amino]pyrrole-2-carbonyl]amino]pyrrole-2-carbonyl]amino]propanoylamino]propyl]azanium,Small_molecule,smiles
+451,Coc1ccc2c(c1)c(Nc1ccc(c(c1)CN1CCN(CC1)C)O)c1c(n2)cc(cc1)C,Acridine_derivative_2 (AD2),Small_molecule,smiles
+452,DHNPPTIELIQRFCSDVDMWLKEDSSNVVAVHCKAGKGRTGTMICAYLVFSGIKKSADEALAWYDEKRTKDRKGVTIPSQRRYVQYFSKLVCSSVPYSKVSLNVCEIRFSESSCVQNLGMVECSISVLHDSATENAKPDRLKTLPIDFQKSFVLTIKPSIPVSGDVKFELTKKSPDKIICHFWLNTFFVRNYSPCESDGTVNKYIHTLSKSEIDDVHKDSEHKRFSEEFKISIVFEAENFSNDVQAEASEKERNENVLNFERSDYDSLSPNCYAEKKVLTAIVNDNTTKSQTIETLDHKDIVTKIQYDTSTNSKNTSTACKRKQPNSKTLLPSLNDSTKEEIKRNHIFNQPSIKKTDLIKWQNSEVHITRSINENKNINYNSYITCKQSSPKFNCGTEDGEEDWESGESTY,Phosphatase_and_Tensin_Homologue,protein,sequence
+453,DPAFEGPYFQSHNAGRHREAAEGLFAAGRAYYCDCTREQLKERTGSEHLGYDGFCRERGLGYAAGRALRFRTPDEGETVVADLVRGEPAFPNSAIEDFVIARGDGSPVFLLANVVDDLDEGITQVIRGEEHLSNTPKQQLLWEALGAGPPVWAHLPVIVNEKRQKLSKRRDKVALEDYLGEGFLPEALVNYLMLLGWGPGGDREIMPYEELERLFRIEDVNTAPAFFDVKKLTAFNGEYLRALAPAQFAAACVPWLVAPYAPWRPEAFDKDVFEAAAPLARTRLTRLSEITGYVDFLFLDEPVDDEVSWHKAMKEGAADILTDVRAGLAAVTGWTAEELKGVLLAVGEQHGLKLGKAQAPVRVAVTGRTVGLPLFRVPGTGSAGSGCWPGWTPQIRRLAGRGAPG,tRNAsynthetase,protein,sequence
+454,EFPPSTFYRVTLYGLYKGELLDPVFAEAITEAEPEVEHITVSDITPHSFKVTWTAPEAVFDSFALKVLDSSGLGRPHQISVSGDKRTEAVTGLNEDTDYEIELFGIILGRKFQPIFTVARTGLGTRKGIRFSDVTDTSATVHWTMPHTRVDNYRVIYVPIQGGSPLTLRVDGGESQAMLSNLTPGVTYQVTVIAVKGLEESEPGSVTTALDKPRGLTAVNISDTEALLLWQPSIATVDGYVITYSADSVAPVMERVSGNTVEFEMSSLTPATLYTVKVYAFRDTAKSAATSTDFTTDVDAPQNLAASNIQTETAMLTWKPPRADISGYILSFESADGVVKEVVLSPTATFYSMSHLTASTEYTVKLQAIAGPKRSRVISTVFLTIGVLYKHPKDCSQALLNGDTTSGFYTIYLRGDESQPLQVYCDMTTDGGGWIVFVRRQSGKVEFFRNWKNYTAGFGDLNDEFWLGLSNLHKITSFGQYELRVDLRDKGESAYAQYDKFSISEPRARYKVHVGGYSGTAGDSMTYHHGRPFSTYDNDNDIAVTNCALSYKGAFWYKNCHRVNIMGRYGDNSHSKGVNWFHWKGHEHSVEFAEMKIRPANFRNFEGRKK,Tenascin_C,protein,sequence
+455,ERDCRVSSFRVKENFDKARFAGTWYAMAKKDPEGLFLQDNIVAEFSVDENGHMSATAKGRVRLLNNWDVCADMVGTFTDTEDPAKFKMKYWGVASFLQKGNDDHWIIDTDYETFAVQYSCRLLNLDGTCADSYSFVFARDPSGFSPEVQKIVRQRQEELCLARQYRLIPHNGYCDGKSNIL,Retinol_binding_protein_4,protein,sequence
+456,Fc1ccc(cc1)c1n nc(o1)c1nc(NC Cc2ccco2)c2c(n 1)cccc2,NRAS SAR 2,Small_molecule,smiles
+457,Fc1ccc(cc1)c1nnc(o1)c1nc(NCCc2ccco2)c2c(n1)cccc2,NRAS SAR 2,Small_molecule,smiles
+458,GLVKKAHEISVLCDAELALIIFSPKGKLYEYATDSKMEIIRYERYTYAEKALIASDPDVQGNWCHEYIKLKAKFEALNKSQRHLMGEQLDTLNQKELLQLETKLEGSLKNVRSRKTQLMLDSISELQEKGKSLQEQNTCLEKEILGKQKDKAPKQHVQWEKQNQPPPTSSAPMPFLIGDIHPTPNIRNFQGRTVAD,TvFL3_Thermoplasma_volcanium,protein,sequence
+459,GRQVDIDGEDYQRRDSIAQLLEDWGLIVIEDSAREDLFGLTNNFRVISFKQKDDWTLKAKYTI,RB69_RegA,protein,sequence
+460,GSNITRVESETKVVILDSFEPLRAETDDAELSVAAECLKKPPKYPPALPIWARPDYNPPLLDRWKAPDYVPPTVHGCALPP,Hepatitis_C_virus_core_and_NS5_proteins,protein,sequence
+461,"H] (C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]4CCC
+N4C(=O)c4cc5c (nc4CC)cccc5)C (=O)N[C@@H]
+(C(=O)NCCCN) CCCCN)CCC3)
+c1CC)cccc",unknown,Small_molecule,smiles
+462,"H]([C@@H]
+([C@H]
+(O3)COP(=O)
+(O)OP(=O)
+(O)OP(=O)
+(O)O)O)O",unknown,Small_molecule,smiles
+463,IMEIRTVAVGIVAIKGVESEYYLAMNKEGKLYAKKECNEDCNFKELILENHYNTYASAKWTHSGGEMFVALNQKGLPVKGKKTKKEQKTAHFLPMA,Keratinocyte_growth_factor,protein,sequence
+464,LLNGSLAEEIVIRTENIADNTKDIIVQFNKTVSIACWHNNTRRGIHIGPGQAFYATGDIIGDIRQAHCNVSGENWTETMEWVKAKLEKTFNVTNITFEPPITGGDLEITTHSFNCRGEFFYCNTSKLFNSSELNSIKGKENYTIILPCRIKQFVRMWQRVGQAMYAPPIEGNITCISNITGLILTRDGGINRTNDTFRPGGGDMRDNWRRK,Envelope_glycoprotein_GP120,protein,sequence
+465,LQENFLPQPRQQHHGTLVLHYRPHREEAGMQHPCLWPGSSHCSDDSTLRRLQCESVTSIGAVC,prothrombin,protein,sequence
+466,MAAGTAVGAWVLVLSLWGAVVGAQNITARIGEPLVLKCKGAPKKPPQRLEWKLNTGRTEAWKVLSPQGGGPWDSVARVLPNGSLFLPAVGIQDEGIFRCQAMNRNGKETKSNYRVRVYQIPGKPEIVDSASELTAGVPNKVGTCVSEGSYPAGTLSWHLDGKPLVPNEKGVSVKEQTRRHPETGLFTLQSELMVTPARGGDPRPTFSCSFSPGLPRHRALRTAPIQPRVWEPVPLEEVQLVVEPEGGAVAPGGTVTLTCEVPAQPSPQIHWMKDGVPLPLPPSPVLILPEIGPQDQGTYSCVATHSSHGPQESRAVSISIIEPGEEGPTAGSVGGSGLGTLALALGILGGLGTAALLIGVILWQRRQRRGEERKAPENQEEEEERAELNQSEEPEAGESSTG,Advanced_glycation_end-product,protein,sequence
+467,MAAKVASTSSEEAEGSLVTEGEMGEKALPVVYKRYICSFADCGAAYNKNWKLQAHLCKHTGEKPFPCKEEGCEKGFTSLHHLTRHSLTHTGEKNFTCDSDGCDLRFTTKANMKKHFNRFHNIKICVYVCHFENCGKAFKKHNQLKVHQFSHTQQLPYECFGCDKRFSLPSRLKRHEKVHAGYPCKKDDSCSFVGKTWTLYLKHVAECHQDLAVCDVCNRKFRHKDYLRDHQKTHEKERTVYLCPRDGCDRSYTTAFNLRSHIQSFHEEQRPFVCEHAGCGKCFAMKKSLERHSVVHDPEKRKLKEKCPRPKRSLASRLTGYIPPKSKEKNASVSGTEKTDSLVKNKPSGTETNGSLVLDKLTIQ,Zinc_finger_protein_TFIIIA,protein,sequence
+468,MACAAARSPADQDRFICIYPAYLNNKKTIAEGRRIPISKAVENPTATEIQDVCSAVGLNVFLEKNKMYSREWNRDVQYRGRVRVQLKQEDGSLCLVQFPSRKSVMLYAAEMIPKLKTRTQKTGGADQSLQQGEGSKKGKGKKKK,SRP19_protein,protein,sequence
+469,MAGPQALAFGLLLAVVTATLAAAQRDCVCDNYKLATSCSLNEYGECQCTSYGTQNTVICSKLASKCLAMKAEMTHSKSGRRIKPEGAIQNNDGLYDPDCDEQGLFKAKQCNGTATCWCVNTAGVRRTDKDTEITCSVRTYWIIIELKHKERESPYDHQSLQTALQEAFTSRYKLNQKFIKNIMYENNVITIDLMQNSSQKTQDDVDIADVAYYFEKDVKGESLFHSSKSMDLRVNGEPLDLDPGQTLIYYVDEKAPEFSMQGLTAGIIAVIVVVSLAVIAGIVVLVISTRKKSAKYEKAEIKEMGEIHRELNA,Epithelial_cell_adhesion_molecule,protein,sequence
+470,MAGRSGDSDEELLKAVRLIKFLYQSNPPPNPEGTRQARRNRRRRWRERQRQIHSISERILSTYLGRSAEPVPLQLPPLERLTLDCNEDCGTSGTQGVGSPQILVESPTISGA,HIV-1_Rev_binding_protein,protein,sequence
+471,MAINNTGSRRLLVTLTALFAALCGLYLLIGGGWLVAIGGSWYYPIAGLVMLGVAWMLWRSKRAALWLYAALLLGTMIWGVWEVGFDFWALTPRSDILVFFGIWLILPFVWRRLVIPASGAVAALVVALLISGGILTWAGFNDPQEINGTLSADATPAEAISPVADQDWPAYGRNQEGQRFSPLKQINADNVHNLKEAWVFRTGDVKQPNDPGEITNEVTPIKVGDTLYLCTAHQRLFALDAASGKEKWHYDPELKTNESFQHVTCRGVSYHEAKAETASPEVMADCPRRIILPVNDGRLIAINAENGKLCETFANKGVLNLQSNMPDTKPGEPTSPPIITDKTIVMAGSVTDNFSTRETSGVIRGFDVNTGELLWAFDPGAKDPNAIPSDEHTFTFNSPNSWAPAAYDAKLDLVYLPMGVTTPDIWGGNRTPEQERYASSILALNATTGKLAWSYQTVHHDLWDMDLPAQPTLADITVNGQKVPVIYAPAKTGNIFVLDRRNGELVVPAPEKPVPQGAAKGDYVTPTQPFSELSFRPTKDLSGADMWGATMFDQLVCRVMFHQMRYEGIFTPPSEQGTLVFPGNLGMFEWGGISVDPNREVAIANPMALPFVSKLIPRGPGNPMEQPKDAKGTGTESGIQPQYGVPYGVTLNPFLSPFGLPCKQPAWGYISALDLKTNEVVWKKRIGTPQDSMPFPMPVPVPFNMGMPMLGGPISTAGNVLFIAATADNYLRAYNMSNGEKLWQGRLPAGGQATPMTYEVNGKQYVVISAGGHGSFGTKMGDYIVAYALPDDV,quinoprotein_glucose_dehydrogenase_PQQGDH,protein,sequence
+472,MAIPKELLVLLLGIAILSKVAECAAFGSRRGLVETVFDVTRFGARPNTPADSTRGLMMAWRSACQSPGPAKVVIPPGTYTTGETIFQGPCTSPRPITIEIQGTLLSNTDMSLYTRAAWISIEHVDGIVITGGGTLNGQGKSSWQFADKSGSTPPLPSSLVFQTVRSSSIKNLNFVDAKGVHLKITDSSDISVSNIKITAPGDSPNTDGLHISDTINVNVTDSTIGTGDDCISIGDGNSNVYISNINCGPGHGISIGSLGKRLDETDVKGVTVRNCTFRGTTNGARIKTYMGSPSLQVSGVVYEDIILDNVKNPIVIDQHYHSKNRNEPSRVKLVDIHFRNIRGTTTSKIPVLLNCSEALPCEGVELVDIDLAPVGSIGPLLPATCQNAKTILNGKNNPP,NTS_1,protein,sequence
+473,MAITKINDCFELLSMVTYADKLKSLIKKEFSISFEEFAVLTYISENKEKEYYLKDIINHLNYKQPQVVKAVKILSQEDYFDKKRNEHDERTVLILVNAQQRKKIESLLSRVNKRITEANNEIE,SarA,protein,sequence
+474,MAKGEFIRTKPHVNVGTIGHVDHGKTTLTAALTYVAAAENPNVEVKDYGDIDKAPEERARGITINTAHVEYETAKRHYSHVDCPGHADYIKNMITGAAQMDGAILVVSAADGPMPQTREHILLARQVGVPYIVVFMNKVDMVDDPELLDLVEMEVRDLLNQYEFPGDEVPVIRGSALLALEEMHKNPKTKRGENEWVDKIWELLDAIDEYIPTPVRDVDKPFLMPVEDVFTITGRGTVATGRIERGKVKVGDEVEIVGLAPETRKTVVTGVEMHRKTLQEGIAGDNVGLLLRGVSREEVERGQVLAKPGSITPHTKFEASVYILKKEEGGRHTGFFTGYRPQFYFRTTDVTGVVRLPQGVEMVMPGDNVTFTVELIKPVEEGLRFAIREGGRTVGAGVVTKIL,EFTuGDP,protein,sequence
+475,MAMQMQLEANADTSVEEESFGPQPISRLEQCGINANDVKKLEEAGFHTVEAVAYAPKKELINIKGISEAKADKILAEAAKLVPMGFTTATEFHQRRSEIIQITTGSKELDKLLQGGIETGSITEMFGEFRTGKTQICHTLAVTCQLPIDRGGGEGKAMYIDTEGTFRPERLLAVAERYGLSGSDVLDNVAYARAFNTDHQTQLLYQASAMMVESRYALLIVDSATALYRTDYSGRGELSARQMHLARFLRMLLRLADEFGVAVVITNQVVAQVDGAAMFAADPKKPIGGNIIAHASTTRLYLRKGRGETRICKIYDSPCLPEAEAMFAINADGVGDAKD,Human_Rad51,protein,sequence
+476,MANLGYWLLALFVTMWTDVGLCKKRPKPGGWNTGGSRYPGQGSPGGNRYPPQGGTWGQPHGGGWGQPHGGSWGQPHGGSWGQPHGGGWGQGGGTHNQWNKPSKPKTNLKHVAGAAAAGAVVGGLGGYMLGSAMSRPMIHFGNDWEDRYYRENMYRYPNQVYYRPVDQYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCVTQYQKESQAYYDGRRSSSTVLFSSPPVILLISFLIFLI,recombinant_mouse_prion_protein_amino_acids_23-230,protein,sequence
+477,MAPFLRIAFNSYELGSLQAEDEANQPFCAVKMKEALSTERGKTLVQKKPTMYPEWKSTFDAHIYEGRVIQIVLMRAAEEPVSEVTVGVSVLAERCKKNNGKAEFWLDLQPQAKVLMSVQYFLEDVDCKQSMRSEDEAKFPTMNRRGAIKQAKIHYIKNHEFIATFFGQPTFCSVCKDFVWQKQGYKCRQCNAAIHKKCIDKIIGRCTGTAANSRDTIFQKERFNIDMPHRFKVHNYMSPTFCDHCGSLLWGLVKQGLKCEDCGMNVHHKCREKVANLCGINQKLLAEALNQVTQRASRRSDSASSEPVGIYQGFEKKTGVAGEDMQDNSGTYGKIWEGSSKCNINNFIFHKVLGKGSFGKVLLGELKGRGEYFAIKALKKDVVLIDDDVECTMVEKRVLTLAAENPFLTHLICTFQTKDHLFFVMEFLNGGDLMYHIQDKGRFELYRATFYAAEIMCGLQFLHSKGIIYRDLKLDNVLLDRDGHIKIADFGMCKENIFGESRASTFCGTPDYIAPEILQGLKYTFSVDWWSFGVLLYEMLIGQSPFHGDDEDELFESIRVDTPHYPRWITKESKDILEKLFEREPTKRLGVTGNIKIHPFFKTINWTLLEKRRLEPPFRPKVKSPRDYSNFDQEFLNEKARLSYSDKNLIDSMDQSAFAGFSFVNPKFEHLLE,Protein_kinase_C_delta,protein,sequence
+478,MARVRGPRLPGCLALAALFSLVHSQHVFLAHQQASSLLQRARRANKGFLEEVRKGNLERECLEEPCSREEAFEALESLSATDAFWAKYTACESARNPREKLNECLEGNCAEGVGMNYRGNVSVTRSGIECQLWRSRYPHKPEINSTTHPGADLRENFCRNPDGSITGPWCYTTSPTLRREECSVPVCGQDRVTVEVIPRSGGSTTSQSPLLETCVPDRGREYRGRLAVTTSGSRCLAWSSEQAKALSKDQDFNPAVPLAENFCRNPDGDEEGAWCYVADQPGDFEYCDLNYCEEPVDGDLGDRLGEDPDPDAAIEGRTSEDHFQPFFNEKTFGAGEADCGLRPLFEKKQVQDQTEKELFESYIEGRIVEGQDAEVGLSPWQVMLFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNFTVDDLLVRIGKHSRTRYERKVEKISMLDKIYIHPRYNWKENLDRDIALLKLKRPIELSDYIHPVCLPDKQTAAKLLHAGFKGRVTGWGNRRETWTTSVAEVQPSVLQVVNLPLVERPVCKASTRIRITDNMFCAGYKPGEGKRGDACEGDSGGPFVMKSPYNNRWYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWIQKVIDRLG,Bovine_Thrombin,protein,sequence
+479,MASDSIFESFPSYPQCFMRECILGMNPSRDVHDASTSRRFTPPSTALSPGKMSEALPLGAPDAGAALAGKLRSGDRSMVEVLADHPGELARTDSPNFLCSVLPTHWRCNKTLPIAFKVVALGDVPDGTLVTVMAGNDENYSAELRNATAAMKNQVARFNDLRFVGRSGRGKSFTLTITVFTNPPQVATYHRAIKITVDGPREPRRHRQKLDDQTKPGSLSFSERLSELEQLRRTAMRVSPHHPAPTPNPRASLNHSTAFNPQPQSQMQDTRQIQPSPPWSYDQSYQYLGSIDSVHPATPISPGRASGMTTLSAELSSRLSTAPSFLFLSNKMLTCKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKK,RUNX1,protein,sequence
+480,MASNFTQFVLVDNGGTGDVTVAPSNFANGVAEWISSNSRSQAYKVTCSVRQSSAQNRKYTIKVEVPKVATQTVGGVELPVAAWRSYLNMELTIPIFATNSDCELIVKAMQGLLKDGNPIPSAIAANSGI,MS2CoatProtein,protein,sequence
+481,MASTSRLDALPRVTCPNHPDAILVEDYRAGDMICPECDRVIDVGSEWRTFSNDKATKDPSRVGDSQNPLLSDGDLSTMIGKGTGAASFDEFGNSKYQNRRTMSSSDRAMMNAFKEITTMADRINLPRNIVDRTNNLFKQVYEQKSLKGRANDAIASACLYIACRQEGVPRTFKEICAVSRISKKEIGRCFKLILKALETSVDLITTGDFMSRFCSNLCLPKQVQMAATHIA,general_transcription_factor_IIB,protein,sequence
+482,MATQADLMELDMAMEPDRKAAVSHWQQQSYLDSGIHSGATTTAPSLSGKGNPEEEDVDTSQVLYEWEQGFSQSFTQEQVADIDGQYAMTRAQRVRAAMFPETLDEGMQIPSTQFDAAHPTNVQRLAEPSQMLKHAVVNLINYQDDAELATRAIPELTKLLNDEDQVVVNKAAVMVHQLSKKEASRHAIMRSPQMVSAIVRTMQNTNDVETARCTAGTLHNLSHHREGLLAIFKSGGIPALVKMLGSPVDSVLFYAITTLHNLLLHQEGAKMAVRLAGGLQKMVLNKTNVKFLAITTDCLQILAYGNQESKLIILASGGPQALVNIMRTYTYEKLLWTTSRVLKVLSVCSSNKPAIVEAGGMQALGLHLTDPSQRLVQNCLWTLRNLSDAATKQEGMEGLLGTLVQLLGSDDINVVTCAAGILSNLTCNNYKNKMMVCQVGGIEALVRTVLRAGDREDITEPAICALRHLTSRHQEAEMAQNAVRLHYGLPVVVKLLHPPSHWPLIKATVGLIRNLALCPANHAPLREQGAIPRLVQLLVRAHQDTQRRTSMGGTQQQFVEGVRMEEIVEGCTGALHILARDVHNRIVIRQTIPLFVQLLYSPIENIQRVAAGVLCELAQDKEAAEAIEAEGATAPLTELLHSRNEGVATYAAAVLFRMSEDKPQDYKKRLSVELTSSLFRTEPMAWNETADLGLDIGAQGEALGYRQDDPSYRSFHSAGYGQDALGMDPMMEHEMGGHHPGADYPVDGLPDLGHAQDLMDGLPPGDSNQLAWFDTD,Beta-catenin,protein,sequence
+483,MAVAQELYGFPASKLDSFVAQWLQPTREWKEEVLETVQTVEQFLRQENFREDRGPARDVRVLKVLKVGCFGNGTVLRSTTDVELVVFLSCFHSFQEEAKHHQAVLRLIQKRMYYCQELMDLGLSNLSVTNRVPSSLIFTIQTRETWETITVTVVPAYRALGPSCPSSEVYANLIKANGYPGNFSPSFSELQRNFVKHRPTKLKSLLRLVKHWYQQYVRDKCPRANLPPLYALELLTVYAWEAGTREDANFRLDEGLATVMELLQDHELLCIYWTKHYTLQHPVIEACVRRQLRGQRPIILDPADPTNNVAEGYRWDIVAQRANQCLKQDCCYDNRDSPVPSWRVKRAPDIQVTVQEWGHSDLTFWVNPYEPIKKLKEKIQLSQGYLGLQRLSFQEPGGERQLIRSHCTLAYYGIFCDTHICLLDTISPEIQVFVKNPDGRSHAYAIHPLDYVLNLKQQIEDRQGLRCQEQRLEFQGHIDWFDFKSYGIQDSVTVILSKTTEGAAPFVP,oligoadenylate_synthetase,protein,sequence
+484,MAWYWWRRRRRRGWWKPRRRRWRRRRARRRGPARRHRARRRIVRHPCNGQTSSGNRVPRSVQAVDPKYVSLQLVWHSWDFRRGLFGQAGIKRMQQESDALTLSPVHRPKRPKRDTQVKEKTPEKDSDSAVQLRRLQPWIHSSQETKDEEEEIPEGPVQEQLLQQLQQQRLLRVQLESIAQEVLKIRRGHSLHPLLSSH,Recombinant_CUG-binding_protein_1_Open_Reading_Frame_ORF,protein,sequence
+485,MCLSEGIMCSIPPYLQFVFRYPLKSYSFGTKEPNYERDRSVPARFQRLQEDFEKYGMRRSVEGILLVHEHNLPHVLLLQLGTFFKLPGGELHPGEEEIEGLKRLLSEMLGRTDGIPVDWIPEDCIGNWWRPNFEPPRYPYIPAHVTKPKEQTRLFLIQLPEKTLFAVPSNYKLVAAPLFELFDNARAYGPIISSLPQVLSRFNFAYN,Human_Cleavage_Factor_Im,protein,sequence
+486,MDELFPLIFPAEPAQASGPYVEIIEQPKQRGMRFRYKCEGRSAGSIPGERSTDTTKTHPTIKINGYTGPGTVRISLVTKDPPHRPHPHELVGKDCRDGFYEAELCPDRCIHSFQNLGIQCVKKRDLEQAISQRIQTNNNPFQVPIEEQRGDYDLNAVRLCFQVTVRDPSGRPLRLPPVLSHPIFDNRAPNTAELKICRVNRNSGSCLGGDEIFLLCDKVQKEDIEVYFTGPGWERSFSQADVHRQVAIVFRTPPYADPSLQAPVRVSMQLRRPSDRELSEPMEFQYLPDTDDRHRIEEKRKRTYETFKSIMKKSPFSGPTDPRPPPRRIAVPSRSSASVPKPAPQPYPFTSSLSTINYDEFPTMVFPSGQISQASALAPAPPQVLPQAPAPAPAPAMVSALAQAPAPVPVLAPGPPQAVAPPAPKPTQAGEGTLSEALLQLQFDDEDLGALLGNSTDPAVFTDLASVDNSEFQQLLNQGIPVAPHTTEPMLMEYPEAITRLVTGAQRPPDPAPAPLGAPGLPNGLLSGDEDFSSIADMDFSALLSQI,Human_Nuclear_Factor_kB_RelA_p65,protein,sequence
+487,MDEVGAQVAAPMFIHQSLGRKRDLYYPMSNRLVQSQPQRRDEWNSKMWDWDSRRFEAKPVDVEVQEFDLTLRNRSGEERGLDLNLGSGLTAVEETTTTTQNVRPNKKVRSGSPGGNYPMCQVDNCTEDLSHAKDYHRRHKVCEVHSKATKALVGKQMQRFCQQCSRFHLLSEFDEGKRSCRRRLAGHNRRRRKTTQPEEVASGVVVPGNHDTTNNTANANMDLMALLTACAQGKNAVKPPVGSPAVPDREQLLQILNKINALPLPMDLVSKLNNIGSLARKNMDHPTVNPQNDMNGASPSTMDLLAVLSTTLGSSSPDALAILSQGGFGNKDSEKTKLSSYENGVTTNLEKRTFGFSSVGGERSSSSNQSPSQDSDSRGQDTRSSLSLQLFTSSPEDESRPTVASSRKYYSSASSNPVEDRSPSSSPVMQELFPLQDETMRSKNHKNSSPRTGCLPLELFGNRGAADPNFKGFGQQSGYASSGSDYSPPSLNSDAQDRTGKIVFKLLDKDPSQLPGTLRSEIYNWLSNIPSEMESYIRPGCVVLSVYVAMSPAAWEQLEQKLLQRLGVLLQNSPSDFWRNARFIVNTGRQLASHKNGKVRCSKSWRTWNSPELISVSPVAVVAGEETSLVVRGRSLTNDGISIRCTHMGSYMAMEVTRAVCRQTIFDELNVNSFKVQNVHPGFLGRCFIEVENGFRGDSFPLIIANASICKELNRLGEEFHPKSQDMTEEQAQSSNRGPTSREEVLCFLNELGWLFQKNQTSELREQSDFSLARFKFLLVCSVERDYCALIRTLLDMLVERNLVNDELNREALDMLAEIQLLNRAVKRKSTKMVELLIHYLVNPLTLSSSRKFVFLPNITGPGGITPLHLAACTSGSDDMIDLLTNDPQEIGLSSWNTLRDATGQTPYSYAAIRNNHNYNSLVARKLADKRNKQVSLNIEHEVVDQTGLSKRLSLEMNKSSSSCASCATVKYQRRVSGSQRLFPTPIIHSMLAVATVCVCVCVFMHAFPIVRQGSHFSWGGLDYGSI,atSPL14,protein,sequence
+488,MDHLNEATQGKEHSEMSNNVSDPKGPPAKIARLEQNGSPLGRGRLGSTGAKMQGVPLKHSGHLMKTNLRKGTMLPVFCVVEHYENAIEYDCKEEHAEFVLVRKDMLFNQLIEMALLSLGYSHSSAAQAKGLIQVGKWNPVPLSYVTDAPDATVADMLQDVYHVVTLKIQLHSCPKLEDLPPEQWSHTTVRNALKDLLKDMNQSSLAKECPLSQSMISSIVNSTYYANVSAAKCQEFGRWYKHFKKTKDMMVEMDSLSELSQQGANHVNFGQQPVPGNTAEQPPSPAQLSHGSQPSVRTPLPNLHPGLVSTPISPQLVNQQLVMAQLLNQQYAVNRLLAQQSLNQQYLNHPPPVSRSMNKPLEQQVSTNTEVSSEIYQWVRDELKRAGISQAVFARVAFNRTQGLLSEILRKEEDPKTASQSLLVNLRAMQNFLQLPEAERDRIYQDERERSLNAASAMGPAPLISTPPSRPPQVKTATIATERNGKPENNTMNINASIYDEIQQEMKRAKVSQALFAKVAATKSQGWLCELLRWKEDPSPENRTLWENLSMIRRFLSLPQPERDAIYEQESNAVHHHGDRPPHIIHVPAEQIQQQQQQQQQQQQQQQAPPPPQPQQQPQTGPRLPPRQPTVASPAESDEENRQKTRPRTKISVEALGILQSFIQDVGPDEEAIQTLSAQLDLPKYTIIKFFQNQRYYLKHHGKLKDNSGLEVDVAEYKEEELLKDLEESVQDKNTNTLFSVKLEEELSVEGNTDINTDLK,Special_AT-rich_sequence-binding_protein1_SATB1_Cut_Domain_CD_and_Homeodomain_HD,protein,sequence
+489,MDKFWWHAAWGLCLVPLSLAQIDLNITCRFAGVFHVEKNGRYSISRTEAADLCKAFNSTLPTMAQMEKALSIGFETCRYGFIEGHVVIPRIHPNSICAANNTGVYILTSNTSQYDTYCFNASAPPEEDCTSVTDLPNAFDGPITITIVNRDGTRYVQKGEYRTNPEDIYPSNPTDDDVSSGSSSSSTSGGYIFYTFSTVHPIPDEDSPWITDSTDRIPATTLMSTSATATETATKRQETWDWFSWLFLPSESKNHLHTTTQMAGTSSNTISAGWEPNEENEDERDRHLSFSGSGIDDDEDFISSTISTTPRAFDHTKQNQDWTQWNPSHSNPEVLLQTTTRMTDVDRNGTTAYEGNWNPEAHPPLIHHEHHEEEETPHSTSTIQATPSSTTEETATQKEQWFGNRWHEGYRQTPKEDSHSTTGTAAASAHTSHPMQGRTTPSPEDSSWTDFFNPISHPMGRGHQAGRRMDMDSSHSITLQPTANPNTGLVEDLDRTGPLSMTTQQSNSQSFSTSHEGLEEDKDHPTTSTLTSSNRNDVTGGRRDPNHSEGSTTLLEGYTSHYPHTKESRTFIPVTSAKTGSFGVTAVTVGDSNSNVNRSLSGDQDTFHPSGGSHTTHGSESDGHSHGSQEGGANTTSGPIRTPQIPEWLIILASLLALALILAVCIAVNSRRRCGQKKKLVINSGNGAVEDRKPSGLNGEASKSQEMVHLVNKESSETPDQFMTADETRNLQNVDMKIG,CD44-Fc,protein,sequence
+490,MDKLVVNYYEYKHPIINKDLAIGAHGGKKFPTLGAWYDVINEYEFQTRCPIILKNSHRNKHFTFACHLKNCPFKVLLSYAGNAASSETSSPSANNNTNPPGTPDHIHHHSNNMNNEDNDNNNGSNNKVSNDSKLDFVTDDLEYHLANTHPDDTNDKVESRSNEVNGNNDDDADANNIFKQQGVTIKNDTEDDSINKASIDRGLDDESGPTHGNDSGNHRHNEEDDVHTQMTKNYSDVVNDEDINVAIANAVANVDSQSNNKHDGKDDDATNNNDGQDNNTNNDHNNNSNINNNNVGSHGISSHSPSSIRDTSMNLDVFNSATDDIPGPFVVTKIEPYHSHPLEDNLSLGKFILTKIPKILQNDLKFDQILESSYNNSNHTVSKFKVSHYVEESGLLDILMQRYGLTAEDFEKRLLSQIARRITTYKARFVLKKKKMGEYNDLQPSSSSNNNNNNDGELSGTNLRSNSIDYAKHQEISSAGTSSNTTKNVNNNKNDSNDDNNGNNNNDNLMESVLDKTSSHRYQPKKMPSVNKWSKPDQITHSDVSMVGLDESNDGGNENVHPTLAEVDAQEARETAQLAIDKINSYKRSIDDKNGDGHNNSSRNVVDENLINDMDSEDAHKSKRQHLSDITLEERNEDDKLPHEVAEQLRLLSSHLKEVENLHQNNDDDVDDVMVDVDVESQYNKNTTHHNNHHSQPHHDEEDVAGLIGKADDEEDLSDENIQPELR,ARS_Binding_Factor_1,protein,sequence
+491,MDSTNYISKLFEYAQRQGQISDIKFEEVGTDGPDHLKTFTLRVVIKGHAYPNGVGKTKKEAKRNAAKHALIGMMETTEQKDASVSCPPSPAPSPAPPVRAVISQPKYVSWLNEHSQKNKLSLKALEGARVGPNNTSQCCRYVVGEKEYPEGFGNTKKEAKEEAAMQVYLELCGGSQTTGTVDENCNGTTGKHKEELNGKVVVLSEKVEHMNMSPAQNVPEQYSFITTEETNFIGILNHYCQKTKRFLDFKLVEKSGPSHNPQFVYKVLIDKREYPDGLGKTAKEAKQQAAQLAWSALQEQSDWNSQVSCRSTVSEEGGLSSLTPSSTWESQDATPSSLSIAGSTSESIIFSDSVNVSSPKDESPVNVKPKIRLAANFQMSPVKTKQEGPNLKGNDLGTLSSGRTSNQPVISRFSSEFDSIENIGKGGFGHVYKARRKLEQKYFAVKIVRSKGKAKREVGADLQHPNIVRYYTAWLEDTAYRCDTASESDTTSDSGSSSSSEFLYIQMELCDKRTLKVWIDERNAHRKPKRREESLSITQQIVNGVEYIHSKKLLHRDLKPANIMFGMSDGEGKGEVKIGDFGLVTAEDNDNDENLLERTKKTGTVSYMAPEQRNQTSYDRKVDIFALGLIYFEPLWDLSGMEKAKVWNDVRSQRFPQQFNSQFTLENKVIESLLCANPEERPDARQLKTKLNECSRVLTRVHNIHQDNR,dsRNA_activated_protein_kinase,protein,sequence
+492,MEDDDSYVPSDLTAEERQELENIRRRKQELLADIQRLKEEIAEVANEIESLGSTEERKNMQRNKQVAMGRKKFNMDPKKGIQFLIENGLLKNTCEDIAQFLYKGEQKTAIGDYLGERDEFSIQVLHAFVELHEFTDLNLVQALRQFLWSFRLPGEAQKIDRMMEAFAQRYCQCNTGVFQSTDTCYVLSFAIIMLNTSLHNPNVKDKPTVERFIAMNRGINDGGDLPEELLRNLYESIKNEPFKIPVWFFLQNLYESIKNEPFKIPEDDGNDLTHTFFNPDREGWLLKLGGGRVKTWKRRWFILTDNCLYYFEYTTDKEPRGIIPLENLSIREVEDSKKPNCFELYIPDNKDQVIKACKTEADGRVVEGNHTVYRISAPTPEEKEDWIKCIKAAISRDPFYEMLAARKKKVSSTKR,Cytohesin_1,protein,sequence
+493,MEDLVVEVRGSNGAFYKAFVKDVHEDSITVAFENNWQPDRQIPFHDVRFPPPVGYNKDINESDEVEVYSRANEKEPCCWWLAKVRMIKGEFYVIEYAACDATYNEIVTIERLRSVNPNKPATKETFHKIKLDVPEDLRQMCAKESAHKDFKKAVGAFSVTYDPENYQLVVLSISEVTSKRAHMLIDMHFRSLRTKLSLILRNEEASKQLESSRQLASRFHEQFVVREDLMGLAIGTHGANIQQARKVPGVTAIDLDEDTCTFHIYGEDQDAVKKARSFLEFAEDVIQVPRNLVGKVIGKKKKK,Fmr1,protein,sequence
+494,MEGMLKGEGPGPLPPLLQQYVELRDQYPDYLLLFQVGDFYECFGEDAERLARALGLVLTHKTSKDFTTPMAGIPLRAFEAYAERLLKMGFRLAVADQVEPAEEAEGLVRREVTQLLTPGTLLQESLLPREANYLAAIATGDGWGLAFLDVSTGEFKGTVLKSKSALYDELFRHRPAEVLLAPELLENGAFLDEFRKRFPVMLSEAPFEPEGEGPLALRRRALLAYAQRTQGGALSLQPFRFYDPGAFMRLPEATLRALEVFEPLRGQDTLFSVLDETRTAPGRRLLQSWLRHPLLDRGPLEARLDRVEGFVREGALREGVRRLLYRLADLERLATRLELGRASPKDLGALRRSLQILPELRALLGEEVGLPDLSPLKEELEAALVEDPPLKVSEGGLIREGYDPDLDALRAAHREGVAYFLELEERERERTGIPTLKVGYNAVFGYYLEVTRPYYERVPKEYRPVQTLKDRQRYTLPEMKEKEREVYRLEALIRRREEEVFLEVRERAKRQAEALREAARILAELDVYAAEVAVRYGYVRPRFGDRLQIRAGRHPVVERRTEFVPNDLEMAHELVLITGPNMAGKSTFLRQTALIALLAQVGSFVPAEEAHLPLFDGIYTRIGASDDLAGGKSTFMVEMEEVILKEATENSLVLLDEVGRGTSSLDGVAIATAVAEALHERRAYTLFATHYFELTALGLPRLKNLHVAAREEAGGLVFYHQVLPGPASKSYGVEVAAMAGLPKEVVARARALLQAMAARREGALDAVLERLLALDPDRLTPLEALRLLQELKALGAPLDTMK,DNA_mismatch_repair_protein_MutS,protein,sequence
+495,MEKLLCFLVLTSLSHAFGQTDMSRKAFVFPKESDTSYVSLKAPLTKPLKAFTVCLHFYTELSSTRGYSIFSYATKRQDNEILIFWSKDIGYSFTVGGSEILFEVPEVTVAPVHICTSWESASGIVEFWVDGKPRVRKSLKKGYTVGAEASIILGQEQDSFGGNFEGSQSLVGDIGNVNMWDFVLSPDEINTIYLGGPFSPNVLNWRALKYEVQGEVFTKPQL,C-reactive_protein,protein,sequence
+496,MEKVQYLTRSAIRRASTIEMPQQARQKLQNLFINFCLILICLLLICIIVML,Phospholamban,protein,sequence
+497,MELAAWCRWGFLLALLPPGIAGTQVCTGTDMKLRLPDETHLDMLRHLYQGCQVVQGNLELTYVPANASLSFLQDIQEVQGYMLIAHNQVKRVPLQRLRIVRGTQLFEDKYALAVLDNRDPQDNVAASTPGRTPEGLRELQLRSLTEILKGGVLIRGNPQLCYQDMVLWKDVFRKNNQLAPVDIDTNRSRACPPCAPACKDNHCWGESPEDCQILTGTICTSGCARCKGRLPTDCCHEQCAAGCTGPKHSDCLACLHFNHSGICELHCPALVTYNTDTFESMHNPEGRYTFGASCVTTCPYNYLSTEVGSCTLVCPPNNQEVTAEDGTQRCEKCSKPCARVCYGLGMEHLRGARAITSDNVQEFDGCKKIFGSLAFLPESFDGDPSSGIAPLRPEQLQVFETLEEITGYLYISAWPDSLRDLSVFQNLRIIRGRILHDGAYSLTLQGLGIHSLGLRSLRELGSGLALIHRNAHLCFVHTVPWDQLFRNPHQALLHSGNRPEEDLCVSSGLVCNSLCAHGHCWGPGPTQCVNCSHFLRGQECVEECRVWKGLPREYVSDKRCLPCHPECQPQNSSETCFGSEADQCAACAHYKDSSSCVARCPSGVKPDLSYMPIWKYPDEEGICQPCPINCTHSCVDLDERGCPAEQRASPVTFIIATVVGVLLFLILVVVVGILIKRRRQKIRKYTMRRLLQETELVEPLTPSGAMPNQAQMRILKETELRKVKVLGSGAFGTVYKGIWIPDGENVKIPVAIKVLRENTSPKANKEILDEAYVMAGVGSPYVSRLLGICLTSTVQLVTQLMPYGCLLDHVREHRGRLGSQDLLNWCVQIAKGMSYLEDVRLVHRDLAARNVLVKSPNHVKITDFGLARLLDIDETEYHADGGKVPIKWMALESILRRRFTHQSDVWSYGVTVWELMTFGAKPYDGIPAREIPDLLEKGERLPQPPICTIDVYMIMVKCWMIDSECRPRFRELVSEFSRMARDPQRFVVIQNEDLGPSSPMDSTFYRSLLEDDDMGDLVDAEEYLVPQQGFFSPDPTPGTGSTAHRRHRSSSTRSGGGELTLGLEPSEEGPPRSPLAPSEGAGSDVFDGDLAMGVTKGLQSLSPHDLSPLQRYSEDPTLPLPPETDGYVAPLACSPQPEYVNQSEVQPQPPLTPEGPLPPVRPAGATLERPKTLSPGKNGVVKDVFAFGGAVENPEYLVPREGTASPPHPSPAFSPAFDNLYYWDQNSSEQGPPPSNFEGTPTAENPEYLGLDVPV,ERBB2_Receptor_Protein-Tyrosine_Kinase,protein,sequence
+498,MEPVDPRLEPWKHPGSQPKTACTNCYCKKCCFHCQVCFITKALGISYGRKKRRQRRRAHQNSQTHQASLSKQPTSQPRGDPTGP,HIV-1_Tat_Protein,protein,sequence
+499,MEYASDASLDPEAPWPPAPRARACRVLPWALVAGLLLLLLLAAACAVFLACPWAVSGARASPGSAASPRLREGPELSPDDPAGLLDLRQGMFAQLVAQNVLLIDGPLSWYSDPGLAGVSLTGGLSYKEDTKELVVAKAGVYYVFFQLELRRVVAGEGSGSVSLALHLQPLRSAAGAAALTVDLPPASSEARNSAFGFQGRLLHLSAGQRLGVHLHTEARARHAWQLTQGATVLGLFRVTPEIPAGLPSPR,4-1BB_ligand,protein,sequence
+500,MGAARSPPSAVPGPLLGLLLLLLGVLAPGGASLRLLDHRALVCSQPGLNCTVKNSTCLDDSWIHPRNLTPSSPKDLQIQLHFAHTQQGDLFPVAHIEWTLQTDASILYLEGAELSVLQLNTNERLCVRFEFLSKLRHHHRRWRFTFSHFVVDPDQEYEVTVHHLPKPIPDGDPNHQSKNFLVPDCEHARMKVTTPCMSSGSLWDPNITVETLEAHQLRVSFTLWNESTHYQILLTSFPHMENHSCFEHMHHIPAPRPEEFHQRSNVTLTLRNLKGCCRHQVQIQPFFSSCLNDCLRHSATVSCPEMPDTPDGLPAADLIPPPLKPRKVWIIYSADHPLYVDVVLKFAQFLLTACGTEVDLLEEQAISEAGVMTWVGRQKQEMVESNSKIIVLCSRGTRAKWQALLGRGAPVRLRCDHGKPVGDLFTAAMNMILPDFKRPACFGTYVVCYFSEVSCDGDVPDLFGAAPRYPLMDRFEEVYFRIQDLEMFQPGRMHRVGELSGDNYLRSPGGRQLRAALDRFRDWQVRCPDWFECENKADDQDAPSLDEEVFEEPLLPPGTGIVKRAPLVREPGSQACLAIDPLVGEEGGAAVAKLEPHLQPRGQPAPQPLHTLVLAAEEGALVAAVEPGPLADGAAVRLAGEGEACPLLGSPGAGRNSVLFLPVDPEDSPLGSSTPMASPDLLPEDVREHLEGLMLSLFEQSLSCQAQGGCSRPAMVLTDPHTPYEEEQRQSVQSDQGYISRSSPQPPEGLTEMEEEEEEEQDPGKPALPLSPEDLESLRSLQRQLLFRQLQKNSGWDTMGSESEGPS,Interleukin_17_A_A,protein,sequence
+501,MGCRRTREGPSKAMIFPWKCQSTQRDLWNIFKLWGWTMLCCDFLAHHGTDCWTYHYSEKPMNWQRARRFCRDNYTDLVAIQNKAEIEYLEKTLPFSRSYYWIGIRKIGGIWTWVGTNKSLTEEAENWGDGEPNNKKNKEDCVEIYIKRNKDAGKWNDDACHKLKAALCYTASCQPWSCSGHGECVEIINNYTCNCDVGYYGPQCQFVIQCEPLEAPELGTMDCTHPLGNFSFSSQCAFSCSEGTNLTGIEETTCGPFGNWSSPEPTCQVIQCEPLSAPDLGIMNCSHPLASFSFTSACTFICSEGTELIGKKKTICESSGIWSNPSPICQKLDKSFSMIKEGDYNPLFIPVAVMVTAFSGLAFIIWLARRLKKGM,L-selectin,protein,sequence
+502,MGLLGILCFLIFLGKTWGQEQTYVISAPKIFRVGASENIVIQVYGYTEAFDATISIKSYPDKKFSYSSGHVHLSSENKFQNSAILTIQPKQLPGGQNPVSYVYLEVVSKHFSKSKRMPITYDNGFLFIHTDKPVYTPDQSVKVRVYSLNDDLKPAKRETVLTFIDPEGSEVDMVEEIDHIGIISFPDFKIPSNPRYGMWTIKAKYKEDFSTTGTAYFEVKEYVLPHFSVSIEPEYNFIGYKNFKNFEITIKARYFYNKVVTEADVYITFGIREDLKDDQKEMMQTAMQNTMLINGIAQVTFDSETAVKELSYYSLEDLNNKYLYIAVTVIESTGGFSEEAEIPGIKYVLSPYKLNLVATPLFLKPGIPYPIKVQVKDSLDQLVGGVPVTLNAQTIDVNQETSDLDPSKSVTRVDDGVASFVLNLPSGVTVLEFNVKTDAPDLPEENQAREGYRAIAYSSLSQSYLYIDWTDNHKALLVGEHLNIIVTPKSPYIDKITHYNYLILSKGKIIHFGTREKFSDASYQSINIPVTQNMVPSSRLLVYYIVTGEQTAELVSDSVWLNIEEKCGNQLQVHLSPDADAYSPGQTVSLNMATGMDSWVAAVDSAVYGVQRGAKKPLERVFQFLEKSDLGCGAGGGLNNANVFHLAGLTFLTNANADDSQENDEPCKEILRPRRTLQKKIEEIAAKYKHSVVKKCCYDGACVNNDETCEQRAARISLGPRCIKAFTECCVVASQLRANISHKDMQLGRLHMKTLLPVSKPEIRSYFPESWLWEVHLVPRRKQLQFALPDSLTTWEIQGVGISNTGICVADTVKAKVFKDVFLEMNIPYSVVRGEQIQLKGTVYNYRTSGMQFCVKMSAVEGICTSESPVIDHQGTKSSKCVRQKVEGSSSHLVTFTVLPLEIGLHNINFSLETWFGKEILVKTLRVVPEGVKRESYSGVTLDPRGIYGTISRRKEFPYRIPLDLVPKTEIKRILSVKGLLVGEILSAVLSQEGINILTHLPKGSAEAELMSVVPVFYVFHYLETGNHWNIFHSDPLIEKQKLKKKLKEGMLSIMSYRNADYSYSVWKGGSASTWLTAFALRVLGQVNKYVEQNQNSICNSLLWLVENYQLDNGSFKENSQYQPIKLQGTLPVEARENSLYLTAFTVIGIRKAFDICPLVKIDTALIKADNFLLENTLPAQSTFTLAISAYALSLGDKTHPQFRSIVSALKREALVKGNPPIYRFWKDNLQHKDSSVPNTGTARMVETTAYALLTSLNLKDINYVNPVIKWLSEEQRYGGGFYSTQDTINAIEGLTEYSLLVKQLRLSMDIDVSYKHKGALHNYKMTDKNFLGRPVEVLLNDDLIVSTGFGSGLATVHVTTVVHKTSTSEEVCSFYLKIDTQDIEASHYRGYGNSDYKRIVACASYKPSREESSSGSSHAVMDISLPTGISANEEDLKALVEGVDQLFTDYQIKDGHVILQLNSIPSSDFLCVRFRIFELFEVGFLSPATFTVYEYHRPDKQCTMFYSTSNIKIQKVCEGAACKCVEADCGQMQEELDLTISAETRKQTACKPEIAYAYKVSITSITVENVFVKYKATLLDIYKTGEAVAEKDSEITFIKKVTCTNAELVKGRQYLIMGKEALQIKYNFSFRYIYPLDSLTWIEYWPRDTTCSSCQAFLANLDEFAEDIFLN,HumanComplementC5,protein,sequence
+503,MGRPLHLVLLSASLAGLLLLGESLFIRREQANNILARVTRANSFLEEMKKGHLERECMEETCSYEEAREVFEDSDKTNEFWNKYKDGDQCETSPCQNQGKCKDGLGEYTCTCLEGFEGKNCELFTRKLCSLDNGDCDQFCHEEQNSVVCSCARGYTLADNGKACIPTGPYPCGKQTLERRKRSVAQATSSSGEAPDSITWKPYDAADLDPTENPFDLLDFNQTQPERGDNNLTRIVGGQECKDGECPWQALLINEENEGFCGGTILSEFYILTAAHCLYQAKRFKVRVGDRNTEQEEGGEAVHEVEVVIKHNRFTKETYDFDIAVLRLKTPITFRMNVAPACLPERDWAESTLMTQKTGIVSGFGRTHEKGRQSTRLKMLEVPYVDRNSCKLSSSFIITQNMFCAGYDTKQEDACQGDSGGPHVTRFKDTYFVTGIVSWGEGCARKGKYGIYTKVTAFLKWIDRSMKTRGLPKAKSHAPEVITSSP,Factor_X,protein,sequence
+504,MGVHECPAWLWLLLSLLSLPLGLPVLGAPPRLICDSRVLERYLLEAKEAENITTGCAEHCSLNENITVPDTKVNFYAWKRMEVGQQAVEVWQGLALLSEAVLRGQALLVNSSQPWEPLQLHVDKAVSGLRSLTTLLRALGAQKEAISPPDAASAAPLRTITADTFRKLFRVYSNFLRGKLKLYTGEACRTGD,Recombinant_Human_Erythropoietin-a,protein,sequence
+505,MGVLLTQRTLLSLVLALLFPSMASMAAIGSCSKEYRVLLGQLQKQTDLMQDTSRLLDPYIRIQGLDVPKLREHCRERPGAFPSEETLRGLGRRGFLQTLNATLGCVLHRLADLEQRLPKAQDLERSQIEDLEKLQMARPNILGLRNNIYCMAQLLDNSDTAEPTKAGRGASQPPTPTPASDAFQRKLEGCRFLHGYHRFMHSVGRVFSKWGESPNRSRRHSPHQALRKGVRRWSRKGKRLMTRGQLPR,Oncostatin_M,protein,sequence
+506,MHGDTPTLHEYMLDLQPETTDLYCYEQLNDSSEEEDEIDGPAGQAEPDRAHYNIVTFCCKCDSTLRLCVQSTHVDIRTLEDLLMGTLGIVCPICSQ,E7_papillomavirus_oncoprotein,protein,sequence
+507,MHRPQRQQWIANGCAPKWRAMMRLAAAVAVLVVVTTLATAATAAGAKNEHQQQQQQQAWMESFPPMSADFPAGPALSDAEAAFLQVPEAERCRAHLKYLTSLPHVAGTPGDYETAEYVLNQFKSFGLDAVIQNETVLLTAPVEAASAKLYSADGTTLVYAAALSEDLLDPTADTPYRNHSFLGYSPTGSAAGPLVYVNYGSTEDFEYLVAQGVNLTGAIAIARYGSIFRGLKALNAQTHGMAGLIIYSDPSDDGYAQGQLYPNGPWRPESGIQRGSVVFNSLCGGDPGRGVDKCGIPLEDLIPSIPVLPMGYGDAVQFLSHIVGAPAPASWQGALPFQYNIGPGAFARIATNNTQYTTDIWNVVAYINGTDPVEGEDYVILGNHRDAWVYGAVDPNSGTAALLEIARAYGVLLQGGWQPKRGLVLTSWDGEEYGLLGSTAFGERFADDLILHAVAYLNIDTAVMGPQLWVTLVPSLLTHFRQTAALVKDPVTGNPLSVEWDGSYDIMGSGSDYTVFLDALGVASGDLLFGGAYGVYHSVFDSFNWMETQGDPTFQYHEACAQIFGLVGLRLADARILPFNYTEYAYAISTFYLPQVQQLATDAKLPVDFTALTNAAQQFASGASKIMSRVEQAYNNPNYNVVDLNSRLFLAERQFTDPNGIINRKWFKHTVFAPDRENGYDASSFPGIVDMIRTGNATLAQQAITSAATALSNVGTFLSY,Prostate_specific_membrane_antigen,protein,sequence
+508,MIPPPRRSASSTPKDYRSSRDLQPWRGVSSGDAAETSQQSRHRRDAIADGGGRLKGAAQSSPSSGTRRSGPYAQGRAMPKNENIPKPGKQRLGPRKKKLSTLKKKILLDRLERWRDKQHEGALSTPSATASSEEAKCNNPFPLCPPGELSPPPSPPATICPAVVDKSTSYGQVGGANGERSVWAITIYNLVDQEDVEDDDDHAEIERDLWDMSSAFGVVRSVQVPRGTAVQVSDAEVSAAAAAGEPAAVAAKVAFATNAEAECARDGLNGRIVGGKPLLVRIHRCDGHFCGGVCPGDPDGSGLWRVAIENLIDEEDDLDDEDEYAEISANVSAMMGCYGKLVDVQVRRSSPSKGEVQEDVATRAATTAGATQAVVVTFGSLAEAEACVQGIKGCRVGGKELDAHVVLDSVLPSNPAFKCDQEHAHSSDVAAAVAGQGDSMMKQEAGTEPSPCVDQDTAAAVASSTEWRVVIRGLIDEDDLQDDDDDYAEVCSDVTALVSSYGAVVGLDIPRGRETGSCCYGAEPGEAVVVFRSLQEAEACARGLSGRKVAGNILDAQVLTQPAPSQQGPLQGGASGTGPPVANRERKPAKECPLPQHQASSHQSCGKVPELDGSGPGMLRGFGNRVEDCCGRPKIACTDSDEPQAIAAAAPPGQSIEGPKTTALAKAGKRIQTKYQEAAALPKPPGVRGGLPNAYVNQPPDKEVNDLVFEMLQLLFKFQERARLSDPSKAKTRRRLVIGLREVLRGVKAKKVRLLIVAPNVDAVGGEGGLDDKVVEIIDKAREAEYPVVFALSKRKIGKALGKTIKVSAVGVYSFDGANEQQKQLKRRMETISSLPSPSPRQSDPPTDDALASPPSSSACGDSQDPAGKGS,SECIS_binding_protein_2,protein,sequence
+509,MKEFEVKVASTAFVLVLFSLTINQILASETSTKFRSPVPAPTVPDWNHLPNEGNEENVVSAPKQDGASGGQKPYWTKREKMMKRLHAEPAGNTVRFRCAVDGNPKPQVLWYKNDLIVQKNDRVGGYKYRNQVLILESVVLSDKGNYMCVARNEYGSINHTYQLDVQERSASKPILAEGLPQNKSAYIGDDVTFKCKVYSDAHPHIQWLKSINNHNNAAPNYTVLKAAGVNTTDLDMEVLILKNVSFEEAGEYTCLAGNSIGISHQSAWLSVLPVPPPTTDTITKGIPNETNIIIYVMCGVLVILFGLAVVLVLYYHCYNGKDPPMLVRIENPDNIPPMTKIEHPTMLFGNTQAWQRMCMPMQEPFEFNIQLDLQWELQREDITLVERLDEGFFGQVFKADLVTCNNTRKEKMVCAVKMLKGNRNEKDVLDLLTEMDQMKRVGKHKNIINLLGVCTQNGPLWLVIEYAAQGNLRDYLRRNRPQNTLCNLVLPSEGRNPDDELPVPHGDTLTQKDIVSFAFQVARGLEFLAQKKCIHRDLAARNVLVTEELVMKIADFGLARDIRSCDYYRKHTRGHLPYKWMALEAMSDNIFTHATDVWSFGVLLWEIFSLAGSPYPGIKTHELVKFLRSGERLDKPQYASQEMYRLMRDCWEEDPSKRPNFRTLVEDLDRMLAESSTEVYIDFAAGCEAEYSESSEDESESQNSDEEDDDSVFERMRQIDSLSNGNIPFNEEDSSNSDPYVAPLLQNEENVLQNEHARLRSE,Basic_fibroblast_growth_factor,protein,sequence
+510,MKKRKVLIPLMALSTILVSSTGNLEVIQAEVKQENRLLNESESSSQGLLGYYFSDLNFQAPMVVTSSTTGDLSIPSSELENIPSENQYFQSAIWSGFIKVKKSDEYTFATSADNHVTMWVDDQEVINKASNSNKIRLEKGRLYQIKIQYQRENPTEKGLDFKLYWTDSQNKKEVISSDNLQLPELKQKSSNSRKKRSTSAGPTVPDRDNDGIPDSLEVEGYTVDVKNKRTFLSPWISNIHEKKGLTKYKSSPEKWSTASDPYSDFEKVTGRIDKNVSPEARHPLVAAYPIVHVDMENIILSKNEDQSTQNTDSQTRTISKNTSTSRTHTSEVHGNAEVHASFFDIGGSVSAGFSNSNSSTVAIDHSLSLAGERTWAETMGLNTADTARLNANIRYVNTGTAPIYNVLPTTSLVLGKNQTLATIKAKENQLSQILAPNNYYPSKNLAPIALNAQDDFSSTPITMNYNQFLELEKTKQLRLDTDQVYGNIATYNFENGRVRVDTGSNWSEVLPQIQETTARIIFNGKDLNLVERRIAAVNPSDPLETTKPDMTLKEALKIAFGFNEPNGNLQYQGKDITEFDFNFDQQTSQNIKNQLAELNATNIYTVLDKIKLNAKMNILIRDKRFHYDRNNIAVGADESVVKEAHREVINSSTEGLLLNIDKDIRKILSGYIVEIEDTEGLKEVINDRYDMLNISSLRQDGKTFIDFKKYNDKLPLYISNPNYKVNVYAVTKENTIINPSENGDTSTNGIKKILIFSKKGYE,Anthrax_Protective_Antigen,protein,sequence
+511,MKKTLIAIAASAASGMAHAWMTGDFNGSVDIGGSITADDYRQKWEWKVGTGLNGFGNVLNDLTNGGTKLTITVTGNKPILLGRTKEAFATPVTGGVDGIPHIAFTDYEGASVVLRNPDGETNKKGLAYFVLPMKNAEGTKVGSVKVNASYAGVLGRGGVTSADGELLSLFADGLSSIFYGGLPRGSELSAGSAAAARTKLFGSLSRNDILGQIQRVNANITSLVDVAGSYRENMEYTDGTVVSAAYALGIANGQTIEATFNQAVTTSTQWSAPLNVAITY,Escherichia_coli_K88,protein,sequence
+512,MKPGGNTIVIWMYAVATWLCFGSTSGWSFTLEDNNIFPKQYPIINFTTAGATVQSYTNFIRAVRGRLTTGADVRHEIPVLPNRVGLPINQRFILVELSNHAELSVTLALDVTNAYVVGYRAGNSAYFFHPDNQEDAEAITHLFTDVQNRYTFAFGGNYDRLEQLAGNLRENIELGNGPLEEAISALYYYSTGGTQLPTLARSFIICIQMISEAARFQYIEGEMRTRIRYNRRSAPDPSVITLENSWGRLSTAIQESNQGAFDIQLQRRNGSKFSVYDVSILIPIIALMVYRCAPPPSSQFSLLIRPVVPNFNADVCMDPEPIVRIVGRNGLCVDVRDGRFHNGNAIQLWPCKSNTDANQLWTLKRDNTIRSNGKCLTTYGYSPGVYVMIYDCNTAATDATRWQIWDNGTIINPRSSLVLAATSGNSGTTLTVQTNIYAVSQGWLPTNNTQPFVTTIVGGLCLQANSGQVWIEDCSSEKAEQQWALYADGSIRPQQNRDNCLTSDSNIRETVVKILSCGPASSGQRWMFKNDGTILNKGLVLDVRASDPSLKQIILYPLHGDPNQIWLPLF,Ricin_A_Chain,protein,sequence
+513,MKPSIVAKLEALHERHEEVQALLGDAQTIADQERFRALSREYAQLSDVSRCFTDWQQVQEDIETAQMMLDDPEMREMAQDELREAKEKSEQLEQQLQVLLLPKDPDDERNAFLEVRAGTGGDEAALFAGDLFRMYSRYAEARRWRVEIMSASEGEHGGYKEIIAKISGDGVYGRLKFESGGHRVQRVPATESQGRIHTSACTVAVMPELPDAELPDINPADLRIDTFRSSGAGGQHVNTTDSAIRITHLPTGIVVECQDERSQHKNKAKALSVLGARIHAAEMAKRQQAEASTRRNLLGSGDRSDRNRTYNFPQGRVTDHRINLTLYRLDEVMEGKLDMLIEPIIQEHQADQLAALSEQE,Escherichia_coli_release_factor_1,protein,sequence
+514,MKPTAMALMCLLLAAVWIQDVDSKSMLTVSNSCCLNTLKKELPLKFIQCYRKMGSSCPDPPAVVFRLNKGRESCASTNKTWVQNHLKKVN,mouse_CCL1_chemokine_mCCL1,protein,sequence
+515,MKQYLNTVISNPRPAQALGINQPFVVFCFITSRALSFVPAIYWCFKCLHLAFVADKFKWLPLTSALWTLVSAYLSFVLANGFLLKWLIHYSIGPTIIRLFSLNVINFSFLSLSVSFITHGDNAYLLPAWIAISCFQTAAYIVQDWITSPIIRTLPFRSSSSSSSNYRHNLDFLEITVFAVVPVGIASFFTMVMLIWQLYKYPDSFLV,Glycosylation,protein,sequence
+516,MKRASAGGSRLLAWVLWLQAWQVAAPCPGACVCYNEPKVTTSCPQQGLQAVPVGIPAASQRIFLHGNRISHVPAASFRACRNLTILWLHSNVLARIDAAAFTGLALLEQLDLSDNAQLRSVDPATFHGLGRLHTLHLDRCGLQELGPGLFRGLAALQYLYLQDNALQALPDDTFRDLGNLTHLFLHGNRISSVPERAFRGLHSLDRLLLHQNRVAHVHPHAFRDLGRLMTLYLFANNLSALPTEALAPLRALQYLRLNDNPWVCDCRARPLWAWLQKFRGSSSEVPCSLPQRLAGRDLKRLAANDLQGCAVATGPYHPIWTGRATDEEPLGLPKCCQPDAADKASVLEPGRPASAGNALKGRVPPGDSPPGNGSGPRHINDSPFGTLPGSAEPPLTAVRPEGSEPPGFPTSGPRRRPGCSRKNRTRSHCRLGQAGSGGGGTGDSEGSGALPSLTCSLTPLGLALVLWTVLG,Nogo-66_Receptor,protein,sequence
+517,MKTLLLLAVIMIFGLLQAHGNLVNFHRMIKLTTGKEAALSYGFYGCHCGVGGRGSPKDATDRCCVTHDCCYKRLEKRGCGTKFLSYKFSNSGSRITCAKQDSCRSQLCECDKAAATCFARNKTTYNKKYQYYSNKHCRGSTPRC,hnps_PLA2,protein,sequence
+518,MKTLLLLLLVLLELGEAQGSLHRVPLRRHPSLKKKLRARSQLSEFWKSHNLDMIQFTESCSMDQSAKEPLINYLDMEYFGTISIGSPPQNFTVIFDTGSSNLWVPSVYCTSPACKTHSRFQPSQSSTYSQPGQSFSIQYGTGSLSGIIGADQVSAFATQVEGLTVVGQQFGESVTEPGQTFVDAEFDGILGLGYPSLAVGGVTPVFDNMMAQNLVDLPMFSVYMSSNPEGGAGSELIFGGYDHSHFSGSLNWVPVTKQAYWQIALDNIQVGGTVMFCSEGCQAIVDTGTSLITGPSDKIKQLQNAIGAAPVDGEYAVECANLNVMPDVTFTINGVPYTLSPTAYTLLDFVDGMQFCSSGFQGLDIHPPAGPLWILGDVFIRQFYSVFDRGNNRVGLAPA,Cathepsin_E,protein,sequence
+519,MLDLFADAEPWQEPLAAGAVILRRFAFNAAEQLIRDINDVASQSPFRQMVTPGGYTMSVAMTNCGHLGWTTHRQGYLYSPIDPQTNKPWPAMPQSFHNLCQRAATAAGYPDFQPDACLINRYAPGAKLSLHQDKDEPDLRAPIVSVSLGLPAIFQFGGLKRNDPLKRLLLEHGDVVVWGGESRLFYHGIQPLKAGFHPLTIDCRYNLTFRQAGKKE,AlkB,protein,sequence
+520,MLNQLDNLTERVRGSNKLVDRWLHVRKHLLVAYYNLVGIKPGKESYMRLNEKALDDFCQSLVDYLSAGHFSIYERILHKLEGNGQLARAAKIWPQLEANTQQIMDYYDSSLETAIDHDNYLEFQQVLSDIGEALEARFVLEDKLILLVLDAARVKH,σ70_subunit_Escherichia_coli_RNA_polymerase,protein,sequence
+521,MLPWTALGLALSLRLARSGAERGPPASAPRGDLMFLLDSSASVSHYEFSRVREFVGQLVAPLPLGTGALRASLVHVGSRPYTEFPFGQHSSGEAAQDAVRASAQRMGDTHTGLALVYAKEQLFAEASGARPGVPKVLVWVTDGGSSDPVGPPMQELKDLGVTVFIVSTGRGNFLELSAAASAPAEKHLHFVDVDDLHIIVQELRGSILDAMRPQQLHATEITSSGFRLAWPPLLTADSGYYVLELVPSAQPGAARRQQLPGNATDWIWAGLDPDTDYDVALVPESNVRLLRPQILRVRWGEAGPGASGPESGAGPAPTQLAALPAPEEAGPERIVISHARPRSLRVSWAPALGSAAALGYHVQFGPLRGGEAQRVEVPAGRNCTTLQGLAPGTAYLVTVTAAFRSGRESALSAKACTPDGPRPRPRPVPRAPTPGTASRE,Von_Willebrand_factor_A1_domain,protein,sequence
+522,MLSWGYFLFLLPTLPGAQSQVQLVESGGDVRKPGDSLRLSCKGSGFTFSNYWLGWVRQAPGKALNGSLPLTPLAAAPTYIPGVSGRFTISRDNARALLHLDMSDLRPEDTGRYHCER,Immunoglobulin_E,protein,sequence
+523,MNFLLSWVHWSLALLLYLHHAKWSQAAPMAEGGGQNHHEVVKFMDVYQRSYCHPIETLVDIFQEYPDEIEYIFKPSCVPLMRCGGCCNDEGLECVPTEESNITMQIMRIKPHQGQHIGEMSFLQHNKCECRPKKDRARQEKKSVRGKGKGQKRKRKKSRYKSWSVYVGARCCLMPWSLPGPHPCGPCSERRKHLFVQDPQTCKCSCKNTDSRCKARQLELNERTCRCDKPR,human_vascular_endothelial_growth_factor_VEGF165,protein,sequence
+524,MNIFEMLRIDEGLRLKIYKDTEGYYTIGIGHLLTKSPSLNAAKSELDKAIGRNCNGVITKDEAEKLFNQDVDAAVRGILRNAKLKPVYDSLDAVRRCALINMVFQMGETGVAGFTNSLRMLQQKRWDEAAVNLAKSRWYNQTPNRAKRVITTFRTGTWDAYK,Lysozyme,protein,sequence
+525,MNIKAILSLCLFLILQCVRARVFVSRLEAASLLARSRRANSPFSMEETKQGSLERECREETCNFEEAREIFEDDQRTNAFWTLYIRPNPCLSNPCQNGGTCQHTHTVYMCVCPRGWEGRVCSQEVSTGQSCKVNNGRCDHYCEEEEAAAGGRRGAVCSCAPGYHLARNRRSCMAMEAFPCGRVDKSDILMGNSSEAATDVPTPTSQAANVNSSSIIGDDSEPQASFGHSNHRGRVVGGKECPRGQCPWQVLISRKGAPVCGGTILSPQWILTAAHCTIYETKNLRILAGEHNVDEVEGSEQELGILRIVDHPSFNIKLSYDNDISLIQLSRPIQFTRYALPICLPNQRFVRGVLRSVVAGTVSGWGKLNEFGPAAGILQRLEVPYVDDEQCRAAMGSKVITANMFCAGYETGGQDSCSGDSGGPHATRYGSTWFLTGVVSWGKGCAREGKFGVYTKVLNYLDWIAQTMAETESHALPEPAQ,Factor_VII,protein,sequence
+526,MNLTELKNTPVSELITLGENMGLENLARMRKQDIIFAILKQHAKSGEDIFGDGVLEILQDGFGFLRSADSSYLAGPDDIYVSPSQIRRFNLRTGDTISGKIRPPKEGERYFALLKVNEVNFDKPENARNKILFENLTPLHANSRLRMERGNGSTEDLTARVLDLASPIGRGQRGLIVAPPKAGKTMLLQNIAQSIAYNHPDCVLMVLLIDERPEEVTEMQRLVKGEVVASTFDEPASRHVQVAEMVIEKAKRLVEHKKDVIILLDSITRLARAYNTVVPASGKVLTGGVDANALHRPKRFFGAARNVEEGGSLTIIATALIDTGSKMDEVIYEEFKGTGNMELHLSRKIAEKRVFPAIDYNRSGTRKEELLTTQEELQKMWILRKIIHPMGEIDAMEFLINKLAMTKTNDDFFEMMK,E.Coli_rho_factor,protein,sequence
+527,MNPSAAVIFCLILLGLSGTQGIPLARTVRCNCIHIDDGPVRMRAIGKLEIIPASLSCPRVEIIATMKKNDEQRCLNPESKTIKNLMKAFSQKRSKR,mouse_CXCL_10_Chemokine,protein,sequence
+528,MNQTAILICCLIFLTLSGIQGVPLSRTVRCTCISISNQPVNPRSLEKLEIIPASQFCPRVEIIATMKKKGEKRCLNPESKAIKNLLKAVSKERSKR,Human_CXCL_10_Chemokine,protein,sequence
+529,MNQVTIQWDAVIALYILFSWCHGGITNINCSGHIWVEPATIFKMGMNISIYCQAAIKNCQPRKLHFYKNGIKERFQITRINKTTARLWYKNFLEPHASMYCTAECPKHFQETLICGKDISSGYPPDIPDEVTCVIYEYSGNMTCTWNAGKLTYIDTKYVVHVKSLETEEEQQYLTSSYINISTDSLQGGKKYLVWVQAANALGMEESKQLQIHLDDIVIPSAAVISRAETINATVPKTIIYWDSQTTIEKVSCEMRYKATTNQTWNVKEFDTNFTYVQQSEFYLEPNIKYVFQVRCQETGKRYWQPWSSLFFHKTPETVPQVTSKAFQHDTWNSGLTVASISTGHLTSDNRGDIGLLLGMIVFAVMLSILSLIGIFNRSFRTGIKRRILLLIPKWLYEDIPNMKNSNVVKMLQENSELMNNNSSEQVLYVDPMITEIKEIFIPEHKPTDYKKENTGPLETRDYPQNSLFDNTTVVYIPDLNTGYKPQISNFLPEGSHLSNNNEITSLTLKPPVDSLDSGNNPRLQKHPNFAFSVSSVNSLSNTIFLGELSLILNQGECSSPDIQNSVEEETTMLLENDSPSETIPEQTLLPDEFVSCLGIVNEELPSINTYFPQNISHFNRISLL,Human_interleukin-23,protein,sequence
+530,MNRGVPFRHLLLVLQLALLPAATQGKKVVLGKKGDTVELTCTASQKKSIQFHWKNSNQIKILGNQGSFLTKGPSKLNDRADSRRSLWDQGNFPLIIKNLKIEDSDTYICEVEDQKEEVQLLVFGLTANSDTHLLQGQSLTLTLESPPGSSPSVQCRSPRGKNIQGGKTLSVSQLELQDSGTWTCTVLQNQKKVEFKIDIVVLAFQKASSIVYKKEGEQVEFSFPLAFTVEKLTGSGELWWQAERASSSKSWITFDLKNKEVSVKRVTQDPKLQMGKKLPLHLTLPQALPQYAGSGNLTLALEAKTGKLHQEVNLVVMRATQLQKNLTCEVWGPTSPKLMLSLKLENKEAKVSKREKAVWVLNPEAGMWQCLLSDSGQVLLESNIKVLPTWSTPVQPMALIVLGGVAGLLLFIGLGIFFCVRCRHRRRQAERMSQIKRLLSEKKTCQCPHRFQKTCS,CD4,protein,sequence
+531,MNRNCASPEEGGTTEQLVKEASDIVERDGFENKKKPPTLKLEHVEVVGEKSPTPATVYDLFKKYKKPDIVTNSNGDDMNVGFDQLSSDEKNGFLRKLQMLTVSSRKSVKVVGESTPSSAGRLLKKFAPSRKPTEKISVDEPPSRFNFFGRSTKKLSDSDRPSSLPKKKSARRLLFGKEEQKPEPEVVKNRVLPAMTSQQSAKGAPIPINKPYRYQGPRGSLETPTDSPAKISSNSSSSSPIPPVPTRNHFTSMNEESPSKKRTFSRQGLSNRDNLSNGSWHGELPPRDYTSPTFSRKIFVGGVPWDITEAALKDSFGEFGSCAVEWPGQEARYRSGQSNIAPLTNLRNQSKYAGQAATGYVYMIFEDERAVASLLHECSQEIGGAGEWYFKIRAQRSKSTEIRQVQIIPWVTSDSMFCEDESLLETGIEPKRTVFVGALHGMMTAQVLHWIMEDCFGSVECVQLDTDKFKYPIGSGRVTFREHGAYFKAIEMGYLHVHTSKFRKRVQIDPFLESTSCMVCTTESAQCFCRNRNCFKYYCHTCWAIDHGKDNADDVHVPVIVPSSASKAYAGPHRRPHLTSNSLSKSHGCSTNNQLSHVLSPGFPMIVGGPSQTLSALYGYIQNNQQMMLTPAVYETPMTPPSNESNAKRRSFTEFQNPAIFFNPSSMMTPQKSATCSETPVPAFFTNSAAFLTPNSNYYGSPNHSSSNISQSPQQYYGANLYYGYMPPQVAYDGSTNGSKLSPIHVPHIPNYQ,Cytoplasmic_polyadenylation_element_3_RNA_binding_domain,protein,sequence
+532,MNRPHSCLSFCWMYFAASGIRAVETANGKYAQKLFSDLFEDYSSALRPVEDTDAVLNVTLQVTLSQIKDMDERNQILTAYLWIRQTWHDAYLTWDRDQYDRLDSIRIPSDLVWRPDIVLYNKADDESSEPVNTNVVLRYDGLITWDSPAITKSSCVVDVTYFPFDSQQCNLTFGSWTYNGNQVDIFNALDSGDLSDFIEDVEWEVHGMPAVKNVISYGCCSEPYPDVTFTLLLKRRSSFYIVNLLIPCVLISFLAPLSFYLPAASGEKVSLGVTILLAMTVFQLMVAEIMPASENVPLIGKYYIATMALITASTALTIMVMNIHFCGAEARPVPHWAKVVILKYMSRILFVYDVGESCLSPRHSQEPEQVTKVYSKLPESNLKTSRNKDLSRKKEVRKLLKNDLGYQGGIPQNTDSYCARYEALTKNIEYIAKCLKDHKATNSKGSEWKKVAKVIDRFFMWIFFAMVFVMTVLIIAR,Nicotinic_acetylcholine_receptor,protein,sequence
+533,MPEEWVRIFGEAGITQFEQQRNPRLCLSVLNILSKSEHPQEKFMFVPYEQSALPVTDNSPFGDTSITHNYADHHFKASTPENEGSSFYSRVPGPCTVGVRSSSLSSGRGSSEGVGSRSGSGSGGAASRSSSSGHGGAGFPLPVTSVPANGRSSAPGPNSMTVTSGSHSSSGSNCSTGSLTGGMELTNTMVATTQRTGPNNVLVNGHSTGNHFHGGVTQRVAASAAPTECNVLPTYTGSSSSYQPTSFQSMAVHTPPAYTLRQIPPAHSIGYPYTSTAPTSESIILTAPTTTPSSTVYHTTQGSAIVKPLSDNQSQRDKLPYLMHKSQWHSNVTGHVPLSPGLPRRFVDGVLPPETSAHIQYSSGQSSPSPAGSATPVPTPRRESLAGSVPVRAGPAPPALATHELSSDANCTLTPPPVATRPEKTKSIYTKPVEAQCDGHLTIGDQQDASRRSLETPVPPQTAATIHGSENETRTNVTVLPTVHSDGNNSSVHAYQQATESRPLKPNTLERQGQKKVRPKISDEAIQEKLRMIVSIGDPNRKYQRQEKIGQGASGTVYGGIEVATGRRVAIKQMNLKQQPKKELIVNEIYVMKAKKHPNVVNYLDSYLVADELWVVMEYLDGGSLTEVVTETYMEEGQIAAVCRECLQALDFLHKNQVIHRDIKSDNILLGLDGSVKLTDFGFCAQLSSEQNKRSTMVGTPYWMAPEVVTRKQYGPKVDIWSLGIMAIEMLDGEPPYLNENPVRALYLIGTNGKPEIKERDKLSSEFQDFLDLCLEVKVERRATAQELLQHIFSRDGHRAMELLQTDNFHSSGVRKKRTPRLAIEKLVDPEVKRNYQNQLVECLPDGTVSDINGHWEKISKALLKPRRTVVMAAGEDELVVTVRGTSFNCPPTSLVEPNTGIIAPLIEPHHRGIGSYALEVVADIIGTLDYCGIAFLTMGSFVPYLYYSFYCVLWLKLFYLALIFALGSGAIAVSMSNTFASPAYRPLRALVFIALGLSGVIPCVHVTITNGFWPSLQHGSLGWLFLMAVLYITGASIYAVRVPERIFPGRFDIWFQSHQIFHVFVVAAALVHYHGIIGLTNYRLAIGDCRPPPGYPFPKHDYDNIELLRPFM,Human_p21-activated_kinase,protein,sequence
+534,MPFVNKQFNYKDPVNGVDIAYIKIPNAGQMQPVKAFKIHNKIWVIPERDTFTNPEEGDLNPPPEAKQVPVSYYDSTYLSTDNEKDNYLKGVTKLFERIYSTDLGRMLLTSIVRGIPFWGGSTIDTELKVIDTNCINVIQPDGSYRSEELNLVIIGPSADIIQFECKSFGHEVLNLTRNGYGSTQYIRFSPDFTFGFEESLEVDTNPLLGAGKFATDPAVTLAHELIHAGHRLYGIAINPNRVFKVNTNAYYEMSGLEVSFEELRTFGGHDAKFIDSLQENEFRLYYYNKFKDIASTLNKAKSIVGTTASLQYMKNVFKEKYLLSEDTSGKFSVDKLKFDKLYKMLTEIYTEDNFVKFFKVLNRKTYLNFDKAVFKINIVPKVNYTIYDGFNLRNTNLAANFNGQNTEINNMNFTKLKNFTGLFEFYKLLCVRGIITSKTKSLDKGYNKALNDLCIKVNNWDLFFSPSEDNFTNDLNKGEEITSDTNIEAAEENISLDLIQQYYLTFNFDNEPENISIENLSSDIIGQLELMPNIERFPNGKKYELDKYTMFHYLRAQEFEHGKSRIALTNSVNEALLNPSRVYTFFSSDYVKKVNKATEAAMFLGWVEQLVYDFTDETSEVSTTDKIADITIIIPYIGPALNIGNMLYKDDFVGALIFSGAVILLEFIPEIAIPVLGTFALVSYIANKVLTVQTIDNALSKRNEKWDEVYKYIVTNWLAKVNTQIDLIRKKMKEALENQAEATKAIINYQYNQYTEEEKNNINFNIDDLSSKLNESINKAMININKFLNQCSVSYLMNSMIPYGVKRLEDFDASLKDALLKYIYDNRGTLIGQVDRLKDKVNNTLSTDIPFQLSKYVDNQRLLSTFTEYIKNIINTSILNLRYESNHLIDLSRYASKINIGSKVNFDPIDKNQIQLFNLESSKIEVILKNAIVYNSMYENFSTSFWIRIPKYFNSISLNNEYTIINCMENNSGWKVSLNYGEIIWTLQDTQEIKQRVVFKYSQMINISDYINRWIFVTITNNRLNNSKIYINGRLIDQKPISNLGNIHASNNIMFKLDGCRDTYIWIKYFNLFDKELNEKEIKDLYDNQSNSGILKDFWGDYLQYDKPYYMLNLYDPNKYVDVNNVGIRGYMYLKGPRGSVMTTNIYLNSSLYRGTKFIIKKYASGNKDNIVRNNDRVYINVVVKNKEYRLATNASQAGVEKILSALEIPDVGNLSQVVVMKSKNDQGITNKCKMNLQDNNGNDIGFIGFHQFNNIAKLVASNWYNRQIERSSRTLGCSWEFIPVDDGWGERPL,Clostridium_botulinum_neurotoxin_BoNT-toxoid_aldehyde-inactivated_toxin,protein,sequence
+535,MPFVNKQFNYKDPVNGVDIAYIKIPNVGQMQPVKAFKIHNKIWVIPERDTFTNPEEGDLNPPPEAKQVPVSYYDSTYLSTDNEKDNYLKGVTKLFERIYSTDLGRMLLTSIVRGIPFWGGSTIDTELKVIDTNCINVIQPDGSYRSEELNLVIIGPSADIIQFECKSFGHEVLNLTRNGYGSTQYIRFSPDFTFGFEESLEVDTNPLLGAGKFATDPAVTLAHELIHAGHRLYGIAINPNRVFKVNTNAYYEMSGLEVSFEELRTFGGHDAKFIDSLQENEFRLYYYNKFKDIASTLNKAKSIVGTTASLQYMKNVFKEKYLLSEDTSGKFSVDKLKFDKLYKMLTEIYTEDNFVKFFKVLNRKTYLNFDKAVFKINIVPKVNYTIYDGFNLRNTNLAANFNGQNTEINNMNFTKLKNFTGLFEFYKLLCVRGIITSKTKSLDKGYNKALNDLCIKVNNWDLFFSPSEDNFTNDLNKGEEITSDTNIEAAEENISLDLIQQYYLTFNFDNEPENISIENLSSDIIGQLELMPNIERFPNGKKYELDKYTMFHYLRAQEFEHGKSRIALTNSVNEALLNPSRVYTFFSSDYVKKVNKATEAAMFLGWVEQLVYDFTDETSEVSTTDKIADITIIIPYIGPALNIGNMLYKDDFVGALIFSGAVILLEFIPEIAIPVLGTFALVSYIANKVLTVQTIDNALSKRNEKWDEVYKYIVTNWLAKVNTQIDLIRKKMKEALENQAEATKAIINYQYNQYTEEEKNNINFNIDDLSSKLNESINKAMININKFLNQCSVSYLMNSMIPYGVKRLEDFDASLKDALLKYIYDNRGTLIGQVDRLKDKVNNTLSTDIPFQLSKYVDNQRLLSTFTEYIKNIINTSILNLRYESNHLIDLSRYASKINIGSKVNFDPIDKNQIQLFNLESSKIEVILKNAIVYNSMYENFSTSFWIRIPKYFNSISLNNEYTIINCMENNSGWKVSLNYGEIIWTLQDTQEIKQRVVFKYSQMINISDYINRWIFVTITNNRLNNSKIYINGRLIDQKPISNLGNIHASNNIMFKLDGCRDTYIWIKYFNLFDKELNEKEIKDLYDNQSNSGILKDFWGDYLQYDKPYYMLNLYDPNKYVDVNNVGIRGYMYLKGPRGSVMTTNIYLNSSLYRGTKFIIKKYASGNKDNIVRNNDRVYINVVVKNKEYRLATNASQAGVEKILSALEIPDVGNLSQVVVMKSKNDQGITNKCKMNLQDNNGNDIGFIGFHQFNNIAKLVASNWYNRQIERSSRTLGCSWEFIPVDDGWGERPL,Botulinum_neurotoxin_a,protein,sequence
+536,MPRSTSDRFRWSPLSLAIACTLSLAVQAADTSSTQTNSKKRIADTMVVTATGNERSSFEAPMMVTVVEADTPTSETATSATDMLRNIPGLTVTGSGRVNGQDVTLRGYGKQGVLTLVDGIRQGTDTGHLNSTFLDPALVKRVEIVRGPSALLYGSGALGGVISYETVDAADLLLPGQNSGYRVYSAAATGDHSFGLGASAFGRTDDVDGILSFGTRDIGNIRQSDGFNAPNDETISNVLAKGTWRIDQIQSLSANLRYYNNSALEPKNPQTSAASSTNLMTDRSTIQRDAQLKYNIKPLDQEWLNATAQVYYSEVEINARPQGTPEEGRKQTTKGGKLENRTRLFTDSFASHLLTYGTEAYKQEQTPSGATESFPQADIRFGSGWLQDEITLRDLPVSILAGTRYDNYRGSSEGYADVDADKWSSRGAVSVTPTDWLMLFGSYAQAFRAPTMGEMYNDSKHFSMNIMGNTLTNYWVPNPNLKPETNETQEYGFGLRFNDLMMAEDDLQFKASYFDTNAKDYISTGVTMDFGFGPGGLYCKNCSTYSTNIDRAKIWGWDATMTYQTQWFNLGLAYNRTRGKNQNTNEWLDTINPDTVTSTLDVPVANSGFAVGWIGTFADRSSRVSSSGTPQAGYGVNDFYVSYKGQEQFKGMTTTVVLGNAFDKGYYGPQGVPQDGRNAKFFVSYQW,Hemin,protein,sequence
+537,MPSKKNGRSGPQPHKRWVFTLNNPSEDERKKIRELPISLFDYFIVGEEGNEEGRTPHLQGFANFVKKQTFNKVKWYLGARCHIEKAKGTDQQNKEYCSKEGNLLMECGAPRSQGQRSDLSTAVSTLLESGSLVTVAEQHPVTFVRNFRGLAELLKVSGKMQKRDWKTNVHVIVGPPGCGKSKWAANFADPETTYWKPPRNKWWDGYHGEEVVVIDDFYGWLPWDDLLRLCDRYPLTVETKGGTVPFLARSILITSNQTPLEWYSSAAVPAVEALYRRITSLVFWKNATEQSTEEGGQFVTLSPPCPEFPYEI,Porcine_circovirus_type_2,protein,sequence
+538,MPSNQEARLFLAVLVLAQVLPILVDSAAEKGFKQAFWQPLCQVSEELDDQPKGALFTLQAAASKIQKMRDAALRASIYAEINHGTNRAKAAVIVANHYAMKADSGLEALKQTLSSQEVTATATASYLKGRIDEYLNLLLQTKESGTSGCMMDTSGTNTVTKAGGTIGGVPCKLQLSPIQPKRPAATYLGKAGYVGLTRQADAANNFHDNDAECRLASGHNTNGLGKSGQLSAAVTMAAGYVTVANSQTAVTVQALDALQEASGAAHQPWIDAWKAKKALTGAETAEFRNETAGIAGKTGVTKLVEEALLKKKDSEASEIQTELKKYFSGHENEQWTAIEKLISEQPVAQNLVGDNQPTKLGELEGNAKLTTILAYYRMETAGKFEVLTQKHKPAESQQQAAETEGSCNKKDQNECKSPCKWHNDAENKKCTLDKEEAKKVADETAKDGKTGNTNTTGSSNSFVISKTPLWLAVL,Variant_surface_glycoprotein,protein,sequence
+539,MPVKMVAVLGASTVLWILFAVSQAFKIEISPEYKTIAQIGDSMALTCSTTGCESPLFSWRTQIDSPLNAKVRTEGSKSVLTMEPVSFENEHSYLCTATCGSGKLERSIHVDIYSFPKDPEIQFSGPLEVGKPVTVKCLAPDIYPVYRLEIDLFKGDQLMNRQEFSSEEMTKSLETKSLEVTFTPVIEDIGKALVCRAKLHIDQIDSTLKERETVKELQVYISPRNTTISVHPSTRLQEGGAVTMTCSSEGLPAPEIFWGRKLDNEVLQLLSGNATLTLIAMRMEDSGVYVCEGVNLIGRDKAEVELVVQEKPFIVDISPGSQVAAQVGDSVVLTCAAIGCDSPSFSWRTQTDSPLNGVVRNEGAKSTLVLSSVGFEDEHSYLCAVTCLQRTLEKRTQVEVYSFPEDPVIKMSGPLVHGRPVTVNCTVPNVYPFDHLEIELLKGETTLMKKYFLEEMGIKSLETKILETTFIPTIEDTGKSLVCLARLHSGEMESEPKQRQSVQPLYVNVAPKETTIWVSPSPIEGSPVNLTCSSDGIPAPKILWSRQLNNGELQPLSENTTLTFMSTKRDDSGIYVCEGINEAGISRKSVELIIQVSPKDIQLTVFPSKSVKEGDTVIISCTCGNVPETWIILKKKAKTGDMVLKSVDGSYTIRQAQLQDAGIYECESKTEVGSQLRSLTLDVKGKEHNKDYFSPELLALYCASSLVIPAIGMIVYFARKANMKGSYSLVEAQKSK,VCAM-1,protein,sequence
+540,MQLPLALCLVCLLVHTAFRVVEGQGWQAFKNDATEIIPELGEYPEPPPELENNKTMNRAENGGRPPHHPFETKDVSEYSCRELHFTRYVTDGPCRSAKPVTELVCSGQCGPARLLPNAIGRGKWWRPSGPDFRCIPDRYRAQRVQLLCPGGEAPRARKVRLVASCKCKRLTRFHNQSELKDFGTEAARPQKGRKPRPRARSAKANQAELENAY,Sclerostin,protein,sequence
+541,MQMSPALTCLVLGLALVFGEGSAVHHPPSYVAHLASDFGVRVFQQVAQASKDRNVVFSPYGVASVLAMLQLTTGGETQQQIQAAMGFKIDDKGMAPALRHLYKELMGPWNKDEISTTDAIFVQRDLKLVQGFMPHFFRLFRSTVKQVDFSEVERARFIINDWVKTHTKGMISNLLGKGAVDQLTRLVLVNALYFNGQWKTPFPDSSTHRRLFHKSDGSTVSVPMMAQTNKFNYTEFTTPDGHYYDILELPYHGDTLSMFIAAPYEKEVPLSALTNILSAQLISHWKGNMTRLPRLLVLPKFSLETEVDLRKPLENLGMTDMFRQFQADFTSLSDQEPLHVAQALQKVKIEVNESGTVASSSTAVIVSARMAPEEIIMDRPFLFVVRHNPTGTVLFMGQVMEP,Plasminogen_activator_inhibitor-1,protein,sequence
+542,MQPLLLLLAFLLPTGAEAGEIIGGRESRPHSRPYMAYLQIQSPAGQSRCGGFLVREDFVLTAAHCWGSNINVTLGAHNIQRRENTQQHITARRAIRHPQYNQRTIQNDIMLLQLSRRVRRNRNVNPVPRAQEGLRPGTLCTVAGWGRVSMRRGTDTLREVQLRVQRDRQCLRIFGSYDPRRQICVGDRRERKAAFKGDSGGPLLCNNVAHGIVSYGKSSGVPPEVFTRVSSFLPWIRTTMRSFKLLDQMETPL,Cathepsin_G,protein,sequence
+543,MQQGQMAYDRAITVFSPDGRLFQVEYAREAVKKGSTALGMKFANGVLLISDKKVRSRLIEQNSIEKIQLIDDYVAAVTSGLVADARVLVDFARISAQQEKVTYGSLVNIENLVKRVADQMQQYTQYGGVRPYGVSLIFAGIDQIGPRLFDCDPAGTINEYKATAIGSGKDAVVSFLEREYKENLPEKEAVTLGIKALKSSLEEGEELKAPEIASITVGNKYRIYDQEEVKK,PSMA,protein,sequence
+544,MQRTKEAVKASDGNLLGDPGRIPLSKRESIKWQRPRFTRQALMRCCLIKWILSSAAPQGSDSSDSELELSTVRHQPEGLDQLQAQTKFTKKELQSLYRGFKNECPTGLVDEDTFKLIYSQFFPQGDATTYAHFLFNAFDADGNGAIHFEDFVVGLSILLRGTVHEKLKWAFNLYDINKDGCITKEEMLAIMKSIYDMMGRHTYPILREDAPLEHVERFFQKMDRNQDGVVTIDEFLETCQKDENIMNSMQLFENV,Calsenilin,protein,sequence
+545,MQRVNMIMAESPGLITICLLGYLLSAECTVFLDHENANKILNRPKRYNSGKLEEFVQGNLERECMEEKCSFEEAREVFENTERTTEFWKQYVDGDQCESNPCLNGGSCKDDINSYECWCPFGFEGKNCELDVTCNIKNGRCEQFCKNSADNKVVCSCTEGYRLAENQKSCEPAVPFPCGRVSVSQTSKLTRAETVFPDVDYVNSTEAETILDNITQSTQSFNDFTRVVGGEDAKPGQFPWQVVLNGKVDAFCGGSIVNEKWIVTAAHCVETGVKITVVAGEHNIEETEHTEQKRNVIRIIPHHNYNAAINKYNHDIALLELDEPLVLNSYVTPICIADKEYTNIFLKFGSGYVSGWGRVFHKGRSALVLQYLRVPLVDRATCLRSTKFTIYNNMFCAGFHEGGRDSCQGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYTKVSRYVNWIKEKTK,Bovine_factor_IX,protein,sequence
+546,MQTIKCVVVGDGAVGKTCLLISYTTNKFPSEYVPTVFDNYAVTVMIGGEPYTLGLFDTAGQEDYDRLRPLSYPQTDVFLVCFSVVSPSSFENVKEKWVPEITHHCPKTPFLLVGTQIDLRDDPSTIEKLAKNKQKPITPETAEKLARDLKAVKYVECSALTQRGLKNVFDEAILAALEPPETQPKRKCC,Cell_division_cycle_42_GTP-binding_protein,protein,sequence
+547,MRANDALQVLGLLFSLARGSEVGNSQAVCPGTLNGLSVTGDAENQYQTLYKLYERCEVVMGNLEIVLTGHNADLSFLQWIREVTGYVLVAMNEFSTLPLPNLRVVRGTQVYDGKFAIFVMLNYNTNSSHALRQLRLTQLTEILSGGVYIEKNDKLCHMDTIDWRDIVRDRDAEIVVKDNGRSCPPCHEVCKGRCWGPGSEDCQTLTKTICAPQCNGHCFGPNPNQCCHDECAGGCSGPQDTDCFACRHFNDSGACVPRCPQPLVYNKLTFQLEPNPHTKYQYGGVCVASCPHNFVVDQTSCVRACPPDKMEVDKNGLKMCEPCGGLCPKACEGTGSGSRFQTVDSSNIDGFVNCTKILGNLDFLITQGDPWHKIPALDPEKLNVFRTVREITGYLNIQSWPPHMHNFSVFSNLTTIGGRSLYNRGFSLLIMKNLNVTSLGFRSLKEISAGRIYISANRQLCYHHSLNWTKVLRGPTEERLDIKHNRPRRDCVAEGKVCDPLCSSGGCWGPGPGQCLSCRNYSRGGVCVTHCNFLNGEPREFAHEAECFSCHPECQPMEGTATCNGSGSDTCAQCAHFRDGPHCVSSCPHGVLGAKGPIYKYPDVQNECRPCHENCTQGCKGPELQDCLGQTLVLIGKTHLTMALTVIAGLVVIFMMLGGTFLYWRGRRIQNKRAMRRYLERGESIEPLDPSEKANKVLARIFKETELRKLKVLGSGVFGTVHKGVWIPEGESIKIPVCIKVIEDKSGRQSFQAVTDHMLAIGSLDHAHIVRLLGLCPGSSLQLVTQYLPLGSLLDHVRQHRGALGPQLLLNWGVQIAKGMYYLEEHGMVHRNLAARNVLLKSPSQVQVADFGVADLLPPDDKQLLYSEAKTPIKWMALESIHFGKYTHQSDVWSYGVTVWELMTFGAEPYAGLRLAEVPDLLEKGERLAQPQICTIDVYMVMVKCWMIDENIRPTFKELANEFTRMARDPPRYLVIKRESGPGIAPGPEPHGLTNKKLEEVELEPELDLDLDLEAEEDNLATTTLGSALSLPVGTLNRPRGSQSLLSPSSGYMPMNQGNLGESCQESAVSGSSCPRPVSLHPMPRGCLASESSEGHVTGSEAELQEKVSMCRSRSRSRSPRPRGDSAYHSQRHSLLTPVTPLSPPGLEEEDVNGYVMPDTHLKGTPSSREGTLSSVGLSSVLGTEEEDEDEEYEYMNRRRRHSPPHPPRPSSLEELGYEYMDVGSDLSASLGSTQSCPLHPVPIMPTAGTTPDEDYEYMNRQRDGGGPGGDYAAMGACPASEQGYEEMRAFQGPGHQAPHVHYARLKTLRSLEATDSAFDNPDYWHSRLFPKANAQR,human_epidermal_growth_factor_receptor_3_HER3,protein,sequence
+548,MRKIVVAAIAVSLTTVSITASASADPSKDSKAQVSAAEAGITGTWYNQLGSTFIVTAGADGALTGTYESAVGNAESRYVLTGRYDSAPATDGSGTALGWTVAWKNNYRNAHSATTWSGQYVGGAEARINTQWLLTSGTTEANAWKSTLVGHDTFTKVKPSAASIDAAKKAGVNNGNPLDAVQQ,Streptavidin,protein,sequence
+549,MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEVVLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYAVLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDFQNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGCTGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYVVTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFKNCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAFENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKLFGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCNLLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVMGENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPSIATGMVGALLLLLVVALGIGLFMRRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGSGAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGICLTSTVQLITQLMPFGCLLDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAARNVLVKTPQHVKITDFGLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSYGVTVWELMTFGSKPYDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPKFRELIIEFSKMARDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQQGFFSSPSTSRTPLLSSLSATSNNSTVACIDRNGLQSCPIKEDSFLQRYSSDPTGALTEDSIDDTFLPVPEYINQSVPKRPAGSVQNPVYHNQPLNPAPSRDPHYQDPHSTAVGNPEYLNTVQPTCVNSTFDSPAHWAQKGSHQISLDNPDYQQDFFPKEAKPNGIFKGSTAENAEYLRVAPQSSEFIG,Epidermal_growth_factor_receptor_variant_III,protein,sequence
+550,MRQTLPCIYFWGGLLPFGMLCASSTTKCTVSHEVADCSHLKLTQVPDDLPTNITVLNLTHNQLRRLPAANFTRYSQLTSLDVGFNTISKLEPELCQKLPMLKVLNLQHNELSQLSDKTFAFCTNLTELHLMSNSIQKIKNNPFVKQKNLITLDLSHNGLSSTKLGTQVQLENLQELLLSNNKIQALKSEELDIFANSSLKKLELSSNQIKEFSPGCFHAIGRLFGLFLNNVQLGPSLTEKLCLELANTSIRNLSLSNSQLSTTSNTTFLGLKWTNLTMLDLSYNNLNVVGNDSFAWLPQLEYFFLEYNNIQHLFSHSLHGLFNVRYLNLKRSFTKQSISLASLPKIDDFSFQWLKCLEHLNMEDNDIPGIKSNMFTGLINLKYLSLSNSFTSLRTLTNETFVSLAHSPLHILNLTKNKISKIESDAFSWLGHLEVLDLQEIGQELTGQEWRGLENIFEIYLSYNKYLQLTRNSFALVPSLQRLMLRRVKNVDSSPSPFQPLRNLTILDLSNNNIANINDDMLEGLEKLEILDLQHNNLARLWKHANPGGPIYFLKGLSHLHILNLESNGFDEIPVEVFKDLFELKIIDLGLNNLNTLPASVFNNQVSLKSLNLQKNLITSVEKKVFGPAFRNLTELDMRFNPFDCTCESIAWFVNWINETHTNIPELSSHYLCNTPPHYHGFPVRLFDTSSCKDSAPFELFFMINTSILLIFIFIVLLIHFEGWRISFYWNVSVHRVLGFKEIDRQTEQFEYAAYIIHAYKDKDWVWEHFSSMEKEDQSLKFCLEERDFEAGVFELEAIVNSIKRSRKIIFVITHHLLKDPLCKRFKVHHAVQQAIEQNLDSIILVFLEEIPDYKLNHALCLRRGMFKSHCILNWPVQKERIGAFRHKLQVGSKNSV,Human_toll-like_receptor_3_ectodomain,protein,sequence
+551,MSAPASTTQATGSTTSTTTKTAGATPATASGLFTIPDGDFFSTARAVVASDAVATNEDLSEIEAVWKDMKVPTDTMAQAAWDLVRHCADVGSSAQTEMIDTGPYSNGISRARLAAAIKEVCTLRQFCMKYAPVVWNWMLTNNSPPANWQAQGFKPEHKFAAFDFFNGVTNPAAIMPKEGLIRPPSEAEMNAAQTAAFVKITKARAQSNDFASLDAAVTRGRITGTTTAEAVVTLPPP,PotatoVirusXCoatProtein,protein,sequence
+552,MSARGEEAAGEASGSQEQPEPAEPKKRGPGRPRKPQQEPTGEPVPKRPRGRPKGSKNKGPSKAAQKKAETTGEKRPRGRPRKWPQQVVQEKPAQEEEEEEEEEEAE,high_mobility_group_protein_AT-hook_2,protein,sequence
+553,MSDLANSEKYYDEDPYGFEDESAPITAEDSWAVISAFFREKGLVSQQLDSFNQFVDYTLQDIICEDSTLIQLAQHTTESDNISRKYEISFGKIYVTKPMVNESDGVTHALYPQEARLRNLTYSSGLFVDVKKRTYEAIDVPGRELKYELIAEESEDDSESGKVFIGRLPIMLRSKNCYLSEATESDLYKLKECPFDMGGYFIINGSEKVLIAQERSAGNIVQVFKKAAPSPISHVAEIRSALEKGSRFISTLQVKLYGREGSSARTIKATLPYIKQDIPIVIIFRALGIIPDGEILEHICYDVNDWQMLEMLKPCVEDGFVIQDRETALDFIGRRGTALGIKKEKRIQYAKDILQKEFLPHITQLEGFESRKAFFLGYMINRLLLCALDRKDQDDRDHFGKKRLDLAGPLLAQLFKTLFKKLTKDIFRYMQRTVEEAHDFNMKLAINAKTITSGLKYATGNWGEQKKAMSSRAGVSQVLNRYTYSSTLSHLRRTNTPIGRDGKLAKPRQLHNTHWGLVCPAETPEGQACGLVKNLSLMSCISVGTDPMPIITFLSEWGMEPLEDYVPHQSPDATRVFVNGVWHGVHRNPARLMETLRTLRRKGDINPEVSMIRDIREKELKIFTDAGRVYRPLFIVEDDESLGHKELKVRKGHIAKLMATEYQDIEGGFEDVEEYTWSSLLNEGLVEYIDAEEEESILIAMQPEDLEPAEANEENDLDVDPAKRIRVSHHATTFTHCEIHPSMILGVAASIIPFPDHNQSPRNTYQSAMGKQAMGVFLTNYNVRMDTMANILYYPQKPLGTTRAMEYLKFRELPAGQNAIVAIACGYNQEDSMIMNQSSIDRGLFRSLFFRSYMDQEKKYGMSITETFEKPQRTNTLRMKHGTYDKLDDDGLIAPGVRVSGEDVIIGKTTPISPDEEELGQRTAYHSKRDASTPLRSTENGIVDQVLVTTNQDGLKFVKVRVRTTKIPQIGDKFASRHGQKGTIGITYRREDMPFTAEGIVPDLIINPHAIPSRMTVAHLIECLLSKVAALSGNEGDASPFTDITVEGISKLLREHGYQSRGFEVMYNGHTGKKLMAQIFFGPTYYQRLRHMVDDKIHARARGPMQVLTRQPVEGRSRDGGLRFGEMERDCMIAHGAASFLKERLMEASDAFRVHICGICGLMTVIAKLNHNQFECKGCDNKIDIYQIHIPYAAKLLFQELMAMNITPRLYTDRSRDF,yeast_RNa_polymerase_II,protein,sequence
+554,MSDNGPQSNQRSAPRITFGGPTDSTDNNQNGGRNGARPKQRRPQGLPNNTASWFTALTQHGKEELRFPRGQGVPINTNSGPDDQIGYYRRATRRVRGGDGKMKELSPRWYFYYLGTGPEASLPYGANKEGIVWVATEGALNTPKDHIGTRNPNNNAATVLQLPQGTTLPKGFYAEGSRGGSQASSRSSSRSRGNSRNSTPGSSRGNSPARMASGGGETALALLLLDRLNQLESKVSGKGQQQQGQTVTKKSAAEASKKPRQKRTATKQYNVTQAFGRRGPEQTQGNFGDQDLIRQGTDYKHWPQIAQFAPSASAFFGMSRIGMEVTPSGTWLTYHGAIKLDDKDPQFKDNVILLNKHIDAYKTFPPTEPKKDKKKKTDEAQPLPQRQKKQPTVTLLPAADMDDFSRQLQNSMSGASADST,SARS-CoV_N_protein,protein,sequence
+555,MSDRKKIEIDAIDKKLLIELLKDSRISLRRLAEEMNVSPATLHNRLMRLVQEGVVKGFTALIDYSKLGYPVTSILMIKVDGKHILEFEKEVSNLDNVVAVYDVVGEYDVMLIAKFRSIEDLDTFIKSLLKNPKIERTYTSIVLNVVKEDPRIK,Ss-LrpB_Sulfolobus_solfataricus,protein,sequence
+556,MSEAEARPTNFIRQIIDEDLASGKHTTVHTRFPPEPNGYLHIGHAKSICLNFGIAQDYKGQCNLRFDDTNPVKEDIEYVESIKNDVEWLGFHWSGNVRYSSDYFDQLHAYAIELINKGLAYVDELTPEQIREYRGTLTQPGKNSPYRDRSVEENLALFEKMRAGGFEEGKACLRAKIDMASPFIVMRDPVLYRIKFAEHHQTGNKWCIYPMYDFTHCISDALEGITHSLCTLEFQDNRRLYDWVLDNITIPVHPRQYEFSRLNLEYTVMSKRKLNLLVTDKHVEGWDDPRMPTISGLRRRGYTAASIREFCKRIGVTKQDNTIEMASLESCIREDLNENAPRAMAVIDPVKLVIENYQGEGEMVTMPNHPNKPEMGSRQVPFSGEIWIDRADFREEANKQYKRLVLGKEVRLRNAYVIKAERVEKDAEGNITTIFCTYDADTLSKDPADGRKVKGVIHWVSAAHALPVEIRLYDRLFSVPNPGAADDFLSVINPESLVIKQGFAEPSLKDAVAGKAFQFEREGYFCLDSRHSTAEKPVFNRTVGLRDTWAKV,Glutaminyl-tRNA_synthetase,protein,sequence
+557,MSGGDGRGHNTGAHSTSGNINGGPTGLGVGGGASDGSGWSSENNPWGGGSGSGIHWGGGSGHGNGGGNGNSGGGSGTGGNLSAVAAPVAFGFPALSTPGAGGLAVSISAGALSAAIADIMAALKGPFKFGLWGVALYGVLPSQIAKDDPNMMSKIVTSLPADDITESPVSSLPLDKATVNVNVRVVDDVKDERQNISVVSGVPMSVPVVDAKPTERPGVFTASIPGAPVLNISVNNSTPAVQTLSPGVTNNTDKDVRPAGFTQGGNTRDAVIRFPKDSGHNAVYVSVSDVLSPDQVKQRQDEENRRQQEWDATHPVEAAERNYERARAELNQANEDVARNQERQAKAVQVYNSRKSELDAANKTLADAIAEIKQFNRFAHDPMAGGHRMWQMAGLKAQRAQTDVNNKQAAFDAAAKEKSDADAALSSAMESRKKKEDKKRSAENNLNDEKNKPRKGFKDYGHDYHPAPKTENIKGLGDLKPGIPKTPKQNGGGKRKRWTGDKGRKIYEWDSQHGELEGYRASDGQHLGSFDPKTGNQLKGPDPKRNIKK,Colicin_E3,protein,sequence
+558,MSKRKAPQETLNGGITDMLVELANFEKNVSQAIHKYNAYRKAASVIAKYPHKIKSGAEAKKLPGVGTKIAEKIDEFLATGKLRKLEKIRQDDTSSSINFLTRVTGIGPSAARKLVDEGIKTLEDLRKNEDKLNHHQRIGLKYFEDFEKRIPREEMLQMQDIVLNEVKKLDPEYIATVCGSFRRGAESSGDMDVLLTHPNFTSESSKQPKLLHRVVEQLQKVRFITDTLSKGETKFMGVCQLPSENDENEYPHRRIDIRLIPKDQYYCGVLYFTGSDIFNKNMRAHALEKGFTINEYTIRPLGVTGVAGEPLPVDSEQDIFDYIQWRYREPKDR,DNA_polymerase_beta,protein,sequence
+559,MSKSESPKEPEQLRKLFIGGLSFETTDESLRSHFEQWGTLTDCVVMRDPNTKRSRGFGFVTYATVEEVDAAMNARPHKVDGRVVEPKRAVSREDSQRPGAHLTVKKIFVGGIKEDTEEHHLRDYFEQYGKIEVIEIMTDRGSGKKRGFAFVTFDDHDSVDKIVIQKYHTVNGHNCEVRKALSKQEMASASSSQRGRSGSGNFGGGRGGGFGGNDNFGRGGNFSGRGGFGGSRGGGGYGGSGDGYNGFGNDGGYGGGGPGYSGGSRGYGSGGQGYGNQGSGYGGSGSYDSYNNGGGGGFGGGSGSNFGGGGSYNDFGNYNNQSSNFGPMKGGNFGGRSSGPYGGGGQYFAKPRNQGGYGGSSSSSSYGSGRRF,Hnrnp_A1,protein,sequence
+560,MSLGSLTIAEPAMIAECKTRTEVFEISRRLIDRTNANFLVWPPCVEVQRCSGCCNNRNVQCRPTQVQLRPVQVRKIEIVRKKPIFKKATVTLEDHLACKCETVAAARPVTRSPGGSQEQRAKTPQTRVTIRTVRVRRPPKGKHRKFKHTHDKTALKETL,platelet-derived_growth_factor_BB,protein,sequence
+561,MSMSPKHTTPFSVSDILSPLEESYKKVGMEGGGLGAPLAAYRQGQAAPPAAAMQQHAVGHHGAVTAAYHMTAAGVPQLSHSAVGGYCNGNLGNMSELPPYQDTMRNSASGPGWYGANPDPRFPAISRFMGPASGMNMSGMGGLGSLGDVSKNMAPLPSAPRRKRRVLFSQAQVYELERRFKQQKYLSAPEREHLASMIHLTPTQVKIWFQNHRYKMKRQAKDKAAQQQLQQDSGGGGGGGGAGCPQQQQAQQQSPRRVAVPVLVKDGKPCQAGAPAPGAGSLQGHAQQQAQQQAQAAQAAAAAISVGSGGPGLGAHPGHQPGSAGQSPDLAHHAASPAALQGQVSSLSHLNSSGSDYGTMSCSTLLYGR,thyroid_transcription_factor_1,protein,sequence
+562,MSPQRDRINAFYKDNPHPKGSRIVINREHLMIDRPYVLLAVLFVMFLSLIGLLAIAGIRLHRAAIYTAEIHKSLSTNLDVTNSIEHQVKDVLTPLFKIIGDEVGLRTPQRFTDLVKFISDKIKFLNPDREYDFRDLTWCINPPERIKLDYDQYCADVAAEELMNALVNSTLLEARATNQFLAVSKGNCSGPTTIRGQFSNMSLSLLDLYLSRGYNVSSIVTMTSQGMYGGTYLVEKPNLSSKGSELSQLSMHRVFEVGVIRNPGLGAPVFHMTNYFEQPVSNDFSNCMVGELKFAALCHREDSITIPYQGSGKDVSFQLVKLGVWKSPTDMQSWVPLSTDDPVIDRLYLSSHRGVIADNQAKWAVPTTRTDDKLRMETCFQQACKGKIQALCENPDWAPLKDNRIPSYGVLSVNLSLTVELKIKIASGFGPLITHGSGMDLYKSNHNNMYWLTIPPMKNLALGVINTLEWIPRFRVSPNLFTVPIKEAGEDCHAPTYLPAEVDGDVKLSSNLVILPGQDLQYVLATYDTSRVEHAVVYYVYSPSRSFSYFYPFRLPIKGVPIELQVECFTWDQKLWCRHFCVLADSGSGGHITHSGMVGMGVSCTVTREDGTN,Hemagglutinin,protein,sequence
+563,MSRLDKSKVINSALELLNEVGIEGLTTRKLAQKLGVEQPTLYWHVKNKRALLDALAIEMLDRHHTHFCPLEGESWQDFLRNNAKSFRCALLSHRDGAKVHLGWTEKQYETLENQLAFLCQQGFSLENALYALSAVGHFTLGCVLEDQEHQVAKEERETPTTDSMPPLLRQAIELFDHQGAEPAFLFGLELIICGLEKQLKCESGS,TetR,protein,sequence
+564,MSSSQKKAGGKAGKPTKRSQNYAALRKAQLPKPPALKVPVVKPTNTILPQTGCVWQSLGTPLSLSSFNGLGARFLYSFLKDFVGPRILEEDLIYRMVFSITPSHAGTFCLTDDVTTEDGRAVAHGNPMQEFPHGAFHANEKFGFELVFTAPTHAGMQNQNFKHSYAVALCLDFDAQPEGSKNPSFRFNEVWVERKAFPRAGPLRSLITVGLFDEADDLD,alfalfa_mosaic_virus_coat_protein,protein,sequence
+565,MSSTESPVPAAAAPAEAVPASTPAPAAEQPAVGNGEQRNNADAANNTSLYVGELDPSVTEAMLFEIFSMIGTVASIRVCRDAVTRRSLGYAYVNFLNAADGERAMEQLNYSLIRNRPCRIMWSQRDPALRRTGQGNIFIKNLDAGIDNKALHDTFAAFGNILSCKVATNETGSLGYGFVHYETAEAAEAAIKHVNGMLLNDKKVYVGHHIPRKERQAKIEETRANFTNVYAKNVDPEVTDDEFEKLFTKFGKITSCVLQRDEDGKSKGFGFVNFEDHNEAQKAVDELHDSDFKGQKLFVARAQKKSEREEELRRSYEAAKNEKLAKFQGVNLYLKNIPESYDDERLREEFAPFGAITSCKIMRAPSGVSRGFGFVCAPEEANKAVSEMNGKMLDNRPLYVAQRKDVRRQQLEAQIMQRNQLRLQQQAAAQGMGYPGPGMYYPQPGAFPGQPGGMVPRPRYAPAGMMPQGMPMAPYGQPGQFPAGMMPQGYRPARPPRGAPNAAGGPAPPAGARPPTGVNGAPRPAGQPVPGQPMPRGPAARPAGRPEADQPGALTAAAKASPEEQKQMLGEAIYPKVAASQPELAGKLTGMILPVTELLHLLEESEALDAKVNEALEVLKEYQQNDSAGAEAEANAEAPKTEA,Ustilago_maydis_RNA_binding_protein_Rrm4,protein,sequence
+566,MSWLLFLAHRVALAALPCRRGSRGFGMFYAVRRGRKTGVFLTWNECRAQVDRFPAARFKKFATEDEAWAFVRKSASPEVSEGHENQHGQESEAKASKRLREPLDGDGHESAEPYAKHMKPSVEPAPPVSRDTFSYMGDFVVVYTDGCCSSNGRRRPRAGIGVYWGPGHPLNVGIRLPGRQTNQRAEIHAACKAIEQAKTQNINKLVLYTDSMFTINGITNWVQGWKKNGWKTSAGKEVINKEDFVALERLTQGMDIQWMHVPGHSGFIGNEEADRLAREGAKQSE,human_RNase_H1,protein,sequence
+567,MTEYKLVVVGAGGVGKSALTIQLIQNHFVDEYDPTIEDSYRKQVVIDGETCLLDILDTAGQEEYSAMRDQYMRTGEGFLCVFAINNTKSFEDIHHYREQIKRVKDSEDVPMVLVGNKCDLPSRTVDTKQAQDLARSYGIPFIETSAKTRQRVEDAFYTLVREIRQYRLKKISKEEKTPGCVKIKKCIIM,Wild_type_KRAS_protein,protein,sequence
+568,MTLGRRLACLFLACVLPALLLGGTASEIVGGRRARPHAWPFMVSLQLRGGHFCGATLIAPNFVMSAAHCVANVNVRAVRVVLGAHNLSRREPTRQVFAVQRIFENGYDPVNLLNDIVILQLNGSATINANVQVAQLPAQGRRLGNGVQCLAMGWGLLGRNRGIASVLQELNVTVVTSLCRRSNVCTLVRGRQAGVCFGDSGSPLVCNGLIHGIASFVRGGCASGPDAFAPVAQFVNWIDSIIQRSEDNPCPHPRDPDPASRTH,Human_neutrophil_elastase,protein,sequence
+569,MTPDIQAPFLSLLLLFPVLTVANVPTLTTSDSINPRRTTPVSTTQSSPTSSPTKETSWSTTTTLLTASSPAPSPADGHDGASTPTSSPAPSPAASPGHDGASTPTSSPAPSPAASPGHDGASTPTSSPAPSPADGHDGASTPTSSPAPSPAASPGHNGTSSPTGSPAPSPAASPGHDGASTPTSSPAPSPADGHNGTSSPTGSPAPSPAASPGHDGASTPTSSPAPSPAASPGHNGTSSPTGSPAPSPTDGHDSAPSLTSSPAPSPTASPGQHGASSPTSSDTSSMTTRSMSSSMVTSAHKGTSSRATMTPVSKGTPSSVPSSETAPTAASHITRTAASSPSIALSTSSNPKTSQQLSVRVSLYFLSFRITNLQFNSSLENPQTSYYQELQRSIWGLILQIYKQRDFLGLSEIKFRPGSVVVELTLAFREGTTAEWVKAQFSQLEAHAASYNLTISGVSVYSAPFPSSAQAGSGVPGWGIALLVLVCVLVAIIYLIALVVCQCGRKKCEQLDVFPTLDAYHPMSEYSTYHTHGRYVPPGSTKRSPYEEVSAGNGGSNLSYTNLAATSAN,MUC1-5TR,protein,sequence
+570,MTPGKTSLVSLLLLLSLEAIVKAGITIPRNPGCPNSEDKNFPRTVMVNLNIHNRNTNTNPKRSSDYYNRSTSPWNLHRNEDPERYPSVIWEAKCRHLGCINADGNVDYHMNSVPIQQEILVLRREPPHCPNSFRLEKILVSVGCTCVTPIVHH,human_interleukin_17A,protein,sequence
+571,MTRCTADNSLTNPAYRRRTMATGEMKEFLGIKGTEPTDFGINSDAQDLPSPSRQASTRRMSIGESIDGKINDWEEPRLDIEGFVVDYFTHRIRQNGMEWFGAPGLPCGVQPEHEMMRVMGTIFEKKHAENFETFCEQLLAVPRISFSLYQDVVRTVGNAQTDQCPMSYGRLIGLISFGGFVAAKMMESVELQGQVRNLFVYTSLFIKTRIRNNWKEHNRSWDDFMTLGKQMKEDYERAEAEKVGRRKQNRRWSMIGAGVTAGAIGIVGVVVCGRMMFSL,CED-91-251-His6,protein,sequence
+572,MTSHYVIAIFALMSSCLATAGPEPGALCELSPVSASHPVQALMESFTVLSGCASRGTTGLPQEVHVLNLRTAGQGPGQLQREVTLHLNPISSVHIHHKSVVFLLNSPHPLVWHLKTERLATGVSRLFLVSEGSVVQFSSANFSLTAETEERNFPHGNEHLLNWARKEYGAVTSFTELKIARNIYIKVGEDQVFPPKCNIGKNFLSLNYLAEYLQPKAAEGCVMSSQPQNEEVHIIELITPNSNPYSAFQVDITIDIRPSQEDLEVVKNLILILKCKKSVNWVIKSFDVKGSLKIIAPNSIGFGKESERSMTMTKSIRDDIPSTQGNLVKWALDNGYSPITSYTMAPVANRFHLRLENNAEEMGDEEVHTIPPELRILLDPGALPALQNPPIRGGEGQNGGLPFPFPDISRRVWNEEGEDGLPRPKDPVIPSIQLFPGLREPEEVQGSVDIALSVKCDNEKMIVAVEKDSFQASGYSGMDVTLLDPTCKAKMNGTHFVLESPLNGCGTRPRWSALDGVVYYNSIVIQVPALGDSSGWPDGYEDLESGDNGFPGDMDEGDASLFTRPEIVVFNCSLQQVRNPSSFQEQPHGNITFNMELYNTDLFLVPSQGVFSVPENGHVYVEVSVTKAEQELGFAIQTCFISPYSNPDRMSHYTIIENICPKDESVKFYSPKRVHFPIPQADMDKKRFSFVFKPVFNTSLLFLQCELTLCTKMEKHPQKLPKCVPPDEACTSLDASIIWAMMQNKKTFTKPLAVIHHEAESKEKGPSMKEPNPISPPIFHGLDTLTVMGIAFAAFVIGALLTGALWYIYSHTGETAGRQQVPTSPPASENSSAAHSIGSTQSTPCSSSS,TGF-beta_type_III_receptor,protein,sequence
+573,MTVFLSFAFLAAILTHIGCSNQRRSPENSGRRYNRIQHGQCAYTFILPEHDGNCRESTTDQYNTNALQRDAPHVEPDFSSQKLQHLEHVMENYTQWLQKLENYIVENMKSEMAQIQQNAVQNHTATMLEIGTSLLSQTAEQTRKLTDVETQVLNQTSRLEIQLLENSLSTYKLEKQLLQQTNEILKIHEKNSLLEHKILEMEGKHKEELDTLKEEKENLQGLVTRQTYIIQELEKQLNRATTNNSVLQKQQLELMDTVHNLVNLCTKEGVLLKGGKREEEKPFRDCADVYQAGFNKSGIYTIYINNMPEPKKVFCNMDVNGGGWTVIQHREDGSLDFQRGWKEYKMGFGNPSGEYWLGNEFIFAITSQRQYMLRIELMDWEGNRAYSQYDRFHIGNEKQNYRLYLKGHTGTAGKQSSLILHGADFSTKDADNDNCMCKCALMLTGGWWFDACGPSNLNGMFYTAGQNHGKLNGIKWHYFKGPSYSLRSTTMMIRPLDF,angiopoietin_1,protein,sequence
+574,MVDREQLVQKARLAEQAERYDDMAAAMKNVTELNEPLSNEERNLLSVAYKNVVGARRSSWRVISSIEQKTSADGNEKKIEMVRAYREKIEKELEAVCQDVLSLLDNYLIKNCSETQYESKVFYLKMKGDYYRYLAEVATGEKRATVVESSEKAYSEAHEISKEHMQPTHPIRLGLALNYSVFYYEIQNAPEQACHLAKTAFDDAIAELDTLNEDSYKDSTLIMQLLRDNLTLWTSDQQDDDGGEGN,Recombinant_human_14-3-3gamma_protein,protein,sequence
+575,MVKSHIGSWILVLFVAMWSDVGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGGWGQGGSHSQWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGNDYEDRYYRENMYRYPNQVYYRPVDRYSNQNNFVHDCVNITVKQHTVTTTTKGENFTETDIKIMERVVEQMCITQYQRESQAYYQRGASVILFSSPPVILLISFLIFLIV,full-length_sheep_prion_protein_PrP23-234_V136_R154_Q171,protein,sequence
+576,MVKSHIGSWILVLFVAMWSDVGLCKKRPKPGGGWNTGGSRYPGQGSPGGNRYPPQGGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGWGQPHGGGGWGQGGTHGQWNKPSKPKTNMKHVAGAAAAGAVVGGLGGYMLGSAMSRPLIHFGSDYEDRYYRENMHRYPNQVYYRPVDQYSNQNNFVHDCVNITVKEHTVTTTTKGENFTETDIKMMERVVEQMCITQYQRESQAYYQRGASVILFSSPPVILLISFLIFLIVG,bovine_prion_protein,protein,sequence
+577,MVMGLGVLLLVFVLGLGLTPPTLAQDNSRYTHFLTQHYDAKPQGRDDRYCESIMRRRGLTSPCKDINTFIHGNKRSIKAICENKNGNPHRENLRISKSSFQVTTCKLHGGSPWPPCQYRATAGFRNVVVACENGLPVHLDQSIFRRP,HumanAngiogenin,protein,sequence
+578,MWQIVFFTLSCDLVLAAAYNNFRKSMDSIGKKQYQVQHGSCSYTFLLPEMDNCRSSSSPYVSNAVQRDAPLEYDDSVQRLQVLENIMENNTQWLMKLENYIQDNMKKEMVEIQQNAVQNQTAVMIEIGTNLLNQTAEQTRKLTDVEAQVLNQTTRLELQLLEHSLSTNKLEKQILDQTSEINKLQDKNSFLEKKVLAMEDKHIIQLQSIKEEKDQLQVLVSKQNSIIEELEKKIVTATVNNSVLQKQQHDLMETVNNLLTMMSTSNSAKDPTVAKEEQISFRDCAEVFKSGHTTNGIYTLTFPNSTEEIKAYCDMEAGGGGWTIIQRREDGSVDFQRTWKEYKVGFGNPSGEYWLGNEFVSQLTNQQRYVLKIHLKDWEGNEAYSLYEHFYLSSEELNYRIHLKGLTGTAGKISSISQPGNDFSTKDGDNDKCICKCSQMLTGGWWFDACGPSNLNGMYYPQRQNTNKFNGIKWYYWKGSGYSLKATTMMIRPAD,angiopoietin_2,protein,sequence
+579,"N)OC2C(C(C(C (O2)CN)O)O)N) OC3C(C(C(O3)
+CO)OC4C(C(C(
+C(O4)CN)O)O) N)O)O)",unknown,Small_molecule,smiles
+580,N3)C=C(C=C4) C(=NCCCN(C) C)N)N,unknown,Small_molecule,smiles
+581,N=C(N)NCCCCNC(=N)N,2-[4-(diaminomethylideneamino)butyl]guanidine,Small_molecule,smiles
+582,"N=C1N[C@@H
+]2CS[C@@H] ([C@H]2N1)CC CCC(=O)NCCO CCOCCNC(=O) CCCC[C@H]1[ C@@H]2NC(= N)N[C@H]2CS",biotin dimer,Small_molecule,smiles
+583,N=C1N[C@@H]2CS[C@@H]([C@H]2N1)CCCCC(=O)NCCOCCOCCNC(=O)CCCC[C@H]1[C@@H]2NC(=N)N[C@H]2CS1,biotin dimer,Small_molecule,smiles
+584,N=C1N[C@H]2 CS[C@H] ([C@@H]2N1) CCCCC(=O)NC COCCOCC,biotin PEO Amine,Small_molecule,smiles
+585,N=C1N[C@H]2CS[C@H]([C@@H]2N1)CCCCC(=O)NCCOCCOCCN,biotin PEO Amine,Small_molecule,smiles
+586,NC(=O)CC[C@H](N)C(=O),"(2S)-2,5-diamino-5-oxopentanoic acid",Small_molecule,smiles
+587,NC(=O)c1ncn([C@@H]2O[C@H](COP(=O)(O)O)[C@@H](O)[C@H]2O)c1,"[(2R,3S,4R,5R)-5-(5-amino-4-carbamoylimidazol-1-yl)-3,4-dihydroxyoxolan-2-yl]methyl dihydrogen phosphate",Small_molecule,smiles
+588,NC(=[NH2+])C 1=CC=C(N=C1) C1=CC=C(O1) C1=CC=C(O1) C1=NC=C(C=C 1)C(N)=[NH2+],DB1246,Small_molecule,smiles
+589,"NC(=[NH2+])C 1=CC=C(N=C1) C1=CC=C(S1)C 1=CC=C(S1)C1
+=NC=C(C=C1) C(N)=[NH2+]",DB1247,Small_molecule,smiles
+590,"NC(=[NH2+])C 1=CC=C(NC2= CC=C(C=C2)C2
+=CC3=CC=C(C
+=C3N2)C(N)=[ NH2+])C=C",Compound 2,Small_molecule,smiles
+591,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(O1)C1=CC=C(O1)C1=NC=C(C=C1)C(N)=[NH2+,DB1246,Small_molecule,smiles
+592,NC(=[NH2+])C1=CC=C(N=C1)C1=CC=C(S1)C1=CC=C(S1)C1=NC=C(C=C1)C(N)=[NH2+,DB1247,Small_molecule,smiles
+593,NC(=[NH2+])C1=CC=C(NC2=CC=C(C=C2)C2=CC3=CC=C(C=C3N2)C(N)=[NH2+])C=,Compound 2,Small_molecule,smiles
+594,"NC(=[NH2+])N CCC[C@H] ([NH3+])C(=O) NC1=CC2=C(C
+=C1)C1C3=CC
+=C(NC(=O)
+[C@@H] ([NH3+])CCCN
+C(N)=[NH2+])C
+=C3C2C2=C1C
+=CC(NC(=O)
+[C@@H] ([NH3+])CCCN
+C(N)=[NH2+])= C",Triptycene 2,Small_molecule,smiles
+595,NC(=[NH2+])NCCC[C@H](N)C(=O,[(4S)-4-amino-4-carboxybutyl]-(diaminomethylidene)azanium,Small_molecule,smiles
+596,NC(=[NH2+])NCCC[C@H](N)C(N),"diaminomethylidene-[(4S)-4,5-diamino-5-oxopentyl]azanium",Small_molecule,smiles
+597,NC(=[NH2+])NCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCNC(N)=[NH2+])=,Triptycene 2,Small_molecule,smiles
+598,NC1=CC=C(C= C1)C1=CC2=C C=C(C=C2N1) C1=[NH+]CCN ,Compound 1,Small_molecule,smiles
+599,NC1=CC=C(C=C1)C1=CC2=CC=C(C=C2N1)C1=[NH+]CCN1,Compound 1,Small_molecule,smiles
+600,NCC(=O,2-aminoacetic acid,Small_molecule,smiles
+601,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(C(C2O)N)O)N)C(CC1O)N,Compd 35,Small_molecule,smiles
+602,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(C(C2O)O)N)N)C(CC1O)N,Compd 32,Small_molecule,smiles
+603,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1O)OC1OC(CO)C(C(C1N)O)O),Compd 41,Small_molecule,smiles
+604,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1O)OC1OC(CO)C(C(C1O)O)N),Compd 37,Small_molecule,smiles
+605,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1OC1OC(CO)C(C(C1N)O)O)N),Compd 38,Small_molecule,smiles
+606,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1OC1OC(CO)C(C(C1O)N)O)O),Compd 34,Small_molecule,smiles
+607,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(CN)C(CC2N)O)N)C(C(C1OC1OC(CO)C(C(C1O)O)N)N),Compd 33,Small_molecule,smiles
+608,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(COC3OC(CN)C(C(C3O)O)O)C(C(C2N)O)N)N)C(CC1O),Compd 39,Small_molecule,smiles
+609,NCC1OC(OC2C(N)CC(C(C2O)OC2OC(COC3OC(CO)C(C(C3N)O)O)C(C(C2N)O)O)N)C(CC1O),Compd 36,Small_molecule,smiles
+610,NCCCCCC(=O)O,6-aminohexanoic acid,Small_molecule,smiles
+611,NCCCNCCO[C@@H]1[C@@H](O)[C@H](O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2N)[C@@H](N)C[C@H]1NC(=O)[C@H](O)CCN,"(2R)-4-amino-N-[(1R,2S,3R,4R,5S)-5-amino-4-[(2S,3R,4R,5S,6R)-3-amino-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-2-[2-(3-aminopropylamino)ethoxy]-3-hydroxycyclohexyl]-2-hydroxybutanamide",Small_molecule,smiles
+612,NCCCNCCO[C@H]1[C@H](O[C@@H]2[C@@H](O)[C@H](N)C[C@H](N)[C@H]2O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2N)O[C@H](CO)[C@H]1O[C@H]1O[C@@H](CN)[C@@H](O)[C@H](O)[C@H]1,"(2S,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(2R,3R,4R,5S)-4-[2-(3-aminopropylamino)ethoxy]-5-[(1R,2R,3S,5R,6S)-3,5-diamino-2-[(2S,3R,4R,5S,6R)-3-amino-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-hydroxycyclohexyl]oxy-2-(hydroxymethyl)oxolan-3-yl]oxyoxane-3,4-diol",Small_molecule,smiles
+613,NCCCOc1ccc(-c2ccc3[nH]ccc3c2)cc1CNCCN1CCNC,3-[4-(1H-indol-5-yl)-2-[(2-piperazin-1-ylethylamino)methyl]phenoxy]propan-1-amine,Small_molecule,smiles
+614,NCCNCCO[C@@H]1[C@@H](O)[C@H](O[C@H]2O[C@H](CN)[C@@H](O)[C@H](O)[C@H]2N)[C@@H](N)C[C@H]1NC(=O)[C@H](O)C,"(2R)-4-amino-N-[(1R,2S,3R,4R,5S)-5-amino-4-[(2R,3R,4R,5S,6R)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-2-[2-(2-aminoethylamino)ethoxy]-3-hydroxycyclohexyl]-2-hydroxybutanamide",Small_molecule,smiles
+615,NC[C@@H]1CC[C@@H](N)[C@@H](O)O,"(2S,3R,6S)-3-amino-6-(aminomethyl)oxan-2-ol",Small_molecule,smiles
+616,NC[C@@H]1O[C@H](O[C@H]2[C@@H](O)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CN)[C@@H](O)[C@H](O)[C@H]3N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H]1O,"(2R,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(2S,3R,4S,5R)-4-[(2R,3R,4R,5S,6S)-3-amino-6-(aminomethyl)-4,5-dihydroxyoxan-2-yl]oxy-3-hydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol",Small_molecule,smiles
+617,NC[C@@H]1O[C@H](O[C@H]2[C@@H](O)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H]1O,"(2S,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(2R,3S,4R,5S)-5-[(1R,2R,3S,5R,6S)-3,5-diamino-2-[(2S,3R,4R,5S,6R)-3-amino-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-hydroxycyclohexyl]oxy-4-hydroxy-2-(hydroxymethyl)oxolan-3-yl]oxyoxane-3,4-diol",Small_molecule,smiles
+618,NC[C@@H]1O[C@H](O[C@H]2[C@@H](OCCNCCc3ccccc3)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H]1,"(2S,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(2R,3R,4R,5S)-5-[(1R,2R,3S,5R,6S)-3,5-diamino-2-[(2S,3R,4R,5S,6R)-3-amino-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-hydroxycyclohexyl]oxy-2-(hydroxymethyl)-4-[2-(2-phenylethylamino)ethoxy]oxolan-3-yl]oxyoxane-3,4-diol",Small_molecule,smiles
+619,NC[C@@H]1O[C@H](O[C@H]2[C@@H](OCCNC[C@@H]3CCCNC3)[C@H](O[C@@H]3[C@@H](O)[C@H](N)C[C@H](N)[C@H]3O[C@H]3O[C@H](CO)[C@@H](O)[C@H](O)[C@H]3N)O[C@@H]2CO)[C@H](N)[C@@H](O)[C@@H],"(2S,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(2R,3R,4R,5S)-5-[(1R,2R,3S,5R,6S)-3,5-diamino-2-[(2S,3R,4R,5S,6R)-3-amino-4,5-dihydroxy-6-(hydroxymethyl)oxan-2-yl]oxy-6-hydroxycyclohexyl]oxy-2-(hydroxymethyl)-4-[2-[[(3R)-piperidin-3-yl]methylamino]ethoxy]oxolan-3-yl]oxyoxane-3,4-diol",Small_molecule,smiles
+620,NC[C@H]1O[C@@H](O[C@@H]2[C@@H](O)[C@H](N)C[C@H](N)[C@H]2O[C@H]2O[C@H](CO)[C@@H](O)[C@H](O)[C@H]2N)[C@H](O)[C@@H]1O,"(2R,3S,4R,5R,6S)-5-amino-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(2S,3R,4S,5R)-5-(aminomethyl)-3,4-dihydroxyoxolan-2-yl]oxy-3-hydroxycyclohexyl]oxy-2-(hydroxymethyl)oxane-3,4-diol",Small_molecule,smiles
+621,NC[C@H]1O[C@H](O[C@H]2[C@H](O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1,"(2R,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2,3-dihydroxycyclohexyl]oxyoxane-3,4-diol",Small_molecule,smiles
+622,NC[C@H]1O[C@H](O[C@H]2[C@H](O[C@@H]3O[C@H](CO)[C@@H](O)[C@H]3O)[C@@H](O)[C@H](N)C[C@@H]2N)[C@H](N)[C@@H](O)[C@@H]1,"(2R,3S,4R,5R,6R)-5-amino-2-(aminomethyl)-6-[(1R,2R,3S,4R,6S)-4,6-diamino-2-[(2S,3R,4S,5R)-3,4-dihydroxy-5-(hydroxymethyl)oxolan-2-yl]oxy-3-hydroxycyclohexyl]oxyoxane-3,4-diol",Small_molecule,smiles
+623,NCc1c[nH]c2nc(N)[nH]c(=O)c1,"2-amino-5-(aminomethyl)-3,7-dihydropyrrolo[2,3-d]pyrimidin-4-one",Small_molecule,smiles
+624,NCc1ccc(-c2csnn2)c,[4-(thiadiazol-4-yl)phenyl]methanamine,Small_molecule,smiles
+625,N[C@@H](CCCC[NH3+])C(=O),[(5S)-5-amino-5-carboxypentyl]azanium,Small_molecule,smiles
+626,N[C@@H](Cc1c[nH]c2ccc(O)cc12)C(=O,(2S)-2-amino-3-(5-hydroxy-1H-indol-3-yl)propanoic acid,Small_molecule,smiles
+627,N[C@@H]1C[C@H](N)[C@H]([C@H]([C@H]1OCCCc1nnn(c1)Cc1c(C)cc(c(c1C)Cn1nnc(c1)CCCO[C@@H]1[C@H](N)C[C@H]([C@@H]([C@H]1O)O)N)C)O),B-13,Small_molecule,smiles
+628,N[C@@H]1C[C@H](N)[C@H]([C@H]([C@H]1OCCCc1nnn(c1)Cc1ccc(cc1)Cn1nnc(c1)CCCO[C@@H]1[C@H](N)C[C@H]([C@@H]([C@H]1O)O)N)O)O,B-11,Small_molecule,smiles
+629,N[C@@H]1C[C@H](N)[C@H]([C@H]([C@H]1OCCCc1nnn(c1)Cc1cccc(n1)Cn1nnc(c1)CCCO[C@@H]1[C@H](N)C[C@H]([C@@H]([C@H]1O)O)N)O)O,B-14,Small_molecule,smiles
+630,"N[C@H] (C(=O)N[C@@ H] (C(=O)N[C@H]
+(C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]3CCC
+N3C(=O)c3cc4c (nc3CC)cccc4)C (=O)N[C@@H]
+(C(=O)NCCCN) CCCCN)CC(=O
+)N)c1CC)cccc2",unknown,Small_molecule,smiles
+631,N[Ir+3](N)(N)(N)(N,azanide;iridium(3+),Small_molecule,smiles
+632,Nc1cc(N)nc(N)n1,"pyrimidine-2,4,6-triamine",Small_molecule,smiles
+633,Nc1csc2nccnc,"thieno[2,3-b]pyrazin-7-amine",Small_molecule,smiles
+634,Nc1nc(=O)c2c(CCc3ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc3)c[nH]c2[nH]1,"(2S)-2-[[4-[2-(2-amino-4-oxo-3,7-dihydropyrrolo[2,3-d]pyrimidin-5-yl)ethyl]benzoyl]amino]pentanedioic acid",Small_molecule,smiles
+635,Nc1nc(=O)c2c([nH]1)NC[C@H](CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)N2C=,"(2S)-2-[[4-[[(6S)-2-amino-5-formyl-4-oxo-3,6,7,8-tetrahydropteridin-6-yl]methylamino]benzoyl]amino]pentanedioic acid",Small_molecule,smiles
+636,Nc1nc(=O)c2ncn([C@H]3C[C@H](O)[C@@H](CO)O3)c2[nH,"2-amino-9-[(2R,4S,5R)-4-hydroxy-5-(hydroxymethyl)oxolan-2-yl]-1H-purin-6-one",Small_molecule,smiles
+637,Nc1nc(Cl)c2nc[nH]c2n1,6-chloro-7H-purin-2-amine,Small_molecule,smiles
+638,Nc1nc(F)nc2nc[nH]c,2-fluoro-7H-purin-6-amine,Small_molecule,smiles
+639,Nc1nc(N)c2cncnc2n1,"pyrimido[4,5-d]pyrimidine-2,4-diamine",Small_molecule,smiles
+640,Nc1nc(N)c2nc[nH]c2,"7H-purine-2,6-diamine",Small_molecule,smiles
+641,Nc1nc2[nH]nc(N)[n+]2[nH],"2,5-dihydro-[1,2,4]triazolo[4,3-b][1,2,4]triazol-4-ium-3,6-diamine",Small_molecule,smiles
+642,Nc1nc2c(c(=O)[nH]1)CC=N2,"2-amino-3,5-dihydropyrrolo[2,3-d]pyrimidin-4-one",Small_molecule,smiles
+643,Nc1nc2c(c(=O)[nH]1)N(C=O)[C@@H](CNc1ccc(C(=O)N[C@@H](CCC(=O)O)C(=O)O)cc1)CN,"(2S)-2-[[4-[[(6S)-2-amino-5-formyl-4-oxo-3,6,7,8-tetrahydropteridin-6-yl]methylamino]benzoyl]amino]pentanedioic acid",Small_molecule,smiles
+644,Nc1nc2c(ncn2[C@@H]2O[C@@H]3CO[P@@](=O)(O)O[C@H]4[C@@H](O)[C@H](n5cnc6c(N)ncnc65)O[C@@H]4CO[P@@](=O)(O)O[C@H]3[C@H]2O)c(=O)[nH],"2-amino-9-[(1S,6R,8R,9R,10S,15R,17R,18R)-17-(6-aminopurin-9-yl)-3,9,12,18-tetrahydroxy-3,12-dioxo-2,4,7,11,13,16-hexaoxa-3lambda5,12lambda5-diphosphatricyclo[13.3.0.06,10]octadecan-8-yl]-1H-purin-6-one",Small_molecule,smiles
+645,Nc1nc2c(ncn2[C@@H]2O[C@@H]3CO[P@](=O)(O)O[C@H]4[C@@H](O)[C@H](n5cnc6c(=O)[nH]c(N)nc65)O[C@@H]4CO[P@](=O)(O)O[C@H]3[C@H]2O)c(=O)[nH]1,"2-amino-9-[(1S,6R,8R,9R,10S,15R,17R,18R)-17-(2-amino-6-oxo-1H-purin-9-yl)-3,9,12,18-tetrahydroxy-3,12-dioxo-2,4,7,11,13,16-hexaoxa-3lambda5,12lambda5-diphosphatricyclo[13.3.0.06,10]octadecan-8-yl]-1H-purin-6-one",Small_molecule,smiles
+646,Nc1nc2c(ncn2[C@@H]2O[C@H](CO[P@@](=O)(O)OP(=O)(O)O[P@](=O)(O)OC[C@H]3O[C@@H](n4cnc5c(=O)[nH]c(N)nc54)[C@H](O)[C@@H]3O)[C@@H](O)[C@H]2O)c(=O)[nH],"bis[[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] hydrogen phosphate",Small_molecule,smiles
+647,Nc1nc2c(ncn2[C@@H]2O[C@H](CO[P@](=O)(O)OP(=O)(O)O)[C@@H](O[P@](=O)(O)OP(=O)(O)O)[C@H]2O)c(=O)[nH,"[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-4-hydroxy-2-[[hydroxy(phosphonooxy)phosphoryl]oxymethyl]oxolan-3-yl] phosphono hydrogen phosphate",Small_molecule,smiles
+648,Nc1nc2c(ncn2[C@@H]2O[C@H](CO[P@](=O)(O)O[P@](=O)(O)OP(=O)(O)O)[C@@H](O)[C@H]2O)c(=O)[nH,"[[(2R,3S,4R,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3,4-dihydroxyoxolan-2-yl]methoxy-hydroxyphosphoryl] phosphono hydrogen phosphate",Small_molecule,smiles
+649,Nc1nc2c(ncn2[C@H]2C[C@H](O)[C@@H](COP(=O)(O)O)O2)c(=O)[nH,"[(2R,3S,5R)-5-(2-amino-6-oxo-1H-purin-9-yl)-3-hydroxyoxolan-2-yl]methyl dihydrogen phosphate",Small_molecule,smiles
+650,Nc1nc2ncncc2c(=O)[nH],"2-amino-3H-pyrimido[4,5-d]pyrimidin-4-one",Small_molecule,smiles
+651,Nc1ncc2nc[nH]c2,7H-purin-2-amine,Small_molecule,smiles
+652,Nc1ncnc(=O)[nH],"6-amino-1H-1,3,5-triazin-2-one",Small_molecule,smiles
+653,Nc1ncnc(N)n1,"1,3,5-triazine-2,4-diamine",Small_molecule,smiles
+654,Nc1ncnc2[nH]cnc,7H-purin-6-amine,Small_molecule,smiles
+655,Nc1ncnc2c1ncn2[C@@H]1O[C@@H]2CO[P@@](=O)(O)O[C@H]3[C@@H](O)[C@H](n4cnc5c(N)ncnc54)O[C@@H]3CO[P@@](=O)(O)O[C@H]2[C@H]1,"(1S,6R,8R,9R,10S,15R,17R,18R)-8,17-bis(6-aminopurin-9-yl)-3,12-dihydroxy-3,12-dioxo-2,4,7,11,13,16-hexaoxa-3lambda5,12lambda5-diphosphatricyclo[13.3.0.06,10]octadecane-9,18-diol",Small_molecule,smiles
+656,Nc1ncnc2c1ncn2[C@@H]1O[C@H](CSCC[C@H](N)C(=O)O)[C@@H](O)[C@H]1O,"(2S)-2-amino-4-[[(2S,3S,4R,5R)-5-(6-aminopurin-9-yl)-3,4-dihydroxyoxolan-2-yl]methylsulfanyl]butanoic acid",Small_molecule,smiles
+657,O)OC)O,unknown,Small_molecule,smiles
+658,"O1COc2c1cc(C(
+=O)N1[C@H] (C(=O)N[C@@ H] (C(=O)N[C@H]
+(C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]3CCC
+N3C(=O)c3cc4c",ligand 3-4,Small_molecule,smiles
+659,"O1COc2c1cc(C(
+=O)N1[C@H] (C(=O)N[C@@ H] (C(=O)N[C@H]
+(C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]3CCC
+N3C(=O)c3cc4c (nc3CC)cccc4)C (=O)N[C@@H]
+(C(=O)NCCCN) CCCCN)CCC1)
+c",ligand 3-4,Small_molecule,smiles
+660,"O1COc2c1cc(C(
+=O)N1[C@H] (C(=O)N[C@H]
+(C(=O)N[C@@ H] (C(=O)NCCCN) CCCCN)CSS",ligand 3-3,Small_molecule,smiles
+661,"O1COc2c1cc(C(
+=O)N1[C@H] (C(=O)N[C@H]
+(C(=O)N[C@@ H] (C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]3CCC N3C(=O)c3cc4 OCOc4cc3)C(= O)N[C@H]
+(C(=O)NCCCN) CCCCN)CCC1)
+c",ligand 3-3,Small_molecule,smiles
+662,O1COc2c1cc(C(=O)N1[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCCCN)CCCCN)CSSC[C@H](NC(=O)[C@@H]3CCCN3C(=O)c3cc4c(nc3CC)cccc4)C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CCC1)cc2,ligand 3-4,Small_molecule,smiles
+663,O1COc2c1cc(C(=O)N1[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CSSC[C@H](NC(=O)[C@@H]3CCCN3C(=O)c3cc4OCOc4cc3)C(=O)N[C@H](C(=O)NCCCN)CCCCN)CCC1)cc2,ligand 3-3,Small_molecule,smiles
+664,O=C(Cc1ccccc1)OCC1OC(=O)N[C@H]1CN1CCN(CC1)c1cccc,"Compound (4S,5R)-1",Small_molecule,smiles
+665,O=C(Cc1ccccc1)OC[C@H]1OC(=O)NC1CN1CCN(CC1)c1cccc,"Compound (4R,5S)-1",Small_molecule,smiles
+666,O=C(Nc1ccc(cc1)C(=O)C)OCC1OC(=O)N[C@H]1CN1CCN(CC1)c1ccccc,"Compound (4S,5R)-2",Small_molecule,smiles
+667,O=C(Nc1ccc(cc1)C(=O)C)OC[C@H]1OC(=O)NC1CN1CCN(CC1)c1ccccc,"Compound (4R,5S)-2",Small_molecule,smiles
+668,O=C(Nc1ccc(cc1)C(=O)C)OC[C@H]1OC(=O)N[C@H]1CN1CCN(CC1)c1cccc,Compound cis-2,Small_molecule,smiles
+669,O=C(OC(C),SMN2_compoun,Small_molecule,smiles
+670,O=C(OC(C)(C)C)NCCN1CCN(C[C@@H]1C)c1ccc2c(c1)oc(=O)c(c2)c1cn2c(n1)c(C)nc(c2),SMN2_compound_2,Small_molecule,smiles
+671,O=C1c2c(O)ccc(O)c2C(=O)c2c(NCCNCCO)ccc(NCCNCCO)c,"1,4-dihydroxy-5,8-bis[2-(2-hydroxyethylamino)ethylamino]anthracene-9,10-dione",Small_molecule,smiles
+672,O=P(O)(O)OC[C@H]1O[C@H](O[P@@](=O)(O)OP(=O)(O)O)[C@H](O)[C@@H]1,"[(2R,3R,4S,5R)-3,4-dihydroxy-5-(phosphonooxymethyl)oxolan-2-yl] phosphono hydrogen phosphate",Small_molecule,smiles
+673,O=c1[nH]c(=O)c2nc[nH]c2[nH],"3,7-dihydropurine-2,6-dione",Small_molecule,smiles
+674,O=c1[nH]cnc2nc[nH]c12,"1,7-dihydropurin-6-one",Small_molecule,smiles
+675,O=c1n2Cc3nc4s cc(c4c(=O)n3Cc 2nc2c1c(cs2)c1c coc1)c1ccco1,RGB-1,Small_molecule,smiles
+676,O=c1n2Cc3nc4scc(c4c(=O)n3Cc2nc2c1c(cs2)c1ccoc1)c1ccco1,RGB-1,Small_molecule,smiles
+677,"OC1CN(C1)Cc1
+ccc(cc1)C1CCN (CC1)C(=O)c1c
+(C)nc2n1cc",Compound 7,Small_molecule,smiles
+678,"OC1CN(C1)Cc1
+ccc(cc1)C1CCN (CC1)C(=O)c1c
+n(c2c1cccc2)C",Compound 6,Small_molecule,smiles
+679,OC1CN(C1)Cc1ccc(cc1)C1CCN(CC1)C(=O)c1c(C)nc2n1cc,Compound 7,Small_molecule,smiles
+680,OC1CN(C1)Cc1ccc(cc1)C1CCN(CC1)C(=O)c1cn(c2c1cccc2)C,Compound 6,Small_molecule,smiles
+681,"OCC1OC(OC2 C(N)CC(C(C2O
+)OC2OC(CNC(
+=O)c3ccc(c(c3) C(=O)O)c3c4cc c(=[N+]
+(C)C)cc4oc4c3c cc(c4)N(C)C)C( CC2N)O)N)C(C
+(C1O)N)",Tobramycin-CRT,Small_molecule,smiles
+682,OCC1OC(OC2C(N)CC(C(C2O)OC2OC(CNC(=O)c3ccc(c(c3)C(=O)O)c3c4ccc(=[N+](C)C)cc4oc4c3ccc(c4)N(C)C)C(C(C2N)O)O)N)C(C(C1O)N),CRK,Small_molecule,smiles
+683,OCC1OC(OC2C(N)CC(C(C2O)OC2OC(CNC(=O)c3ccc(c(c3)C(=O)O)c3c4ccc(=[N+](C)C)cc4oc4c3ccc(c4)N(C)C)C(CC2N)O)N)C(C(C1O)N),Tobramycin-CRT,Small_molecule,smiles
+684,OC[C@H]1O[C@H](O)[C@H](O)[C@@H]1O,"(2S,3R,4S,5R)-5-(hydroxymethyl)oxolane-2,3,4-triol",Small_molecule,smiles
+685,"OCc1ccc(cc1)C Cc1ccc(cc1)CO[ C@H]1[C@@H
+](C[C@H](N) [C@@H](O) [C@@H]1O)N",DOS_der_4,Small_molecule,smiles
+686,OCc1ccc(cc1)CCc1ccc(cc1)CO[C@H]1[C@@H](C[C@H](N)[C@@H](O)[C@@H]1O),DOS_der_4,Small_molecule,smiles
+687,"Oc1ccc2c(c1)c1 c(C)c3c[n+] (CCN4CCCCC4
+)ccc3c(c1[nH]2)",Compound 8,Small_molecule,smiles
+688,Oc1ccc2c(c1)c1c(C)c3c[n+](CCN4CCCCC4)ccc3c(c1[nH]2),Compound 8,Small_molecule,smiles
+689,PGGVQVSLLKEYYEDGYHIVRDIDSTVGVSISDASLPPRTWNGFLAPKTYKNVYIDTYHNQVFDDIFRTFTIDQHVKLACSLPHGRLRGADKPLIVKEWSGAMTDCAMYLNGRGIGSRFDGSFPSGKPSGACGARSKGSSSELSAQQKKDTLRYIEAQLDAFEVGAGWYFW,gp43,protein,sequence
+690,PHITDVVLDKANKTPLRQLDPSRLPDLIFEKAISEPNFSVAYANMCRCLMALKVPTTEKPTVTVNFRKLLLNRCQKEFEKDKDDDEVFEKKQKEMDEAATAEERGRLKEELEEARDIARRRSLGNIKFIGELFKLKMLTEAIMHDCVVKLLKNHDEESLECLCRLLTTIGKDLDFAKAKPRMDQYFNQMEKIIKEKKTSSRIRFMLQDVLDLRQSNWVPRRGDQGPKTIDQIHKEAEMEEHREHIKVQQLMAKGSDKRRGGPPGPPINRGLPLVDDGGWNTVPISKGSRPIDTSRLTKITKPGSIDSNNQLFAPGGRLSWGKGSSGGSGAKPSDTASEAWATLNRFSALQQTLPAENTDNRRVVQRSSLSRERGEKAGDRGDRLERSERGGDRGDRLDRTRTPATKRSFSKEVEERSRERPSQPEGLRKAASLTEDRGRDPVKREATLPPVSPPKAALSVDEVEKKSKAIIEEYLHLNDMKEAVQCVQELDSLLFIFVRLGIESTLERSTIAREHMGRLLHQLLCAGHLSTAQYYQGETLELAEDMEIDIPHVWLYLAELITPILQEDGVPMGELFREITKPLRPMGKATSLLLEILGLLCKSMGPKKVGMLWREAGLSWREFLAEGQDVGSFVAEKKVEYTLGEESEAPGQRTLAFEELRRQLEKLLKDGGSNQRVFDWIDANLNEQQINTLVRALMTTVCYSAIIFETPLRVDVQVLKVRARLLQKYLCDEQKELQALYALQALVVTLEQPANLLRMFFDALYDEDVVKEDAFYSWESSKDPAEQQGKGVALKSVTAFFNWLREAEDEESDH,eIF4G,protein,sequence
+691,PISPIDTVPVKLKPGMDGPKVKQWPLTEEKIKALTEICNEMEKEGKISKIGPENPYNTPVFAIKKKDSNKWRKLVDFRELNKRTQDFWEVQLGIPHPAGLKKKKSVTVLDVGDAYFSVPLDESFRKYTAFTIPSINNETPGVRYQYNVLPQGWKGSPAIFQCSMTKILEPXRXKNPEMVIYQYMDDLYVGSDLEIGQHRAKIEELRSHLLSWGFTTPDKKHQKEPPFLWMGYELHPDSWTVQPIELPEKDSWTVN,M3-HIV-1-RT,protein,sequence
+692,PISPIETVPVKLKPGMDGPKVKQWPLTEEKIKALVEICTELEKEGKNSKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNRKTQDFWEVQLGIPHPAGLKKKKSVTVLDVGDAYFSVPLDKDFRKYTAFTIPSINNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFRKQNPDIVIYQYMDDLYVGSDLEIGQHRTKIEELRQHLLKWGFYTPDKKHQKEPPFLWMGYELHPDKWTVQPIVLPEKDSWTVNDIQ,HIV-1_reverse_transcriptase,protein,sequence
+693,QDRPIKFSTEGATSQSYKQFIEALRERLRGGLIHDIPVLPDPTTLQERNRYITVELSNSDTESIEVGIDVTNAYVVAYRAGTQSYFLRDAPSSASDYLFTGTDQHSLPFYGTYGDLERWAHQSRQQIPLGLQALTHGISFFRSGGNDNEEKARTLIVIIQMVAEAARFRYISNRVRVSIQTGTAFQPDAAMISLENNWDNLSRGVQESVQDTFPNQVTLTNIRNEPVIVDSLSHPTVAVLALMLFVCNPPNANQSPLLIRSIVEKSKICSSRYEPTVRIGGRDGMCVDVYDNGYHNGNRIIMWKCKDRLEENQLWTLKSDKTIRSNGKCLTTYGYAPGSYVMIYDCTSAVAEATYWEIWDNGTIINPKSALVLSAESSSMGGTLTVQTNEYLMRQGWRTGNNTSPFVTSISGYSDLCMQAQGSNVWMADCDSNKKEQQWALYTDGSIRSVQNTNNCLTSKDHKQGSTILLMGCSNGWASQRWVFKNDGSIYSLYDDMVMDVKGSDPSLKQIILWPYTGKPNQIWLTLF,Abrin,protein,sequence
+694,QELLCAASLISDRWVLTAAHCLLYPPWDKNFTVNDILVRIGKYARSRYERNMEKISTLEKIIIHPGYNWRENLDRDIALMKLKKPVAFSDYIHPVCLPDKQIVTSLLQAGHKGRVTGWGNLKEMWTVNMNEVQPSVLQMVNLPLVERPICKASTGIRVTDNMFCAGYKPEEGKRGDACEGDSGGPFVMKNPYNNRWYQMGIVSWGEGCDRDGKYGFYTHVFRLKKWIRKMVDRF,Thrombin,protein,sequence
+695,QSVEESRGGLIKPTDTLTLTCTVSGFSLSSYGEVWDRQAPGNGLEYIGAIGNSGSTYYASWAKSRSTITRNTNLNTVTLKMTSLTAADTATYFCAR,Rabbit_immunoglobulin_G_IgG,protein,sequence
+696,RRIKRLEQEKLELSRKLQESTQTVQALQYSTVDGPLTASKDLEIKNLKEEIEKLRKQVTESSHLEQQLEEANAVRQELDDAFRQIKAYEKQIKTLQQEREDLNKELVQASERLKNQSKELKDAHCQRKLAMQEFMEIN,Myotonic_dystrophy_kinase-related_Cdc42-binding_kinase,protein,sequence
+697,SESGFNLSCQCLGFGSGHFKCDSSKWCHDNGVNYKIGEKWDRQGENGQMMSCTCLGNGKG,Fibronectin,protein,sequence
+698,SHGGLPCQNSQRGKRSFPAVEICKYKGPARIVVSLVTNEDTPRPHAHSLVGKHCKDGLCTVQVGPNDMTASFPNLGILHVTRKDVVPTLKTRILAQHRLYKDLINNSGGEGQWMEPSDQEIEKKAKEMAKDMDLSVVRLCFQTYLPDVKGHFTQPLEPVISVPVFDSKAPNATTLKICRMDKSAGCCTGGEEVYLLCDKVQKEVIQVKFFEVS,NF-kB,protein,sequence
+699,SNTRNFVLRDEDGNEHGVFTGKQPRQAALKAANRGSGTKANPDIIRLRERGTKKVHVFKAWKEIVDAPKNRPAWMPEKISKPFVKKERIEKLE,MC1_protein,protein,sequence
+700,SRWDSTQQRAVLAAAVEIMVKFSSQPHLAQVVAEDLLSPSVMDVGDFKISITEGLPSGVPCTSQWNSIAHWLLTLCALSETTNLSPDIIQANSLFSFYG,RNA_polymerase,protein,sequence
+701,VENLMVQELENFNPPFKLCLHKRDFIPGKWIIDNIIDSIEKSHKTVFVLSENFVKSEWCKYELDFSHFRLFDENNDAAILILLEPIEKKAIPQRFCKLRKIMNTKTYLEWPMDEAQREGFWVN,TLR2,protein,sequence
+702,VFTDNSSPPAVPQSFQVAHLHAPTGSGKSTKVPAAYAAQGYKVLVLNPSVAATLGFGAYMSKAHGVDPNIRTGVRTITTGSPITYSTYGKFLADGGCSGGAYDIIICDECHSTDATSILGIGTVLDQAETAGARLVVLATATPPGSVTVSHPNIEEVSTTGEIPFYGKAIPLEVIKGGRHLIFCHSKKKCDELAAKLVALGINAVAYYRGLDVSVIPTSGDVVVVSTDALMTGFTGDFDSVIDCNTCVTQTVDFSLDPTFTIETTTLPQDAVSRTQRRGRTGRGKPGIYRFVAPGERPSGMFDSSVLCECYDAGCAWYELTPAETTVRLRAYMNTPGLPVCQDHLEFWEGVFTGLTHIDAHFLSQTKQSGENFPYLVAYQATVCARAQAPPPSWDQMWKCLIRLKPTLHGPTPLLYRLGAVQNE,NS3_protein_of_hepatitis_C_virus,protein,sequence
+703,VVIRSNNFTDNAKTIIVQLNESIAINCWNNNTRKSIHIGPGRAFYTTGDIIGNIRQAHCNLSRTKWENTLKQIAKKLREQFGNKTIVF,HIV_gp120_V3,protein,sequence
+704,WPLTEEKIKALVEICXEMEKEGKISKIGPENPYNTPVFAIKKKDSTKWRKLVDFRELNKRTQDFWEVQLGIPHPAGLKKKKSVTVLDVGDAYFSVPLDEEFRKYTAFTIPSMNNETPGIRYQYNVLPQGWKGSPAIFQSSMTKILEPFRKQNPDXIIYQYMDDLYVGSDLEIGQHRTKVEELRQHLLXWGFTTPDKKHQKEPPFLWMGYELHP,HIV-RT,protein,sequence
+705,WWFFTLIIISSYTANLAAFLTVERMVSPIESAEDLSKQTEIAYGTLDSGSTKEFFRRSKIAVFDKMWTYMKSAEPSVFVRTTAEGVARVRKSKGKYAYLLESTMNEYIEQRKPCDTMKVGGNLDSKGYGIATPKGSSLRTPVNLAVLKLSEQGVLDKLKNKWWYDKGECGAKDSGSKGKTSALSLSNVAGVFYILVGGLGLAMLVIEFCYKSRAEAKRMKVAKNAQNINPTSLQNSQN,GluR2Qflip_Glutamate_receptor_channel,protein,sequence
+706,XQKLMPNFSDSFGGGSGAGAGGGGMFGSGGGGGSTGSPGPGYGYSNYGFPPYGGITFHPGVTKSNAGVTHGTINTKFKNGPKDCAKSDDEESLTLPEKETEGEGPSLPMACTKTEPIASTMEDKEQDMGFQDNLFLEKALQLARRHANALFDYAVTGDVKMLLAVQRHLTAVQDENGDSVLHLAIIHLHAQLVRDLLEVTSGLISDDIINMRNDLYQTPLHLAVITKQEDVVEDLLRVGADLSLLDRWGNSVLHLAAKEGHDRILSILLKSRKAAPLIDHPNGEGLNAIHIAVMSNSLPCLLLLVAAGAEVNAQEQKSGRTALHLAVEYDNISLAGCLLLEGDAHVDSTTYDGTTPLHIAAGRGSTRLAALLKAAGADPLVENFEPLYDLDDSWEKAGEDEGVVPGTTPLDMAANWQVFDILNGKPYEPVFTSDDILPQGDMKQLTEDTRLQLCKLLEIPDPDKNWATLAQKLGLGILNNAFRLSPAPSKTLMDNYEMNSGIVTASVTVVWRHPSANSALQSLLLETAHCYL,NFkappaB_p50,protein,sequence
+707,"[C@@H] ([C@H]
+(C1)N)O",unknown,Small_molecule,smiles
+708,"[C@@H](O)
+[C@@H]2O)N)
+[C@@H](O)
+[C@@H] ([C@H]
+(C1)N)O)",unknown,Small_molecule,smiles
+709,"[C@@H](O) [C@H] ([C@@H]
+([C@H]1N)OCS
+c1ccnc2c1ccc(c 2)C(F)(F)F)",unknown,Small_molecule,smiles
+710,[C@@H]1([C@ H]([C@H](O) [C@H] ([C@@H,B-12,Small_molecule,smiles
+711,[C@@H]1([C@H]([C@H](O)[C@H]([C@@H](C1)N)O)OCCCc1cn(nn1)Cc1cccc(Cn2cc(nn2)CCCO[C@H]2[C@@H](C[C@@H]([C@@H](O)[C@H]2O)N)N)c1)N,B-12,Small_molecule,smiles
+712,"[C@H]1([C@@ H]([C@H](O)
+[C@H]([C@H]
+(C1)N#N)O)OC
+c1ccc(cc1)c1ccc (cc1)CO[C@H] 1[C@H] (C[C@@H] ([C@@H](O) [C@@H]1O)N# N)N#N)N#N",DOS_der_3,Small_molecule,smiles
+713,[C@H]1([C@@H]([C@H](O)[C@H]([C@H](C1)N#N)O)OCc1ccc(cc1)c1ccc(cc1)CO[C@H]1[C@H](C[C@@H]([C@@H](O)[C@@H]1O)N#N)N#N)N,DOS_der_3,Small_molecule,smiles
+714,"[C@H]1([C@H]
+(OCc2ccc(cc2)C Cc2ccc(cc2)CO[ C@H]2[C@@H
+](C[C@H](",DOS_der_2,Small_molecule,smiles
+715,"[C@H]1([C@H]
+(OCc2ccc(cc2)C Cc2ccc(cc2)CO[ C@H]2[C@@H
+](C[C@H](N) [C@@H](O)
+[C@@H]2O)N)
+[C@@H](O",DOS_der_2,Small_molecule,smiles
+716,"[C@H]1([C@H]
+(OCc2ccc(cc2)C Cc2ccc(cc2)CO[ C@H]2[C@@H
+](C[C@H](N) [C@@H](O)
+[C@@H]2O)N)
+[C@@H](O)
+[C@@H] ([C@H]
+(C1)N)O)",DOS_der_2,Small_molecule,smiles
+717,"[C@H]1([C@H] (C[C@H]
+([C@H] ([C@H]1O)O[C
+@@H]1[C@@ H](C[C@@H]
+([C@@H] (O1)CN)O)N)N) N)O[C@@H]1[ C@H] ([C@@H]
+([C@H]
+([C@@H]
+(O1)CNc1c2ccc cc2nc2c1cccc2) O)N",Tobramycin,Small_molecule,smiles
+718,"[C@H]1([C@H] (OCCCCCCCC CCCCO[C@H] 2[C@@H] (C[C@H](N)
+[C@@H](O)
+[C@H]2O)N)
+[C@H](O) [C@H] ([C@@H]
+(C1)N)O",DOS_der_1,Small_molecule,smiles
+719,[C@H]1([C@H](C[C@H]([C@H]([C@H]1O)O[C@@H]1[C@@H](C[C@@H]([C@@H](O1)CN)O)N)N)N)O[C@@H]1[C@H]([C@@H]([C@H]([C@@H](O1)CNc1c2ccccc2nc2c1cccc2)O)N,Tobramycin,Small_molecule,smiles
+720,[C@H]1([C@H](OCCCCCCCCCCCCO[C@H]2[C@@H](C[C@H](N)[C@@H](O)[C@H]2O)N)[C@H](O)[C@H]([C@@H](C1)N)O),DOS_der_1,Small_molecule,smiles
+721,[C@H]1([C@H](OCc2ccc(cc2)CCc2ccc(cc2)CO[C@H]2[C@@H](C[C@H](N)[C@@H](O)[C@@H]2O)N)[C@@H](O)[C@@H]([C@H](C1)N)O)N,DOS_der_2,Small_molecule,smiles
+722,[H+].[H+].CC1=C(C2=CC3=C(C(=C([N-]3)C=C4C(=C(C(=N4)C=C5C(=C(C(=N5)C=C1[N-]2)C)C=C)C)C=C)C)CCC(=O)[O-])CCC(=O)[O-].C1=CN=CN1.C1=CN=CN1.[Fe+,ferroporphyrin,Small_molecule,smiles
+723,"[NH3+]CCCC[ C@H] ([NH3+])C(=O) NC1=CC2=C(C
+=C1)C1C3=CC
+=C(NC(=O)
+[C@@H] ([NH3+])CCCC [NH3+])C=C3C 2C2=C1C=CC( NC(=O)
+[C@@H] ([NH3+])CCCC [NH3+])=C2",Triptycene 1,Small_molecule,smiles
+724,[NH3+]CCCC[C@H]([NH3+])C(=O)NC1=CC2=C(C=C1)C1C3=CC=C(NC(=O)[C@@H]([NH3+])CCCC[NH3+])C=C3C2C2=C1C=CC(NC(=O)[C@@H]([NH3+])CCCC[NH3+])=,Triptycene 1,Small_molecule,smiles
+725,"[NH3+]CCNC1
+=C2OC=CC2",Anthrafurandion e 2a,Small_molecule,smiles
+726,"[NH3+]CCNC1
+=C2OC=CC2=C (NCC[NH3+])C 2=C1C(=O)C1= CC=CC=C1C2= O",Anthrafurandion e 2a,Small_molecule,smiles
+727,"[NH3+]CCNC1
+=C2SC=CC2=C (NCC[NH3+])C 2=C1C(=O)C1= CC=CC=C1C2= O",Anthrathiophene dione 2b,Small_molecule,smiles
+728,[NH3+]CCNC1=C2OC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=,Anthrafurandione 2a,Small_molecule,smiles
+729,[NH3+]CCNC1=C2SC=CC2=C(NCC[NH3+])C2=C1C(=O)C1=CC=CC=C1C2=,Anthrathiophenedione 2b,Small_molecule,smiles
+730,"c12c(c(c3c(n1)c ccc3)Nc1ccc(cc 1)CNC(=O) [C@H] (C(C)C)NC(=O) [C@H] (NC(=O)CCCN)
+CO)cccc2C(=O) N[C@@H] (C(=O)N)CCCN C(=N)",HTP 20,Small_molecule,smiles
+731,c12c(c(c3c(n1)cccc3)Nc1ccc(cc1)CNC(=O)[C@H](C(C)C)NC(=O)[C@H](NC(=O)CCCN)CO)cccc2C(=O)N[C@@H](C(=O)N)CCCNC(=N)N,HTP 20,Small_molecule,smiles
+732,"c12c(cc(cc1)OC
+) [C@@]1(C(=O) C=C2)C=C[C@ @H]2[C@@H] 1c1c([C@H]2O[ C@@H]2[C@H
+]([C@@H]
+([C@@H]
+([C@@H] (O2)C)O)O)NC)
+cc2c(c1)cccc","Neocarzinostatin
+_chromophore_d erivative_5",Small_molecule,smiles
+733,"c12c(cc(cc1)OC
+) [C@@]1(C(=O) C=C2)C=C[C@ @H]2[C@@H] 1c1c([C@H]2O[ C@@H]2[C@H
+]([C@@H] ([C@H]([C@H]
+(O2)CO)O)O)N)
+cc2c(c1)cccc","Neocarzinostatin
+_chromophore_d erivative_4",Small_molecule,smiles
+734,"c12c(cc(cc1)OC
+) [C@@]1(C(=O) C=C2)C=C[C@ H]2[C@H]1c1c( [C@@H]2O[C @@H]2[C@H] ([C@@H]
+([C@@H]
+([C@@H] (O2)C)O)O)NC)
+cc2c(c1)cccc2","Neocarzinostatin
+_chromophore_d erivative_6",Small_molecule,smiles
+735,c12c(cc(cc1)OC)[C@@]1(C(=O)C=C2)C=C[C@@H]2[C@@H]1c1c([C@H]2O[C@@H]2[C@H]([C@@H]([C@@H]([C@@H](O2)C)O)O)NC)cc2c(c1)ccc,Neocarzinostatin_chromophore_derivative_5,Small_molecule,smiles
+736,c12c(cc(cc1)OC)[C@@]1(C(=O)C=C2)C=C[C@@H]2[C@@H]1c1c([C@H]2O[C@@H]2[C@H]([C@@H]([C@H]([C@H](O2)CO)O)O)N)cc2c(c1)cccc2,Neocarzinostatin_chromophore_derivative_4,Small_molecule,smiles
+737,c12c(cc(cc1)OC)[C@@]1(C(=O)C=C2)C=C[C@H]2[C@H]1c1c([C@@H]2O[C@@H]2[C@H]([C@@H]([C@@H]([C@@H](O2)C)O)O)NC)cc2c(c1)cccc,Neocarzinostatin_chromophore_derivative_6,Small_molecule,smiles
+738,c12c(cccc1) [C@]1(C(=O)C,"Neocarzinostatin
+_chromophore_d",Small_molecule,smiles
+739,"c12c(cccc1) [C@]1(C(=O)C
+=C2)[C@@H] (O[C@@H]2[C
+@@H]1c1c(C2
+=O)cc2c(c1)ccc c2)O[C@@H]1[ C@H] ([C@@H] ([C@H]([C@H]
+(O1)CO)O)O)N","Neocarzinostatin
+_chromophore_d erivative_2",Small_molecule,smiles
+740,"c12c(cccc1) [C@]1([C@@H
+] (C=C2)O[C@H] 2[C@@H] ([C@H]
+([C@@H]
+([C@@H] (O2)CO)O)O)N) C(=O)O[C@H]
+2[C@@H]1c1c( C2=O)cc2c(c1)c cc","Neocarzinostatin
+_chromophore_d erivative_3",Small_molecule,smiles
+741,c12c(cccc1)[C@]1(C(=O)C=C2)[C@@H](O[C@@H]2[C@@H]1c1c(C2=O)cc2c(c1)cccc2)O[C@@H]1[C@H]([C@@H]([C@H]([C@H](O1)CO)O)O,Neocarzinostatin_chromophore_derivative_2,Small_molecule,smiles
+742,c12c(cccc1)[C@]1([C@@H](C=C2)O[C@H]2[C@@H]([C@H]([C@@H]([C@@H](O2)CO)O)O)N)C(=O)O[C@H]2[C@@H]1c1c(C2=O)cc2c(c1)ccc,Neocarzinostatin_chromophore_derivative_3,Small_molecule,smiles
+743,c12cc(ccc1c(c1c (n2)ccc(c1)OC) NCCCCc1c(nc( nc1N)N)N)C,"MBNL CCUG
+ligand 3",Small_molecule,smiles
+744,c12cc(ccc1c(c1c(n2)ccc(c1)OC)NCCCCc1c(nc(nc1N)N)N)C,MBNL CCUG ligand 3,Small_molecule,smiles
+745,c12ccccc1C(=O) [C@H]1[C@H] (C2=O)C(=CC= C1NCCO)NCC ,"SL3
+RNA_ligand12",Small_molecule,smiles
+746,c12ccccc1C(=O)[C@H]1[C@H](C2=O)C(=CC=C1NCCO)NCCO,SL3 RNA_ligand12,Small_molecule,smiles
+747,c1cc(N(c2ccc(-c3cc[n+]([Pt]45[NH2+]CC[NH+]4CC[NH2+]5)cc3)cc2)c2ccc(-c3cc[n+]([Pt]45[NH2+]CC[NH+]4CC[NH2+]5)cc3)cc2)ccc1-c1cc[n+]([Pt]23[NH2+]CC[NH+]2CC[NH2+]3)cc1,"N'-(2-aminoethyl)ethane-1,2-diamine;platinum;4-pyridin-4-yl-N,N-bis(4-pyridin-4-ylphenyl)aniline",Small_molecule,smiles
+748,c1ccc2c(CN3CCNCCNCCNCC3)ccnc2c,"4-(1,4,7,10-tetrazacyclododec-1-ylmethyl)quinoline",Small_molecule,smiles
+749,n1c2c(cc(C(=,ligand 2-4,Small_molecule,smiles
+750,"n1c2c(cc(C(=O) N3[C@H] (C(=O)N[C@H]
+(C(=O)N[C",ligand 4-4,Small_molecule,smiles
+751,"n1c2c(cc(C(=O) N3[C@H] (C(=O)N[C@H]
+(C(=O)N[C@@ H] (C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]4CCC
+N4C(=O)c4cc5c (nc4CC)cccc5)C (=O)N[C@@H]
+(C(=O)NCCCN) CCCCN)CCC3)
+c1CC)cccc",ligand 4-4,Small_molecule,smiles
+752,"n1c2c(cc(C(=O) N[C@H] (C(=O)N[C@@ H] (C(=O)N[C@H]
+(C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]3CCC
+N3C(=O)c3cc4c (nc3CC)cccc4)C (=O)N[C@@H]
+(C(=O)NCCCN",ligand 2-4,Small_molecule,smiles
+753,"n1c2c(cc(C(=O) N[C@H] (C(=O)N[C@@ H] (C(=O)N[C@H]
+(C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]3CCC
+N3C(=O)c3cc4c (nc3CC)cccc4)C (=O)N[C@@H]
+(C(=O)NCCCN) CCCCN)CC(=",ligand 2-4,Small_molecule,smiles
+754,"n1c2c(cc(C(=O) N[C@H] (C(=O)N[C@@ H] (C(=O)N[C@H]
+(C(=O)NCCCN) CCCCN)CSSC[ C@H](NC(=O) [C@@H]3CCC
+N3C(=O)c3cc4c (nc3CC)cccc4)C (=O)N[C@@H]
+(C(=O)NCCCN) CCCCN)CC(=O
+)N)c1CC)cccc2",ligand 2-4,Small_molecule,smiles
+755,n1c2c(cc(C(=O)N3[C@H](C(=O)N[C@H](C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CSSC[C@H](NC(=O)[C@@H]4CCCN4C(=O)c4cc5c(nc4CC)cccc5)C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CCC3)c1CC)ccc,ligand 4-4,Small_molecule,smiles
+756,n1c2c(cc(C(=O)N[C@H](C(=O)N[C@@H](C(=O)N[C@H](C(=O)NCCCN)CCCCN)CSSC[C@H](NC(=O)[C@@H]3CCCN3C(=O)c3cc4c(nc3CC)cccc4)C(=O)N[C@@H](C(=O)NCCCN)CCCCN)CC(=O)N)c1CC)cccc,ligand 2-4,Small_molecule,smiles
